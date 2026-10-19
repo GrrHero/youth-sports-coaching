@@ -544,6 +544,13 @@ def main():
     print(f'total: {len(weeks)} weeks, {n_act} activities, {n_cues} cue entries, {n_vid} videos, {n_top} field topics')
     if '--no-site' not in sys.argv:
         build_site()
+    # Kid-facing Pages data (data/plan.json)
+    if '--no-kid' not in sys.argv:
+        try:
+            import build_site as kid
+            kid.build()
+        except Exception as e:
+            print(f'kid site data: skipped ({e})', file=sys.stderr)
 
 
 if __name__ == '__main__':

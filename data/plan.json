@@ -1,0 +1,2427 @@
+{
+  "team": "THE GOONIES",
+  "tagline": "Goonies never say die!",
+  "league": "Cedar Park Youth League · 8U Coach Pitch",
+  "generated_by": "scripts/build_site.py",
+  "weeks": [
+    {
+      "num": 1,
+      "title": "Coaching Plan — Greg + the Boys (ages 7 & 5)",
+      "week_of": "Oct 11, 2026",
+      "monday": "2026-10-05",
+      "note": "Plan dated Oct 11, 2026; shown as the week of Mon Oct 5 for the calendar.",
+      "days": [
+        {
+          "day": "Mon",
+          "kind": "session",
+          "session": 1,
+          "sport": "Athleticism + Baseball",
+          "name": "Athlete Day + Throwing Intro",
+          "emoji": "🏃",
+          "time": "25 min",
+          "drills": [
+            {
+              "id": "w1s1-animal-walks",
+              "name": "Animal Walks",
+              "cue": "Animals",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Bear crawl like a strong bear.",
+                "Frog jump like a frog.",
+                "Crab walk with tummy up.",
+                "Flamingo stand on one foot!"
+              ],
+              "fun": "Dad does the animal walks too. Race him!",
+              "level_up": "Can you bear crawl backward?",
+              "videos": []
+            },
+            {
+              "id": "w1s1-running-form-cheek-to-cheek",
+              "name": "Running Form — Cheek to Cheek",
+              "cue": "Cheek to Cheek",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Sit down and pump your arms: cheek to cheek!",
+                "Stand up and march — opposite arm, opposite knee.",
+                "Jog with those arms pumping.",
+                "Race a short sprint!"
+              ],
+              "fun": "Race Dad's rolling ball to a cone. Or copy Dad's silly run, then \"fast style!\"",
+              "level_up": "Lean like you're about to fall — then GO!",
+              "videos": [
+                {
+                  "id": "rPTFJSOC9yg",
+                  "title": "Running Technique for Kids | Core Kids",
+                  "url": "https://www.youtube.com/watch?v=rPTFJSOC9yg",
+                  "thumb": "https://img.youtube.com/vi/rPTFJSOC9yg/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w1s1-throwing-intro-point-step-throw",
+              "name": "Throwing Intro — Point, Step, Throw",
+              "cue": "Point, Step, Throw",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Stand sideways. Point your glove at the target.",
+                "Show the ball to the fence behind you.",
+                "Step with your front foot and throw!",
+                "Finish with your hand by your other pocket."
+              ],
+              "fun": "Knock Down the Castle! Stack cups and smash them with throws.",
+              "level_up": "Hit Dad's glove (or the target) 3 times in a row!",
+              "videos": [
+                {
+                  "id": "o3Qz0LtQZ_I",
+                  "title": "Basic Throwing Mechanics | Baseball Drills",
+                  "url": "https://www.youtube.com/watch?v=o3Qz0LtQZ_I",
+                  "thumb": "https://img.youtube.com/vi/o3Qz0LtQZ_I/hqdefault.jpg"
+                },
+                {
+                  "id": "bjJs_yu6fvw",
+                  "title": "Baseball Throwing | Basic Techniques",
+                  "url": "https://www.youtube.com/watch?v=bjJs_yu6fvw",
+                  "thumb": "https://img.youtube.com/vi/bjJs_yu6fvw/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w1s1-freeze-tag-with-flamingos",
+              "name": "Freeze Tag with Flamingos",
+              "cue": "Flamingo",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Game",
+              "time": "4 min",
+              "steps": [
+                "Play freeze tag in the yard.",
+                "If you get tagged, freeze on ONE foot like a flamingo!",
+                "A high five from a friend unfreezes you.",
+                "Keep balancing until you're free!"
+              ],
+              "fun": "Biggest flamingo wins a cheer!",
+              "level_up": "Freeze on one foot for a whole 5-count.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-05"
+        },
+        {
+          "day": "Tue",
+          "kind": "session",
+          "session": 2,
+          "sport": "Soccer",
+          "name": "Soccer Dribbling + Balance",
+          "emoji": "⚽",
+          "time": "25 min",
+          "drills": [
+            {
+              "id": "w1s2-body-part-simon-says-with-a-ball",
+              "name": "Body Part Simon Says with a Ball",
+              "cue": "Simon Says",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Dribble the soccer ball with soft touches.",
+                "Dad calls a body part — stop the ball with that part!",
+                "Only move when Dad says Simon Says.",
+                "Keep the ball close the whole time."
+              ],
+              "fun": "Simon Says gets faster and sillier!",
+              "level_up": "Stop the ball with 3 different body parts in a row.",
+              "videos": [
+                {
+                  "id": "xEJfAJy3xrY",
+                  "title": "U6 Body Part Dribble Activity",
+                  "url": "https://www.youtube.com/watch?v=xEJfAJy3xrY",
+                  "thumb": "https://img.youtube.com/vi/xEJfAJy3xrY/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w1s2-dribbling-small-touches",
+              "name": "Dribbling — Small Touches",
+              "cue": "Small Touches",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Tap the ball with the inside of your foot — soft!",
+                "Keep the ball on a leash (close to you).",
+                "Walk then jog while dribbling.",
+                "Try both feet!"
+              ],
+              "fun": "Red light / green light while you dribble!",
+              "level_up": "Dribble around 3 cones without losing the ball.",
+              "videos": [
+                {
+                  "id": "PfI7RqQm4d0",
+                  "title": "U6 Red Light/Green Light Activity",
+                  "url": "https://www.youtube.com/watch?v=PfI7RqQm4d0",
+                  "thumb": "https://img.youtube.com/vi/PfI7RqQm4d0/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w1s2-balance-challenges",
+              "name": "Balance Challenges",
+              "cue": "Statue",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Stand on one foot like a flamingo.",
+                "Be a statue — tummy tight!",
+                "Try the other foot.",
+                "Can you balance while Dad makes funny faces?"
+              ],
+              "fun": "Flamingo Contest! Who balances longest while Dad tries to make you laugh?",
+              "level_up": "Balance for 10 seconds with your eyes closed!",
+              "videos": []
+            },
+            {
+              "id": "w1s2-sharks-and-minnows",
+              "name": "Sharks and Minnows",
+              "cue": "Swim",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "You are a minnow with a soccer ball.",
+                "Dribble across without the shark stealing it!",
+                "If your ball gets stolen, you become a shark.",
+                "Last minnow wins!"
+              ],
+              "fun": "Dad is the big scary shark — swim fast!",
+              "level_up": "Cross the ocean 3 times without getting caught.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-06"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "kind": "play",
+          "session": null,
+          "sport": "Play Day",
+          "name": "10-Minute Play Day",
+          "emoji": "🎮",
+          "time": "10 min",
+          "drills": [
+            {
+              "id": "w1-play",
+              "name": "Kid's Choice Play",
+              "cue": "Play!",
+              "sport": "Play Day",
+              "emoji": "🎮",
+              "kind": "Play",
+              "time": "10 min",
+              "steps": [
+                "Pick a favorite game from this week.",
+                "No new lessons — just play!",
+                "Invite Dad to play too.",
+                "Stop while it is still fun."
+              ],
+              "fun": "You are the coach today. You pick the game!",
+              "level_up": "Teach Dad a new rule for your game.",
+              "videos": []
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "kind": "session",
+          "session": 3,
+          "sport": "Baseball",
+          "name": "Catching + Tee Hitting",
+          "emoji": "⚾",
+          "time": "25–30 min",
+          "drills": [
+            {
+              "id": "w1s3-balloon-or-beach-ball-keep-up",
+              "name": "Balloon or Beach Ball Keep-Up",
+              "cue": "Eyes Up",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Keep a balloon or beach ball up in the air.",
+                "Use your hands — eyes on it!",
+                "Don't let it touch the ground.",
+                "Count how many taps you get!"
+              ],
+              "fun": "Team keep-up with Dad — beat your record!",
+              "level_up": "Get 10 taps in a row!",
+              "videos": []
+            },
+            {
+              "id": "w1s3-catching-eyes-on-it-fingers-up",
+              "name": "Catching — Eyes on It, Fingers Up",
+              "cue": "Eyes on It",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Eyes on the ball the whole way.",
+                "Fingers up for high balls (alligator for low).",
+                "Soft hands — squeeze when it lands.",
+                "Start close, then step back after each catch."
+              ],
+              "fun": "Catch Ladder! Every catch = one step back.",
+              "level_up": "Get 3 steps farther than where you started!",
+              "videos": [
+                {
+                  "id": "2mRuWPJS64E",
+                  "title": "How to Teach Baseball Catching to 5–7 Year Olds",
+                  "url": "https://www.youtube.com/watch?v=2mRuWPJS64E",
+                  "thumb": "https://img.youtube.com/vi/2mRuWPJS64E/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w1s3-tee-hitting-squish-the-bug",
+              "name": "Tee Hitting — Squish the Bug",
+              "cue": "Squish the Bug",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Feet wider than shoulders beside the tee.",
+                "Eyes on the ball.",
+                "Swing and squish the bug with your back foot!",
+                "Watch where the ball flies."
+              ],
+              "fun": "Home Run Derby! Farther cones = more points.",
+              "level_up": "Hit 3 balls past the middle cone!",
+              "videos": [
+                {
+                  "id": "dTDIriJq_6Y",
+                  "title": "Little League Tee Ball Newspaper Toss",
+                  "url": "https://www.youtube.com/watch?v=dTDIriJq_6Y",
+                  "thumb": "https://img.youtube.com/vi/dTDIriJq_6Y/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w1s3-run-the-bases",
+              "name": "Run the Bases",
+              "cue": "Go Go Go",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Game",
+              "time": "4 min",
+              "steps": [
+                "Start at home plate.",
+                "Run through first — don't stop on it!",
+                "Touch every base.",
+                "Slide into home with a big cheer!"
+              ],
+              "fun": "Race the bases against Dad's timer!",
+              "level_up": "Run all the way around without slowing at first.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-08"
+        },
+        {
+          "day": "Fri",
+          "kind": "session",
+          "session": 4,
+          "sport": "Flag Football",
+          "name": "Flag Football Day",
+          "emoji": "🏈",
+          "time": "25 min",
+          "drills": [
+            {
+              "id": "w1s4-tail-tag",
+              "name": "Tail Tag",
+              "cue": "Grab",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Tuck a flag or sock in your waistband.",
+                "Try to pull Dad's flag without losing yours!",
+                "Keep your feet moving.",
+                "When your flag is pulled, you're it!"
+              ],
+              "fun": "Everyone is a sneaky flag ninja!",
+              "level_up": "Pull Dad's flag 3 times before he gets yours.",
+              "videos": []
+            },
+            {
+              "id": "w1s4-flag-pulling-break-down-grab-rip",
+              "name": "Flag Pulling — Break Down, Grab, Rip",
+              "cue": "Grab, Rip",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Eyes on the belt — not the face!",
+                "Chop your feet to slow down.",
+                "Grab the flag and RIP it out!",
+                "Hold it up like a trophy."
+              ],
+              "fun": "Flag Collector! Dad wears lots of flags — steal them all!",
+              "level_up": "Pull 4 flags in 30 seconds!",
+              "videos": [
+                {
+                  "id": "Z9JWY_8JRKA",
+                  "title": "Flag Pulling Drills | NFL FLAG Football",
+                  "url": "https://www.youtube.com/watch?v=Z9JWY_8JRKA",
+                  "thumb": "https://img.youtube.com/vi/Z9JWY_8JRKA/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w1s4-running-with-the-ball-simple-catch",
+              "name": "Running with the Ball + Simple Catch",
+              "cue": "Hide It",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Tuck the ball high and tight — hide it!",
+                "Run to a cone without dropping it.",
+                "For a catch: make diamond hands!",
+                "Squeeze the ball to your chest."
+              ],
+              "fun": "Touchdown dance every time you score!",
+              "level_up": "Run 15 steps without the ball wiggling out.",
+              "videos": []
+            },
+            {
+              "id": "w1s4-mini-game",
+              "name": "Mini Game",
+              "cue": "Score",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Play a tiny flag football game.",
+                "One team runs, one team pulls flags.",
+                "Score by crossing the end zone!",
+                "Switch sides and play again."
+              ],
+              "fun": "Make up a team name and a touchdown dance!",
+              "level_up": "Score 2 touchdowns in one game!",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-09"
+        },
+        {
+          "day": "Sat",
+          "kind": "session",
+          "session": 5,
+          "sport": "Multi-sport",
+          "name": "Backyard Olympics",
+          "emoji": "🏆",
+          "time": "Fun Friday, 25–30 min",
+          "drills": [
+            {
+              "id": "w1s5-flamingo-stand",
+              "name": "Flamingo Stand",
+              "cue": "Statue",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Station",
+              "time": "3-4 min",
+              "steps": [
+                "Stand on one foot like a flamingo.",
+                "Hold as long as you can.",
+                "Switch feet and try again."
+              ],
+              "fun": "Be a statue — no wobbles!",
+              "level_up": "Beat your Monday time on each foot!",
+              "videos": []
+            },
+            {
+              "id": "w1s5-sprint-race",
+              "name": "Sprint Race",
+              "cue": "Cheek to Cheek",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Station",
+              "time": "3-4 min",
+              "steps": [
+                "Line up at the start.",
+                "Pump arms cheek to cheek.",
+                "Race to the finish!"
+              ],
+              "fun": "Dad starts sitting so the race is fair!",
+              "level_up": "Win 2 races in a row!",
+              "videos": []
+            },
+            {
+              "id": "w1s5-castle-knockdown",
+              "name": "Castle Knockdown",
+              "cue": "Point, Step, Throw",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Station",
+              "time": "3-4 min",
+              "steps": [
+                "Point your glove at the castle.",
+                "Step toward the bottles.",
+                "Throw and knock them down!"
+              ],
+              "fun": "Build the tallest cup castle you can!",
+              "level_up": "Knock down the whole castle in 3 throws!",
+              "videos": []
+            },
+            {
+              "id": "w1s5-catch-ladder",
+              "name": "Catch Ladder",
+              "cue": "Eyes on It",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Station",
+              "time": "3-4 min",
+              "steps": [
+                "Eyes on the ball.",
+                "Catch it soft.",
+                "Every catch = take one step back!"
+              ],
+              "fun": "How far back can you get?",
+              "level_up": "Get 3 steps farther than Monday!",
+              "videos": []
+            },
+            {
+              "id": "w1s5-dribble-gates",
+              "name": "Dribble Gates",
+              "cue": "Small Touches",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Station",
+              "time": "3-4 min",
+              "steps": [
+                "Set up little cone gates.",
+                "Soft touches with your feet.",
+                "Dribble through as many as you can in 45 seconds!"
+              ],
+              "fun": "Count your gates out loud!",
+              "level_up": "Beat your gate record!",
+              "videos": []
+            },
+            {
+              "id": "w1s5-flag-pull-challenge",
+              "name": "Flag Pull Challenge",
+              "cue": "Grab",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Station",
+              "time": "3-4 min",
+              "steps": [
+                "Dad wears lots of flags.",
+                "Eyes on the belt.",
+                "Grab and rip as many as you can in 30 seconds!"
+              ],
+              "fun": "You are the Flag Collector!",
+              "level_up": "Pull 4 flags before time is up!",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-10"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "kind": "rest",
+          "session": null,
+          "sport": "Rest",
+          "name": "Rest Day",
+          "emoji": "😴",
+          "time": "",
+          "drills": [
+            {
+              "id": "w1-rest",
+              "name": "Rest & Recover",
+              "cue": "Rest",
+              "sport": "Rest",
+              "emoji": "😴",
+              "kind": "Rest",
+              "time": "",
+              "steps": [
+                "No practice today.",
+                "Play outside for fun if you want.",
+                "Drink water and stretch if you feel sore.",
+                "Get ready for next week!"
+              ],
+              "fun": "Goonies rest so they can never say die tomorrow!",
+              "level_up": "Tell Dad your favorite drill from this week.",
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Coaching Plan: \"Same Skills, One Step Further\"",
+      "week_of": "Oct 12, 2026",
+      "monday": "2026-10-12",
+      "note": "",
+      "days": [
+        {
+          "day": "Mon",
+          "kind": "session",
+          "session": 1,
+          "sport": "Athleticism + Baseball",
+          "name": "Speed Starts & Belly-Button Throws",
+          "emoji": "🏃",
+          "time": "",
+          "drills": [
+            {
+              "id": "w2s1-timber-starts",
+              "name": "Timber Starts",
+              "cue": "Timber",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Stand tall like a tree, arms ready.",
+                "Lean forward from your ankles — don't bend!",
+                "When you tip — TIMBER! — explode into a sprint!",
+                "Sprint about 10 big steps, then walk back."
+              ],
+              "fun": "Dad is the lumberjack. Fake-outs like \"Tim… BURRITO!\" then real \"TIMBER!\"",
+              "level_up": "Beat your best Timber time!",
+              "videos": [
+                {
+                  "id": "77YR0tOHn44",
+                  "title": "Top 10 Sprint Acceleration Drills [#10 Falling Sprint]",
+                  "url": "https://www.youtube.com/watch?v=77YR0tOHn44",
+                  "thumb": "https://img.youtube.com/vi/77YR0tOHn44/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w2s1-belly-button-throws",
+              "name": "Belly-Button Throws",
+              "cue": "Belly",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "10 min",
+              "steps": [
+                "Stand sideways and point your glove at the target.",
+                "Step toward the target.",
+                "Turn your belly button to face the target — then throw!",
+                "Finish with your hand in your other pocket."
+              ],
+              "fun": "Distance levels like a video game! Hit the target to unlock the next level.",
+              "level_up": "Reach Level 3 (one giant step farther)!",
+              "videos": [
+                {
+                  "id": "6T5WWG1E8WM",
+                  "title": "How To Teach 6-8 Year Olds To Catch A Baseball",
+                  "url": "https://www.youtube.com/watch?v=6T5WWG1E8WM",
+                  "thumb": "https://img.youtube.com/vi/6T5WWG1E8WM/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w2s1-turnaround-races",
+              "name": "Turnaround Races",
+              "cue": "Chop",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Sprint to the cone on \"Timber!\"",
+                "Near the cone: tiny chop steps.",
+                "Touch the cone, turn, and sprint back!",
+                "Chop, touch, GO!"
+              ],
+              "fun": "Sports announcer voice! Loser picks the next silly rule.",
+              "level_up": "Beat Dad (he has to hop)!",
+              "videos": []
+            },
+            {
+              "id": "w2s1-melting-snowman",
+              "name": "Melting Snowman",
+              "cue": "Melt",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Stand tall like a snowman. Big snow breaths.",
+                "The sun comes out — melt slowly to the ground.",
+                "Hug your knees and rock.",
+                "Show Dad today's throwing word with no ball!"
+              ],
+              "fun": "Sizzle… drip… melt! Slowest melt wins.",
+              "level_up": "Melt for a full 10-count without rushing!",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-12"
+        },
+        {
+          "day": "Tue",
+          "kind": "session",
+          "session": 2,
+          "sport": "Soccer",
+          "name": "Locked Ankles, Both Feet, First Shots",
+          "emoji": "⚽",
+          "time": "",
+          "drills": [
+            {
+              "id": "w2s2-skip-hop-trail",
+              "name": "Skip & Hop Trail",
+              "cue": "Step-Hop",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Skip along the cone trail — step-hop, step-hop!",
+                "At the end, hop and stick a ninja landing.",
+                "Quiet feet wake fewer giants!",
+                "Go again a little faster."
+              ],
+              "fun": "Dad is the sleeping giant. Loud landings wake him up!",
+              "level_up": "Skip the whole trail with whisper-quiet landings!",
+              "videos": [
+                {
+                  "id": "UHctZqezc9U",
+                  "title": "Teaching Kids How to Skip",
+                  "url": "https://www.youtube.com/watch?v=UHctZqezc9U",
+                  "thumb": "https://img.youtube.com/vi/UHctZqezc9U/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w2s2-gate-passing",
+              "name": "Gate Passing",
+              "cue": "Lock",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Skill Work",
+              "time": "10 min, split with the 5yo block below",
+              "steps": [
+                "Lock your ankle (firm foot).",
+                "Pass the ball through the cone gate to Dad.",
+                "Use the inside of your foot.",
+                "Every pass through the gate = a point!"
+              ],
+              "fun": "Shrink the gate after every 5 points — boss level!",
+              "level_up": "Get 5 gate passes in a row!",
+              "videos": [
+                {
+                  "id": "yOXrf0TIphg",
+                  "title": "How to Pass A Soccer Ball",
+                  "url": "https://www.youtube.com/watch?v=yOXrf0TIphg",
+                  "thumb": "https://img.youtube.com/vi/yOXrf0TIphg/hqdefault.jpg"
+                },
+                {
+                  "id": "yk5Gku_Ojas",
+                  "title": "#4. How to teach: Passing › Inside foot | Soccer skills in PE (grade K-6)",
+                  "url": "https://www.youtube.com/watch?v=yk5Gku_Ojas",
+                  "thumb": "https://img.youtube.com/vi/yk5Gku_Ojas/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w2s2-soccer-bowling-bonus-shot",
+              "name": "Soccer Bowling + Bonus Shot",
+              "cue": "Lock",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Lock your ankle and pass at the bottle pins.",
+                "Knock pins down for points!",
+                "Bonus: take a shot on goal after!",
+                "Reset and go again."
+              ],
+              "fun": "Dad is a terrible goalie who dives too late!",
+              "level_up": "Knock down all the pins in one turn!",
+              "videos": []
+            },
+            {
+              "id": "w2s2-ball-roll-stretch",
+              "name": "Ball Roll Stretch",
+              "cue": "Slow Roll",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Sit with legs out, ball on your shins.",
+                "Slow-roll the ball toward your toes.",
+                "Roll it back up.",
+                "Breathe slow — sleepy soccer legs."
+              ],
+              "fun": "Whoever rolls slowest without stopping wins!",
+              "level_up": "Do 5 super-slow rolls without the ball falling off.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-13"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-14",
+          "kind": "play",
+          "session": null,
+          "sport": "Play Day",
+          "name": "10-Minute Play Day",
+          "emoji": "🎮",
+          "time": "10 min",
+          "drills": [
+            {
+              "id": "w2-play",
+              "name": "Kid's Choice Play",
+              "cue": "Play!",
+              "sport": "Play Day",
+              "emoji": "🎮",
+              "kind": "Play",
+              "time": "10 min",
+              "steps": [
+                "Pick a favorite game from this week.",
+                "No new lessons — just play!",
+                "Invite Dad to play too.",
+                "Stop while it is still fun."
+              ],
+              "fun": "You are the coach today. You pick the game!",
+              "level_up": "Teach Dad a new rule for your game.",
+              "videos": []
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "kind": "session",
+          "session": 3,
+          "sport": "Baseball",
+          "name": "Moving to the Ball & Full Swing",
+          "emoji": "⚾",
+          "time": "",
+          "drills": [
+            {
+              "id": "w2s3-mirror-shuffle",
+              "name": "Mirror Shuffle",
+              "cue": "Wide",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Face Dad in a wide ready stance.",
+                "Shuffle the same way Dad shuffles — you're a mirror!",
+                "Stay low and wide.",
+                "Don't lose your mirror partner!"
+              ],
+              "fun": "Copycat mode! Mirror for 20 seconds to become the leader.",
+              "level_up": "Lead the mirror for a whole round!",
+              "videos": []
+            },
+            {
+              "id": "w2s3-shuffle-snag",
+              "name": "Shuffle & Snag",
+              "cue": "Feet",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "5 min",
+              "steps": [
+                "Ready position — feet first!",
+                "Shuffle to the ball (don't reach only).",
+                "Snag it in your glove.",
+                "Toss it back and go again."
+              ],
+              "fun": "Call \"FEET!\" before every toss.",
+              "level_up": "Snag 5 balls in a row after shuffling!",
+              "videos": [
+                {
+                  "id": "6T5WWG1E8WM",
+                  "title": "How To Teach 6-8 Year Olds To Catch A Baseball",
+                  "url": "https://www.youtube.com/watch?v=6T5WWG1E8WM",
+                  "thumb": "https://img.youtube.com/vi/6T5WWG1E8WM/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w2s3-rock-step-squish-swing-soft-front-toss",
+              "name": "Rock-Step-Squish swing + soft front toss",
+              "cue": "Rock",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "5 min",
+              "steps": [
+                "Rock: load your hands and weight back.",
+                "Step: front foot toward the ball.",
+                "Squish the bug and swing!",
+                "Soft toss from Dad — eyes on it."
+              ],
+              "fun": "Say \"Rock, Step, Squish\" out loud each swing!",
+              "level_up": "Hit 3 fair balls in a row!",
+              "videos": [
+                {
+                  "id": "rV3EQ5tHcNE",
+                  "title": "How to Soft Toss | YOUTH BASEBALL AND SOFTBALL",
+                  "url": "https://www.youtube.com/watch?v=rV3EQ5tHcNE",
+                  "thumb": "https://img.youtube.com/vi/rV3EQ5tHcNE/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w2s3-zone-derby",
+              "name": "Zone Derby",
+              "cue": "Rock",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Hit the ball into scoring zones.",
+                "Close = 1, middle = 2, far = 3!",
+                "Use Rock-Step-Squish on every swing.",
+                "Add up your points!"
+              ],
+              "fun": "Home-run trot + crowd noise for any 3-point hit!",
+              "level_up": "Score 8 points in one round!",
+              "videos": []
+            },
+            {
+              "id": "w2s3-glove-pillow",
+              "name": "Glove Pillow",
+              "cue": "Pillow",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Lie down with your glove as a pillow.",
+                "Slow breaths — in and out.",
+                "Think of your best catch today.",
+                "Tell Dad one thing you did awesome."
+              ],
+              "fun": "Glove pillow fort. Cozy champion vibes.",
+              "level_up": "Stay quiet and still for 5 whole breaths.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-15"
+        },
+        {
+          "day": "Fri",
+          "kind": "session",
+          "session": 4,
+          "sport": "Flag Football",
+          "name": "Routes, Grips & Soft-Football Catches",
+          "emoji": "🏈",
+          "time": "",
+          "drills": [
+            {
+              "id": "w2s4-freeze-cuts",
+              "name": "Freeze Cuts",
+              "cue": "Plant",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Jog around the yard.",
+                "On the call, plant your outside foot!",
+                "Cut hard the other way.",
+                "Freeze like a statue when music stops!"
+              ],
+              "fun": "Freeze-dance cuts to music!",
+              "level_up": "Make 5 sharp cuts without falling.",
+              "videos": []
+            },
+            {
+              "id": "w2s4-route-cards-laces-grip",
+              "name": "Route Cards + Laces Grip",
+              "cue": "Five",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Skill Work",
+              "time": "10 min",
+              "steps": [
+                "Huddle up and call a route.",
+                "Run your five steps and cut.",
+                "Catch it and race to the end zone!",
+                "Touchdown dance!"
+              ],
+              "fun": "Real huddles, team name, and a dance every score!",
+              "level_up": "Score 2 touchdowns!",
+              "videos": [
+                {
+                  "id": "803CND760i4",
+                  "title": "How to Catch a Football | NFL FLAG Drills",
+                  "url": "https://www.youtube.com/watch?v=803CND760i4",
+                  "thumb": "https://img.youtube.com/vi/803CND760i4/hqdefault.jpg"
+                },
+                {
+                  "id": "W9558zWeIws",
+                  "title": "How to hold a football the RIGHT way",
+                  "url": "https://www.youtube.com/watch?v=W9558zWeIws",
+                  "thumb": "https://img.youtube.com/vi/W9558zWeIws/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w2s4-route-call-touchdown",
+              "name": "Route Call Touchdown",
+              "cue": "Five",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Huddle up and call a route.",
+                "Run your five steps and cut.",
+                "Catch it and race to the end zone!",
+                "Touchdown dance!"
+              ],
+              "fun": "Real huddles, team name, and a dance every score!",
+              "level_up": "Score 2 touchdowns!",
+              "videos": []
+            },
+            {
+              "id": "w2s4-playbook-draw",
+              "name": "Playbook Draw",
+              "cue": "Walk-Through",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Sit, sip water, 3 slow breaths.",
+                "Draw your favorite play in the dirt or on paper.",
+                "Walk through it slow with Dad.",
+                "Name your play something awesome!"
+              ],
+              "fun": "Your playbook gets a cool cover name!",
+              "level_up": "Teach your play to Dad in under 30 seconds.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-16"
+        },
+        {
+          "day": "Sat",
+          "kind": "session",
+          "session": 5,
+          "sport": "Multi-sport",
+          "name": "Teach-Back Day & the Triple Threat Course",
+          "emoji": "🏆",
+          "time": "",
+          "drills": [
+            {
+              "id": "w2s5-movement-dice",
+              "name": "Movement Dice",
+              "cue": "Roll",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Roll the dice!",
+                "1=skip, 2=hop, 3=shuffle, 4=bear crawl, 5=sprint, 6=Dad does it too!",
+                "Do that move across the yard.",
+                "Roll again!"
+              ],
+              "fun": "A 6 means Dad has to do the goofy move!",
+              "level_up": "Complete every number 1–6 once!",
+              "videos": []
+            },
+            {
+              "id": "w2s5-coach-big-brother",
+              "name": "Coach Big Brother",
+              "cue": "Coach",
+              "sport": "Multi-sport",
+              "emoji": "🏆",
+              "kind": "Skill Work",
+              "time": "the full teach-back, 10 min",
+              "steps": [
+                "You are the coach today!",
+                "Pick one skill and teach it to Dad (or a sibling).",
+                "Use the cue word like a real coach.",
+                "Watch them try — give a high five!"
+              ],
+              "fun": "Whistle + clipboard. Call yourself Coach!",
+              "level_up": "Teach a full drill without Dad helping.",
+              "videos": []
+            },
+            {
+              "id": "w2s5-triple-threat-course",
+              "name": "Triple Threat Course",
+              "cue": "Next",
+              "sport": "Multi-sport",
+              "emoji": "🏆",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Station 1: throw at a target (say Belly!).",
+                "Station 2: dribble through gates (Small Touches!).",
+                "Station 3: pull a flag (Grab!).",
+                "Race the course — quality over crazy speed!"
+              ],
+              "fun": "Podium ceremony! Fastest AND Most Focused awards.",
+              "level_up": "Finish the course clean with all 3 cues said out loud!",
+              "videos": []
+            },
+            {
+              "id": "w2s5-week-wrap-circle",
+              "name": "Week Wrap Circle",
+              "cue": "Best Thing",
+              "sport": "Multi-sport",
+              "emoji": "🏆",
+              "kind": "Cool-down",
+              "time": "4 min",
+              "steps": [
+                "Sit in a circle and stretch.",
+                "Say the best thing you did this week.",
+                "Say one cue word you love.",
+                "Cheer for each other!"
+              ],
+              "fun": "Week wrap high-five train!",
+              "level_up": "Remember 3 different cue words from the week!",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-17"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-18",
+          "kind": "rest",
+          "session": null,
+          "sport": "Rest",
+          "name": "Rest Day",
+          "emoji": "😴",
+          "time": "",
+          "drills": [
+            {
+              "id": "w2-rest",
+              "name": "Rest & Recover",
+              "cue": "Rest",
+              "sport": "Rest",
+              "emoji": "😴",
+              "kind": "Rest",
+              "time": "",
+              "steps": [
+                "No practice today.",
+                "Play outside for fun if you want.",
+                "Drink water and stretch if you feel sore.",
+                "Get ready for next week!"
+              ],
+              "fun": "Goonies rest so they can never say die tomorrow!",
+              "level_up": "Tell Dad your favorite drill from this week.",
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Home Training Plan: \"Catch It, Then Send It\"",
+      "week_of": "Oct 19, 2026",
+      "monday": "2026-10-19",
+      "note": "",
+      "days": [
+        {
+          "day": "Mon",
+          "kind": "session",
+          "session": 1,
+          "sport": "Baseball",
+          "name": "Ground Balls & Target Throws",
+          "emoji": "⚾",
+          "time": "25 min",
+          "drills": [
+            {
+              "id": "w3s1-popcorn-ready",
+              "name": "Popcorn Ready",
+              "cue": "Popcorn",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Jog or skip around the yard.",
+                "When Dad claps and yells POPCORN — pop into ready!",
+                "Feet wide, knees bent, glove out, eyes up.",
+                "Hold 2 seconds, then jog again!"
+              ],
+              "fun": "You're corn in a hot pan! Fake claps try to trick you.",
+              "level_up": "After you pop, shuffle 2 steps the way Dad points!",
+              "videos": []
+            },
+            {
+              "id": "w3s1-alligator-grounders",
+              "name": "Alligator Grounders",
+              "cue": "Chomp",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "7 min",
+              "steps": [
+                "Get in Popcorn ready.",
+                "Glove down to the grass — eat the grass!",
+                "When the ball rolls in: CHOMP with your top hand!",
+                "Pull it to your belly and throw it back."
+              ],
+              "fun": "You're an alligator! Balls are fish. Count fish eaten!",
+              "level_up": "Chomp 8 fish before any swim past you!",
+              "videos": [
+                {
+                  "id": "jzilP9aE10Y",
+                  "title": "Alligator hands",
+                  "url": "https://www.youtube.com/watch?v=jzilP9aE10Y",
+                  "thumb": "https://img.youtube.com/vi/jzilP9aE10Y/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s1-crow-hop-target-throws",
+              "name": "Crow Hop Target Throws",
+              "cue": "Scoot",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "7 min",
+              "steps": [
+                "Face the target with the ball.",
+                "Little scoot-hop — back foot lands sideways.",
+                "Front foot steps at the target.",
+                "Throw and finish by your opposite pocket!"
+              ],
+              "fun": "Hoop = 3 points, fence = 1. Pick: same distance or step back for double points?",
+              "level_up": "Score 10 points in 5 throws!",
+              "videos": [
+                {
+                  "id": "98nYdcKaSsM",
+                  "title": "Youth Baseball Drills: Throw with Crow Hop",
+                  "url": "https://www.youtube.com/watch?v=98nYdcKaSsM",
+                  "thumb": "https://img.youtube.com/vi/98nYdcKaSsM/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s1-grounder-goalie",
+              "name": "Grounder Goalie",
+              "cue": "Middle",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Stand in the middle of the cone goal.",
+                "Dad rolls grounders to score.",
+                "Shuffle so your body is in the MIDDLE, then Chomp!",
+                "First to 7 wins!"
+              ],
+              "fun": "Dad is the evil striker. You are the world's best goalie!",
+              "level_up": "After a clean chomp, crow-hop throw at the target for bonus!",
+              "videos": []
+            },
+            {
+              "id": "w3s1-glove-boat",
+              "name": "Glove Boat",
+              "cue": "Float",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Lie on your back, glove on your tummy.",
+                "Breathe in — the boat floats up.",
+                "Breathe out — the boat sinks.",
+                "Five sleepy boat breaths."
+              ],
+              "fun": "Quiet lake story while the boats float…",
+              "level_up": "Keep the glove on for 5 breaths without touching it!",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-19"
+        },
+        {
+          "day": "Tue",
+          "kind": "session",
+          "session": 2,
+          "sport": "Soccer",
+          "name": "First Touch, Shots & Shielding",
+          "emoji": "⚽",
+          "time": "26 min",
+          "drills": [
+            {
+              "id": "w3s2-piano-toe-taps",
+              "name": "Piano Toe Taps",
+              "cue": "Piano",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Put the ball under your toes.",
+                "Tap tap tap like playing piano!",
+                "Keep your head up.",
+                "Count your taps — beat your record!"
+              ],
+              "fun": "Play music and tap to the beat!",
+              "level_up": "Beat your tap record by 5!",
+              "videos": []
+            },
+            {
+              "id": "w3s2-pillow-first-touch",
+              "name": "Pillow First Touch",
+              "cue": "Pillow",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Dad rolls or tosses the ball to you.",
+                "Cushion it like a soft pillow — don't let it bounce away!",
+                "Guide it toward a little gate.",
+                "Then pass it back."
+              ],
+              "fun": "The ball is a wild egg — don't crack it!",
+              "level_up": "Two gate touches in a row without a crack!",
+              "videos": [
+                {
+                  "id": "cvJjbP80cR0",
+                  "title": "Passing Drill for Youth Players: First Touch into Space",
+                  "url": "https://www.youtube.com/watch?v=cvJjbP80cR0",
+                  "thumb": "https://img.youtube.com/vi/cvJjbP80cR0/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s2-shoelace-shots",
+              "name": "Shoelace Shots",
+              "cue": "Shoelaces",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Plant your non-kicking foot by the ball.",
+                "Kick with your shoelaces (top of the foot).",
+                "Swing through toward the goal.",
+                "Name your shot — Thunder Rocket!"
+              ],
+              "fun": "Corner towels = 3 points. Anywhere in = 1.",
+              "level_up": "Hit a corner for 3 points!",
+              "videos": [
+                {
+                  "id": "AwbuY5mAq-g",
+                  "title": "Kids soccer SHOOTING basics ⚽️",
+                  "url": "https://www.youtube.com/watch?v=AwbuY5mAq-g",
+                  "thumb": "https://img.youtube.com/vi/AwbuY5mAq-g/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s2-treasure-keeper",
+              "name": "Treasure Keeper",
+              "cue": "Shell",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Game",
+              "time": "7 min",
+              "steps": [
+                "Guard your soccer-ball treasure!",
+                "Dad tries to steal it for 10 seconds.",
+                "Use your body like a shell — keep him out!",
+                "Switch: now YOU are the pirate!"
+              ],
+              "fun": "Arrrr! Pirate voices and a loud countdown!",
+              "level_up": "Protect the treasure for a full 10 seconds!",
+              "videos": []
+            },
+            {
+              "id": "w3s2-sleepy-sole-rolls",
+              "name": "Sleepy Sole Rolls",
+              "cue": "Sleepy",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Put your foot on top of the ball.",
+                "Slow-roll it with your sole.",
+                "Keep it sleepy-slow — no stopping.",
+                "Tuck the ball in when you finish."
+              ],
+              "fun": "The ball is falling asleep. Slowest roller tucks it in best!",
+              "level_up": "Roll for 20 seconds without the ball escaping.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-20"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-21",
+          "kind": "play",
+          "session": null,
+          "sport": "Play Day",
+          "name": "10-Minute Play Day",
+          "emoji": "🎮",
+          "time": "10 min",
+          "drills": [
+            {
+              "id": "w3-play",
+              "name": "Kid's Choice Play",
+              "cue": "Play!",
+              "sport": "Play Day",
+              "emoji": "🎮",
+              "kind": "Play",
+              "time": "10 min",
+              "steps": [
+                "Pick a favorite game from this week.",
+                "No new lessons — just play!",
+                "Invite Dad to play too.",
+                "Stop while it is still fun."
+              ],
+              "fun": "You are the coach today. You pick the game!",
+              "level_up": "Teach Dad a new rule for your game.",
+              "videos": []
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "kind": "session",
+          "session": 3,
+          "sport": "Flag Football",
+          "name": "Handoffs, Throws & Evasion",
+          "emoji": "🏈",
+          "time": "27 min",
+          "drills": [
+            {
+              "id": "w3s3-moonwalk-backpedal",
+              "name": "Moonwalk Backpedal",
+              "cue": "Moonwalk",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Face Dad and backpedal like a moonwalk!",
+                "Stay on your toes, eyes up.",
+                "Keep a force-field gap from Dad.",
+                "If he taps you — silly dance!"
+              ],
+              "fun": "Dad is a robot chasing your force field!",
+              "level_up": "Backpedal 10 steps without crossing your feet!",
+              "videos": []
+            },
+            {
+              "id": "w3s3-window-handoffs",
+              "name": "Window Handoffs",
+              "cue": "Window",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Skill Work",
+              "time": "7 min",
+              "steps": [
+                "Make a window with your elbow up and hands open.",
+                "Dad (QB) places the ball in your window.",
+                "Squeeze it tight — hide it!",
+                "Burst upfield 5 steps."
+              ],
+              "fun": "5 clean handoffs = Super Bowl spike!",
+              "level_up": "Get 5 clean handoffs in a row!",
+              "videos": [
+                {
+                  "id": "pemHnTPHbUA",
+                  "title": "The Handoff | Fun Flag Football Drills by MOJO",
+                  "url": "https://www.youtube.com/watch?v=pemHnTPHbUA",
+                  "thumb": "https://img.youtube.com/vi/pemHnTPHbUA/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s3-phone-call-throws",
+              "name": "Phone Call Throws",
+              "cue": "Phone",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Hold the ball by your ear like a phone.",
+                "Step and throw to the basket target.",
+                "Follow through — hang up the phone!",
+                "Basket = touchdown!"
+              ],
+              "fun": "Phone-call celebration: \"Hello, Mom? I scored!\"",
+              "level_up": "Score 2 touchdowns (basket catches)!",
+              "videos": []
+            },
+            {
+              "id": "w3s3-mr-wolf-flag-escape",
+              "name": "Mr. Wolf Flag Escape",
+              "cue": "Zigzag",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Game",
+              "time": "6 min",
+              "steps": [
+                "Mr. Wolf (Dad) faces away.",
+                "Sneak closer when he says a time!",
+                "When he turns — ZIGZAG and escape!",
+                "Don't let the wolf pull your flag!"
+              ],
+              "fun": "Huge hungry wolf voice. 13 o'clock is allowed!",
+              "level_up": "Escape without your flag getting pulled!",
+              "videos": []
+            },
+            {
+              "id": "w3s3-starfish-seashell",
+              "name": "Starfish & Seashell",
+              "cue": "Starfish",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Lie down and stretch wide like a starfish.",
+                "Then curl up small like a seashell.",
+                "Slow ocean breaths.",
+                "Starfish… seashell… repeat."
+              ],
+              "fun": "Ocean story: waves wash over the starfish…",
+              "level_up": "Do 5 slow starfish-seashells without rushing.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-22"
+        },
+        {
+          "day": "Fri",
+          "kind": "session",
+          "session": 4,
+          "sport": "Athleticism",
+          "name": "Jump, Land, Bound, React",
+          "emoji": "🏃",
+          "time": "25 min",
+          "drills": [
+            {
+              "id": "w3s4-puppet-skips",
+              "name": "Puppet Skips",
+              "cue": "Puppet",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Skip tall — strings pulling your knees up!",
+                "Swing your arms like a puppet.",
+                "When Dad drops the strings — flop!",
+                "Pop back up and skip again."
+              ],
+              "fun": "Dad is the puppet master. Flop = comedy gold!",
+              "level_up": "Skip across the yard with high puppet knees!",
+              "videos": []
+            },
+            {
+              "id": "w3s4-whisper-landings",
+              "name": "Whisper Landings",
+              "cue": "Whisper",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Jump up high!",
+                "Land soft like a whisper — bend your knees.",
+                "Quiet feet = more points!",
+                "Stick the landing like glue."
+              ],
+              "fun": "Dad judges with eyes closed. Silent = 3 points!",
+              "level_up": "Get two silent landings in a row!",
+              "videos": [
+                {
+                  "id": "60N3vdH6NgI",
+                  "title": "Elementary physical education and assessment- jumping and landing",
+                  "url": "https://www.youtube.com/watch?v=60N3vdH6NgI",
+                  "thumb": "https://img.youtube.com/vi/60N3vdH6NgI/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s4-skater-bounds",
+              "name": "Skater Bounds",
+              "cue": "Skater",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Skill Work",
+              "time": "5 min",
+              "steps": [
+                "Hop side to side like a speed skater.",
+                "Stick each landing for a second.",
+                "Swing your arms for balance.",
+                "Smooth gold-medal skates!"
+              ],
+              "fun": "Olympic commentary on every clean stick!",
+              "level_up": "Do 6 skater bounds without a wobble!",
+              "videos": []
+            },
+            {
+              "id": "w3s4-pounce",
+              "name": "Pounce",
+              "cue": "Pounce",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Game",
+              "time": "6 min",
+              "steps": [
+                "Ready like a cheetah.",
+                "When Dad drops or rolls the ball — POUNCE!",
+                "Catch or smother it fast.",
+                "Reset and hunt again!"
+              ],
+              "fun": "You're a cheetah, balls are rabbits. Fridge record chart!",
+              "level_up": "Pounce 5 rabbits in a row — then step one step farther back!",
+              "videos": []
+            },
+            {
+              "id": "w3s4-sloth-crawl-tunnel",
+              "name": "Sloth Crawl Tunnel",
+              "cue": "Sloth",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Crawl slow like a sloth.",
+                "Keep your tummy off the hot lava floor!",
+                "Go through Dad's tunnel arms.",
+                "Slowest sloth wins."
+              ],
+              "fun": "Sloth noises required. Floor is lava jungle!",
+              "level_up": "Crawl the tunnel without touching lava.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-23"
+        },
+        {
+          "day": "Sat",
+          "kind": "session",
+          "session": 5,
+          "sport": "Mixed Backyard Day",
+          "name": "Fly Balls, Run-Throughs & the Triple Crown",
+          "emoji": "🏆",
+          "time": "28 min",
+          "drills": [
+            {
+              "id": "w3s5-orbit-ball-wraps",
+              "name": "Orbit Ball Wraps",
+              "cue": "Orbit",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Circle the ball around your waist — orbit!",
+                "Then around your knees.",
+                "Then around your head (careful!).",
+                "Try moon-speed: slow, medium, rocket!"
+              ],
+              "fun": "You're a planet, the ball is your moon!",
+              "level_up": "Two-clap challenge: wrap, clap twice, wrap again!",
+              "videos": []
+            },
+            {
+              "id": "w3s5-umbrella-fly-balls",
+              "name": "Umbrella Fly Balls",
+              "cue": "Umbrella",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Get under the ball like an umbrella!",
+                "Move your feet early.",
+                "Catch it above your head when you can.",
+                "Eyes on it the whole way."
+              ],
+              "fun": "Rainstorm! Catch every drop Dad tosses!",
+              "level_up": "Catch 5 raindrops in a row!",
+              "videos": [
+                {
+                  "id": "_QC-pBhoZWg",
+                  "title": "How to Teach Kids How to Catch Fly Balls",
+                  "url": "https://www.youtube.com/watch?v=_QC-pBhoZWg",
+                  "thumb": "https://img.youtube.com/vi/_QC-pBhoZWg/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s5-tape-run-throughs",
+              "name": "Tape Run-Throughs",
+              "cue": "Tape",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "5 min",
+              "steps": [
+                "Sprint toward the tape (finish line).",
+                "Run STRAIGHT THROUGH — don't stop early!",
+                "Break the tape like an Olympian!",
+                "Slow down AFTER the line."
+              ],
+              "fun": "Announcer voice: \"...and he BREAKS THE TAPE!\"",
+              "level_up": "Beat your best tape time!",
+              "videos": [
+                {
+                  "id": "b0xQ3p4L6sU",
+                  "title": "Little League Tee Ball Baserunning Drill. Helping tee ball players to run through first base.",
+                  "url": "https://www.youtube.com/watch?v=b0xQ3p4L6sU",
+                  "thumb": "https://img.youtube.com/vi/b0xQ3p4L6sU/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w3s5-the-backyard-triple-crown",
+              "name": "The Backyard Triple Crown",
+              "cue": "Next",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Game",
+              "time": "8 min",
+              "steps": [
+                "Event 1: fly-ball catches.",
+                "Event 2: run through the tape.",
+                "Event 3: throw at a target.",
+                "Add your scores — Triple Crown champ!"
+              ],
+              "fun": "Championship announcer + paper crown!",
+              "level_up": "Beat Dad's Number to pick next week's warm-up!",
+              "videos": []
+            },
+            {
+              "id": "w3s5-highlight-replay",
+              "name": "Highlight Replay",
+              "cue": "Replay",
+              "sport": "Multi-sport",
+              "emoji": "🏆",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Pick your best play of the day.",
+                "Act it out in slow motion!",
+                "Dad announces the replay.",
+                "Freeze for the highlight photo!"
+              ],
+              "fun": "Announcer: \"He's under it… CAUGHT IT!\"",
+              "level_up": "Replay 2 different awesome moments!",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-24"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-25",
+          "kind": "rest",
+          "session": null,
+          "sport": "Rest",
+          "name": "Rest Day",
+          "emoji": "😴",
+          "time": "",
+          "drills": [
+            {
+              "id": "w3-rest",
+              "name": "Rest & Recover",
+              "cue": "Rest",
+              "sport": "Rest",
+              "emoji": "😴",
+              "kind": "Rest",
+              "time": "",
+              "steps": [
+                "No practice today.",
+                "Play outside for fun if you want.",
+                "Drink water and stretch if you feel sore.",
+                "Get ready for next week!"
+              ],
+              "fun": "Goonies rest so they can never say die tomorrow!",
+              "level_up": "Tell Dad your favorite drill from this week.",
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Home Training Plan: \"Aim It, Fake It, Lead It\"",
+      "week_of": "Oct 26, 2026",
+      "monday": "2026-10-26",
+      "note": "",
+      "days": [
+        {
+          "day": "Mon",
+          "kind": "session",
+          "session": 1,
+          "sport": "Baseball",
+          "name": "Aim the Swing & Field-and-Fire",
+          "emoji": "⚾",
+          "time": "28 min",
+          "drills": [
+            {
+              "id": "w4s1-shadow-infield",
+              "name": "Shadow Infield",
+              "cue": "Shadow",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Copy Dad like a shadow — same moves at the same time!",
+                "Shuffle, field an imaginary grounder, hop and throw.",
+                "Go slow, then a little faster.",
+                "Last rounds: YOU are the leader!"
+              ],
+              "fun": "Do it to music. Add a surprise freeze or goofy slow-mo dive!",
+              "level_up": "Lead 2 whole shadow sequences for Dad to copy.",
+              "videos": []
+            },
+            {
+              "id": "w4s1-laser-gate-front-toss",
+              "name": "Laser Gate Front Toss",
+              "cue": "Laser",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "8 min",
+              "steps": [
+                "Get in your hitting stance.",
+                "Dad soft-tosses the ball to you.",
+                "Hit a laser through the cone gate!",
+                "Aim up the middle — then try the opposite-field gate."
+              ],
+              "fun": "You are a laser cannon — \"pew!\" for every gate hit. Chase YOUR best round.",
+              "level_up": "Hit 3 lasers through the gate in one round!",
+              "videos": [
+                {
+                  "id": "Re0coPbz55M",
+                  "title": "Ripken Baseball Hitting Tip - Basic Front Toss",
+                  "url": "https://www.youtube.com/watch?v=Re0coPbz55M",
+                  "thumb": "https://img.youtube.com/vi/Re0coPbz55M/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s1-field-and-fire-to-first",
+              "name": "Field-and-Fire to First",
+              "cue": "Tick-tock",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "7 min",
+              "steps": [
+                "Ready for a grounder — Popcorn!",
+                "TICK: chomp the ball clean.",
+                "TOCK: scoot-hop and throw to first!",
+                "Ball in the basket = OUT!"
+              ],
+              "fun": "Count outs. Three outs = victory lap around the bases!",
+              "level_up": "Get 3 outs in a row with a clean tick-tock.",
+              "videos": [
+                {
+                  "id": "PfmEL02N0ns",
+                  "title": "Crow Hop + Throwing Progression Drill",
+                  "url": "https://www.youtube.com/watch?v=PfmEL02N0ns",
+                  "thumb": "https://img.youtube.com/vi/PfmEL02N0ns/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s1-beat-the-runner",
+              "name": "Beat the Runner",
+              "cue": "Race",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Game",
+              "time": "6 min",
+              "steps": [
+                "Dad rolls a grounder, then runs to first!",
+                "Field it (tick) and throw to first (tock).",
+                "Beat the runner for an OUT!",
+                "First to 5 wins."
+              ],
+              "fun": "Radio announcer voice and dramatic slides!",
+              "level_up": "Get 3 outs before Dad scores 3 safes.",
+              "videos": []
+            },
+            {
+              "id": "w4s1-pancake-stretch",
+              "name": "Pancake Stretch",
+              "cue": "Pancake",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Sit with legs out. Roll the ball down to your toes.",
+                "Butterfly sit — knees drop like pancakes.",
+                "Lie flat as a pancake. Three slow breaths.",
+                "Tell Dad which gate you hit the most!"
+              ],
+              "fun": "What kind of pancake are you today — chocolate chip or home-run?",
+              "level_up": "Do 5 slow pancake rolls without rushing.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-26"
+        },
+        {
+          "day": "Tue",
+          "kind": "session",
+          "session": 2,
+          "sport": "Soccer",
+          "name": "Fake It, Slice It, Beat the Troll",
+          "emoji": "⚽",
+          "time": "26 min",
+          "drills": [
+            {
+              "id": "w4s2-bumper-car-dribble",
+              "name": "Bumper Car Dribble",
+              "cue": "Heads-up",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "Dribble your ball with soft touches.",
+                "Keep your head UP — look for traffic!",
+                "Steer around Dad the bumper car.",
+                "Don't crash your ball into anyone!"
+              ],
+              "fun": "Beep beep! Dad breaks down in your path on purpose.",
+              "level_up": "Dribble 20 seconds heads-up without looking at your feet.",
+              "videos": []
+            },
+            {
+              "id": "w4s2-the-pretend-shot",
+              "name": "The Pretend Shot",
+              "cue": "Trick",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Run at Dad with the ball.",
+                "Fake a big shot — sell it!",
+                "Then take the ball the other way (Trick!).",
+                "Escape past him to the gate."
+              ],
+              "fun": "Oscar points for the most dramatic fake. Dad falls for it hilariously!",
+              "level_up": "Fool Dad with your fake 3 times in a row!",
+              "videos": [
+                {
+                  "id": "b2HBI-X_ez4",
+                  "title": "3 Essential Soccer Moves. Fake & Take, Pullbacks & Roll to Hide ⚽",
+                  "url": "https://www.youtube.com/watch?v=b2HBI-X_ez4",
+                  "thumb": "https://img.youtube.com/vi/b2HBI-X_ez4/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s2-slice-away-escape",
+              "name": "Slice-Away Escape",
+              "cue": "Slice",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Dribble toward the lava line.",
+                "SLICE the ball sideways with the inside of your foot!",
+                "Burst through the escape gate.",
+                "Keep the ball close the whole time."
+              ],
+              "fun": "The line is lava! Count escapes in a row.",
+              "level_up": "Slice-escape 4 times without losing the ball.",
+              "videos": [
+                {
+                  "id": "60nDcFWaa8I",
+                  "title": "Inside Cut - 1v1 Moves - Change of Direction - Crossing - Soccer (Football) Skills for U8-U9",
+                  "url": "https://www.youtube.com/watch?v=60nDcFWaa8I",
+                  "thumb": "https://img.youtube.com/vi/60nDcFWaa8I/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s2-bridge-troll-1v1",
+              "name": "Bridge Troll 1v1",
+              "cue": "Sneak",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Game",
+              "time": "7 min",
+              "steps": [
+                "Dad is the troll on the bridge.",
+                "Use Trick or Slice to sneak past!",
+                "Get your ball across for a point.",
+                "Switch: now YOU are the troll!"
+              ],
+              "fun": "Big troll voice. Stolen balls get dramatic munching!",
+              "level_up": "Beat the troll 3 times with a real move (not just speed).",
+              "videos": []
+            },
+            {
+              "id": "w4s2-lighthouse-stretch",
+              "name": "Lighthouse Stretch",
+              "cue": "Lighthouse",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Stand tall like a lighthouse.",
+                "Slowly sweep your arms like a light beam.",
+                "Big calm breaths.",
+                "Find the lost ship in the fog!"
+              ],
+              "fun": "Tiny story: ship lost in fog… sweep the light… there it is!",
+              "level_up": "Sweep 5 slow full circles without wobbling.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-27"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-28",
+          "kind": "play",
+          "session": null,
+          "sport": "Play Day",
+          "name": "10-Minute Play Day",
+          "emoji": "🎮",
+          "time": "10 min",
+          "drills": [
+            {
+              "id": "w4-play",
+              "name": "Kid's Choice Play",
+              "cue": "Play!",
+              "sport": "Play Day",
+              "emoji": "🎮",
+              "kind": "Play",
+              "time": "10 min",
+              "steps": [
+                "Pick a favorite game from this week.",
+                "No new lessons — just play!",
+                "Invite Dad to play too.",
+                "Stop while it is still fun."
+              ],
+              "fun": "You are the coach today. You pick the game!",
+              "level_up": "Teach Dad a new rule for your game.",
+              "videos": []
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "kind": "session",
+          "session": 3,
+          "sport": "Flag Football",
+          "name": "Lead the Receiver & Break on the Ball",
+          "emoji": "🏈",
+          "time": "27 min",
+          "drills": [
+            {
+              "id": "w4s3-conveyor-belt-catches",
+              "name": "Conveyor Belt Catches",
+              "cue": "Reach",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Hands ready — reach for the package!",
+                "Dad sends soft footballs one after another.",
+                "Catch and drop into the bin fast.",
+                "Keep the conveyor moving!"
+              ],
+              "fun": "You're a factory. Dropped packages make a silly crash noise!",
+              "level_up": "Deliver 8 packages without a crash.",
+              "videos": []
+            },
+            {
+              "id": "w4s3-landing-zone-lead-passes",
+              "name": "Landing-Zone Lead Passes",
+              "cue": "Ahead",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Skill Work",
+              "time": "7 min",
+              "steps": [
+                "You are the QB. Spot the landing hoop AHEAD of the runner.",
+                "Throw where they're GOING — not where they are!",
+                "Receiver runs to the spot and catches.",
+                "Name your play — Rocket Slant!"
+              ],
+              "fun": "Hoop catch = touchdown (6). Close = field goal (3).",
+              "level_up": "Complete 3 lead-pass touchdowns!",
+              "videos": [
+                {
+                  "id": "wIFpL-hGH8g",
+                  "title": "Passing Drill - Leading the Receiver",
+                  "url": "https://www.youtube.com/watch?v=wIFpL-hGH8g",
+                  "thumb": "https://img.youtube.com/vi/wIFpL-hGH8g/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s3-ballhawk-breaks",
+              "name": "Ballhawk Breaks",
+              "cue": "Break",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Backpedal like a moonwalk defender.",
+                "When Dad throws — BREAK toward the ball!",
+                "Knock it down or intercept it!",
+                "Pick six: run it back past Dad!"
+              ],
+              "fun": "You're a ballhawk! Interception = 2, knockdown = 1.",
+              "level_up": "Get 2 interceptions in one round!",
+              "videos": [
+                {
+                  "id": "_B7Cl0ein0A",
+                  "title": "Backfoot Breaks",
+                  "url": "https://www.youtube.com/watch?v=_B7Cl0ein0A",
+                  "thumb": "https://img.youtube.com/vi/_B7Cl0ein0A/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s3-pick-six-showdown",
+              "name": "Pick-Six Showdown",
+              "cue": "Spot",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Game",
+              "time": "6 min",
+              "steps": [
+                "One player throws lead passes.",
+                "The other tries to break and pick it!",
+                "Interception = pick-six celebration!",
+                "Keep score on the driveway."
+              ],
+              "fun": "Play-by-play commentary and celebration dances!",
+              "level_up": "Score a pick-six and a touchdown throw in the same game!",
+              "videos": []
+            },
+            {
+              "id": "w4s3-goalpost-stretch",
+              "name": "Goalpost Stretch",
+              "cue": "Goalpost",
+              "sport": "Flag Football",
+              "emoji": "🏈",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Arms up like football goalposts.",
+                "Hold still and breathe.",
+                "Dad tosses a soft ball through your uprights!",
+                "Field goal — good!"
+              ],
+              "fun": "Last field goal through your arm uprights!",
+              "level_up": "Hold goalposts steady for 3 slow breaths.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-29"
+        },
+        {
+          "day": "Fri",
+          "kind": "session",
+          "session": 4,
+          "sport": "Athleticism",
+          "name": "Hop, Pattern, Blast Off",
+          "emoji": "🏃",
+          "time": "26 min",
+          "drills": [
+            {
+              "id": "w4s4-pogo-stick-bounces",
+              "name": "Pogo Stick Bounces",
+              "cue": "Pogo",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "5 min",
+              "steps": [
+                "Bounce in place on two feet like a pogo stick!",
+                "Soft whisper landings.",
+                "Try tiny forward pogos.",
+                "Pogo party for 5 seconds!"
+              ],
+              "fun": "Pogo to the beat of a song!",
+              "level_up": "Pogo 15 times in a row without stopping.",
+              "videos": []
+            },
+            {
+              "id": "w4s4-hopscotch-hustle",
+              "name": "Hopscotch Hustle",
+              "cue": "Spring",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Skill Work",
+              "time": "7 min",
+              "steps": [
+                "Jump the hopscotch pattern — spring off the ground!",
+                "One foot / two feet like the squares say.",
+                "Don't touch the lines.",
+                "Toss the beanbag and play a full round!"
+              ],
+              "fun": "Time a clean trip and try to beat it!",
+              "level_up": "Finish a clean hopscotch with no line touches!",
+              "videos": [
+                {
+                  "id": "Py51N-5WFPQ",
+                  "title": "How to Play Hopscotch - Equipment Free PE and Recess Games",
+                  "url": "https://www.youtube.com/watch?v=Py51N-5WFPQ",
+                  "thumb": "https://img.youtube.com/vi/Py51N-5WFPQ/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s4-wake-up-starts",
+              "name": "Wake-Up Starts",
+              "cue": "Blastoff",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Start lying down, sitting, or facing backward.",
+                "When Dad says BLASTOFF — pop up and sprint!",
+                "Ignore silly trick words.",
+                "Different start each round."
+              ],
+              "fun": "Rocket countdown… then surprise blastoff words!",
+              "level_up": "Win 3 blastoff races from different starts!",
+              "videos": [
+                {
+                  "id": "NuHv4wDK14c",
+                  "title": "Quick Start",
+                  "url": "https://www.youtube.com/watch?v=NuHv4wDK14c",
+                  "thumb": "https://img.youtube.com/vi/NuHv4wDK14c/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s4-wake-up-bacon-snatch",
+              "name": "Wake-Up Bacon Snatch",
+              "cue": "Bacon",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Game",
+              "time": "5 min",
+              "steps": [
+                "Wait in your wake-up pose.",
+                "On BACON — snatch the flag/sock and race!",
+                "Fake words like Eggs or Pancakes — don't go!",
+                "First to grab wins the bacon."
+              ],
+              "fun": "Sizzle sounds while you wait. Fake food words!",
+              "level_up": "Grab the bacon 3 times without falling for a fake.",
+              "videos": []
+            },
+            {
+              "id": "w4s4-snow-angel-breaths",
+              "name": "Snow Angel Breaths",
+              "cue": "Angel",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Lie down and make slow snow angels.",
+                "Big breaths — in and out.",
+                "Feel imaginary snowflakes on your nose.",
+                "Tell Dad your favorite start pose today."
+              ],
+              "fun": "Pretend it's snowing. Narrate snowflakes!",
+              "level_up": "Make 5 slow angels with matching breaths.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-30"
+        },
+        {
+          "day": "Sat",
+          "kind": "session",
+          "session": 5,
+          "sport": "Mixed Backyard Day",
+          "name": "Halloween Haunted Gauntlet",
+          "emoji": "🏆",
+          "time": "28 min",
+          "drills": [
+            {
+              "id": "w4s5-monster-mash-moves",
+              "name": "Monster Mash Moves",
+              "cue": "Monster",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Warm-up",
+              "time": "4 min",
+              "steps": [
+                "March like a stompy monster!",
+                "Then skip, shuffle, or bear-crawl monster style.",
+                "Monster sounds required!",
+                "Invent a new monster for the last trip."
+              ],
+              "fun": "Each boy invents a new monster move!",
+              "level_up": "Teach Dad your invented monster walk.",
+              "videos": []
+            },
+            {
+              "id": "w4s5-pumpkin-patch-spray-hitting",
+              "name": "Pumpkin Patch Spray Hitting",
+              "cue": "Pumpkin",
+              "sport": "Baseball",
+              "emoji": "⚾",
+              "kind": "Skill Work",
+              "time": "7 min",
+              "steps": [
+                "Hit toward different pumpkin targets!",
+                "Call your pumpkin before you swing.",
+                "Spray the ball — not always the same way.",
+                "Wake up a haunted pumpkin!"
+              ],
+              "fun": "Spooky sound effects when a pumpkin wakes up!",
+              "level_up": "Hit 3 different pumpkins in one round!",
+              "videos": [
+                {
+                  "id": "pn3xtpCc8uM",
+                  "title": "Top 5 Ways to Teaching Hitting to the Opposite Field",
+                  "url": "https://www.youtube.com/watch?v=pn3xtpCc8uM",
+                  "thumb": "https://img.youtube.com/vi/pn3xtpCc8uM/hqdefault.jpg"
+                }
+              ]
+            },
+            {
+              "id": "w4s5-ghost-defender-finishing",
+              "name": "Ghost Defender Finishing",
+              "cue": "Boo",
+              "sport": "Soccer",
+              "emoji": "⚽",
+              "kind": "Skill Work",
+              "time": "6 min",
+              "steps": [
+                "Dribble at the ghost defender (Dad/cone).",
+                "Fake or slice past — BOO!",
+                "Finish with a shoelace shot on goal.",
+                "Goal = treats!"
+              ],
+              "fun": "Ghost voice: \"You can't get past meeee...\"",
+              "level_up": "Beat the ghost and score 2 goals!",
+              "videos": []
+            },
+            {
+              "id": "w4s5-haunted-house-gauntlet",
+              "name": "Haunted House Gauntlet",
+              "cue": "Treat",
+              "sport": "Multi-sport",
+              "emoji": "🏆",
+              "kind": "Game",
+              "time": "8 min",
+              "steps": [
+                "Run the haunted stations in order!",
+                "Hitting… soccer finish… flag escape…",
+                "Collect treats for clean stations.",
+                "Beat the Monster's Number!"
+              ],
+              "fun": "Halloween decorations + spooky music. Keep the candy if you win!",
+              "level_up": "Beat the Monster's Number to pick a reward!",
+              "videos": []
+            },
+            {
+              "id": "w4s5-jack-o-lantern-candle",
+              "name": "Jack-o'-Lantern Candle",
+              "cue": "Candle",
+              "sport": "Athleticism",
+              "emoji": "🏃",
+              "kind": "Cool-down",
+              "time": "3 min",
+              "steps": [
+                "Sit calm like a jack-o'-lantern.",
+                "Hold up one finger candle.",
+                "Blow it out with a slow breath — tssss!",
+                "Tell Dad your favorite haunted station."
+              ],
+              "fun": "Pinch out each candle with a \"tssss\" sound.",
+              "level_up": "Blow out 5 candles with super-slow breaths.",
+              "videos": []
+            }
+          ],
+          "date": "2026-10-31"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-11-01",
+          "kind": "rest",
+          "session": null,
+          "sport": "Rest",
+          "name": "Rest Day",
+          "emoji": "😴",
+          "time": "",
+          "drills": [
+            {
+              "id": "w4-rest",
+              "name": "Rest & Recover",
+              "cue": "Rest",
+              "sport": "Rest",
+              "emoji": "😴",
+              "kind": "Rest",
+              "time": "",
+              "steps": [
+                "No practice today.",
+                "Play outside for fun if you want.",
+                "Drink water and stretch if you feel sore.",
+                "Get ready for next week!"
+              ],
+              "fun": "Goonies rest so they can never say die tomorrow!",
+              "level_up": "Tell Dad your favorite drill from this week.",
+              "videos": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

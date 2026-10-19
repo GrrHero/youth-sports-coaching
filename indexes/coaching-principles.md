@@ -11,6 +11,7 @@ The general teaching habits from each week, quoted from the weekly plans, then t
 - [Week 1 teaching habits](#week-1-teaching-habits)
 - [Week 2 teaching habits](#week-2-teaching-habits)
 - [Week 3 teaching habits](#week-3-teaching-habits)
+- [Week 4 teaching habits](#week-4-teaching-habits)
 - [Learning ideas behind the drills](#learning-ideas-behind-the-drills)
 
 ## Week 1 teaching habits
@@ -109,6 +110,23 @@ Every activity uses the same layout: **Steps → Cue → Silent demo → Errors 
 
 **Ask before tell:** see [D. "Ask before tell"](../weeks/week-03/group-coaching.md#d-ask-before-tell) in the Week 3 field-coaching notes.
 
+## Week 4 teaching habits
+
+*From the [Week 4 overview](../weeks/week-04/README.md).*
+
+**Three rules for the whole week:**
+1. **Target first, technique second.** Every activity has a gate, a spot or a defender. Point at the target instead of fixing body parts. Kids fix a lot of their own technique when the goal is clear.
+2. **One cue word per activity.** Same as before: only that word while they're moving. If you catch yourself saying a sentence, stop and say the word.
+3. **One level each.** Each session lists one clear level for the 5yo and one for the 7yo. Start them there. Move up only after about 4 successes out of 5; move down after 3 misses in a row. No discussion, just quietly change the distance or speed.
+
+**How to teach this week (the 4-step loop).** Teaching feels harder than playing because when you play, your body does the work; when you teach, you have to slow down and *show* what your body already knows. Use the same loop for every activity:
+1. **Show** (silent demo, 15 seconds): slow, exaggerated, 2 or 3 times, then once at normal speed.
+2. **Go** (within 30 seconds of starting): they try it right away. The first reps will be messy. That's the point; you're looking for what to fix.
+3. **Cue** (one word, while they move): say the cue *before* the rep, not after a miss. "Laser!" before the toss is coaching; "You didn't hit it at the gate" after is a lecture.
+4. **Ask** (at a water break): "What made that one go straight?" Let them answer. What they say in their own words is what they'll remember.
+
+**New this week, the "change one thing" rule:** when something isn't working, change *one* thing about the setup (distance, ball size, speed, target size) instead of explaining more. If the 5yo keeps missing, move closer or use a bigger ball. If the 7yo is bored, make the target smaller or add a defender. Adjusting the task is almost always faster than adjusting the kid.
+
 ## Learning ideas behind the drills
 
 Each idea links to the activities whose "Why it works" note uses it, with the sentence that says so.
@@ -121,6 +139,8 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W3 S3 · Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone): The target keeps attention outside the body.
 - [W3 S4 · Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet): The reach target gives an **external focus**.
 - [W3 S4 · Whisper Landings](../weeks/week-03/session-4.md#skill-work-a-whisper-landings-6-min--cue-whisper): The "quiet" target is an **external focus** that naturally creates soft, bent-knee landings without a list of joint instructions.
+- [W4 S1 · Laser Gate Front Toss](../weeks/week-04/session-1.md#skill-work-a-laser-gate-front-toss-8-min--cue-laser): Aiming at a gate is an **external focus**.
+- [W4 S3 · Landing-Zone Lead Passes](../weeks/week-04/session-3.md#skill-work-a-landing-zone-lead-passes-7-min--cue-ahead): That's an **external focus** and a simpler problem.
 
 ### Analogy / implicit learning
 
@@ -143,6 +163,8 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W3 S2 · Pillow First Touch](../weeks/week-03/session-2.md#skill-work-a-pillow-first-touch-6-min--cue-pillow): The gates are a **constraint**: they force a directional first touch without you explaining it.
 - [W3 S3 · Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk): Using you as a moving reference point is a natural **constraint**.
 - [W3 S5 · Tape Run-Throughs](../weeks/week-03/session-5.md#skill-work-b-tape-run-throughs-5-min--cue-tape): Moving the finish line past the base (**a constraint on the environment**) fixes it in a few reps without explanation.
+- [W4 S1 · Laser Gate Front Toss](../weeks/week-04/session-1.md#skill-work-a-laser-gate-front-toss-8-min--cue-laser): The "no moonballs" scoring is a **constraint** that rewards line drives without a lecture.
+- [W4 S2 · Slice-Away Escape](../weeks/week-04/session-2.md#skill-work-b-slice-away-escape-6-min--cue-slice): The lava line is a visual **constraint** that sets the timing for him.
 
 ### Whole-part-whole / part practice
 
@@ -152,6 +174,7 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W3 S2 · Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces): Starting with a still ball, then adding a first touch (for the 7yo) is a simple **part-to-whole progression**.
 - [W3 S3 · Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone): That's a **part-practice** step, and then you go straight back to the whole throw.
 - [W3 S5 · The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next): This is **whole practice**: the skills from the whole week chained together in a game-like order, which is how they show up in real baseball.
+- [W4 S1 · Field-and-Fire to First](../weeks/week-04/session-1.md#skill-work-b-field-and-fire-to-first-7-min--cue-tick-tock): Now they're joined into one move (**whole practice**).
 
 ### Contrast (show wrong vs. right)
 
@@ -192,11 +215,14 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W2 S3 · "Shuffle & Snag"](../weeks/week-02/session-3.md#skill-work-7yo-shuffle--snag-5-min): Catching balls in a mix of spots builds real-game skill better than 20 catches in the same place.
 - [W2 S5 · "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min): Mixing up the week's movements in random order makes them recall each skill on the spot, which helps them remember it better than repeating one move.
 - [W3 S5 · The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next): Mixing different skills in one game (**variable practice**) feels harder now but makes learning stick better later.
+- [W4 S4 · Wake-Up Starts](../weeks/week-04/session-4.md#skill-work-b-wake-up-starts-6-min--cue-blastoff): Many different starting positions is **variable practice**, which builds an adaptable athlete rather than one who can only start from a set stance.
+- [W4 S5 · Ghost Defender Finishing](../weeks/week-04/session-5.md#skill-work-b-ghost-defender-finishing-6-min--cue-boo): That's **variable practice**: same skill, different setting. "Boo" is a timing trigger.
 
 ### Instant feedback
 
 - [W2 S1 · "Turnaround Races"](../weeks/week-02/session-1.md#game-turnaround-races-5-min): Races give instant, honest feedback with no lecture needed.
 - [W2 S2 · "Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min): Knocking a pin over shows right away whether the pass was accurate.
+- [W4 S2 · The Pretend Shot](../weeks/week-04/session-2.md#skill-work-a-the-pretend-shot-6-min--cue-trick): A **live defender who only reacts to a good fake** gives instant, honest feedback no verbal coaching can match.
 
 ### Reaction training
 

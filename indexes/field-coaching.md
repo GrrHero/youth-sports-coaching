@@ -41,3 +41,14 @@ Tips for coaching groups of kids at the baseball fields, by week. Each week adds
 - [E. The kid who won't participate](../weeks/week-03/group-coaching.md#e-the-kid-who-wont-participate)
 - [F. Working with parent helpers](../weeks/week-03/group-coaching.md#f-working-with-parent-helpers)
 - [G. A quick 3-part practice script (45 to 60 minutes)](../weeks/week-03/group-coaching.md#g-a-quick-3-part-practice-script-45-to-60-minutes)
+
+## Week 4
+
+[Coaching Groups at the Fields: New Tools for This Week](../weeks/week-04/group-coaching.md)
+
+- [A. Let the game do the teaching: running a short scrimmage](../weeks/week-04/group-coaching.md#a-let-the-game-do-the-teaching-running-a-short-scrimmage)
+- [B. Coaching in-game with only cue words](../weeks/week-04/group-coaching.md#b-coaching-in-game-with-only-cue-words)
+- [C. Team pregame warm-ups (a 15-minute routine)](../weeks/week-04/group-coaching.md#c-team-pregame-warm-ups-a-15-minute-routine)
+- [D. Handling a tough parent](../weeks/week-04/group-coaching.md#d-handling-a-tough-parent)
+- [E. Keeping score when "we don't keep score"](../weeks/week-04/group-coaching.md#e-keeping-score-when-we-dont-keep-score)
+- [F. A rule-tweak menu (constraints you can pull out any time)](../weeks/week-04/group-coaching.md#f-a-rule-tweak-menu-constraints-you-can-pull-out-any-time)

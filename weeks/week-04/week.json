@@ -1,0 +1,38 @@
+{
+  "week_of": "Oct 26, 2026",
+  "sessions": {
+    "1": {
+      "sport": "Baseball"
+    },
+    "2": {
+      "sport": "Soccer"
+    },
+    "3": {
+      "sport": "Flag Football"
+    },
+    "4": {
+      "sport": "Athleticism"
+    },
+    "5": {
+      "sport": "Mixed Backyard Day"
+    }
+  },
+  "activity_sport": {
+    "5/Monster Mash Moves": "Athleticism",
+    "5/Pumpkin Patch Spray Hitting": "Baseball",
+    "5/Ghost Defender Finishing": "Soccer",
+    "5/Haunted House Gauntlet": "Multi-sport",
+    "5/Jack-o'-Lantern Candle": "Athleticism"
+  },
+  "principles": [
+    {
+      "block": "**Three rules for the whole week:**"
+    },
+    {
+      "block": "**How to teach this week (the 4-step loop).**"
+    },
+    {
+      "block": "**New this week, the \"change one thing\" rule:**"
+    }
+  ]
+}

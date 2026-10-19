@@ -2,7 +2,9 @@
 
 Home training plans for Greg's two boys (ages **7** and **5**): **baseball, soccer, flag football and general athleticism**, plus tips for coaching groups at the fields. Each week has a theme, five short sessions (20 to 30 minutes), and builds on the week before.
 
-> Private repo. Browse it right here on GitHub (all pages are Markdown), or open [`index.html`](index.html) locally for a plain HTML copy (see [Viewing offline](#viewing-offline)).
+> **Kid page (GitHub Pages):** [grrhero.github.io/youth-sports-coaching](https://grrhero.github.io/youth-sports-coaching/) — calendar, drill cards, and videos for THE GOONIES. Coach markdown plans stay in this repo (see indexes below).
+>
+> Browse the plans on GitHub, or open the generated HTML under [`site/`](site/index.html) offline.
 
 ## How the week works
 
@@ -26,6 +28,7 @@ Move days around as needed. Every week touches all four areas. Session 2 is alwa
 | [Week 1](weeks/week-01/README.md)<br>Oct 11, 2026 | [S1 Athleticism + Baseball: Athlete Day + Throwing Intro](weeks/week-01/session-1.md) | [S2 Soccer: Soccer Dribbling + Balance](weeks/week-01/session-2.md) | 10-min play | [S3 Baseball: Catching + Tee Hitting](weeks/week-01/session-3.md) | [S4 Flag Football: Flag Football Day](weeks/week-01/session-4.md) | [S5 Multi-sport: "Backyard Olympics"](weeks/week-01/session-5.md) | Rest |
 | [Week 2](weeks/week-02/README.md)<br>Oct 12, 2026 | [S1 Athleticism + Baseball: Speed Starts & Belly-Button Throws](weeks/week-02/session-1.md) | [S2 Soccer: Locked Ankles, Both Feet, First Shots](weeks/week-02/session-2.md) | 10-min play | [S3 Baseball: Moving to the Ball & Full Swing](weeks/week-02/session-3.md) | [S4 Flag Football: Routes, Grips & Soft-Football Catches](weeks/week-02/session-4.md) | [S5 Multi-sport: Teach-Back Day & the Triple Threat Course](weeks/week-02/session-5.md) | Rest |
 | [Week 3](weeks/week-03/README.md)<br>Oct 19, 2026 | [S1 Baseball: Ground Balls & Target Throws](weeks/week-03/session-1.md) | [S2 Soccer: First Touch, Shots & Shielding](weeks/week-03/session-2.md) | 10-min play | [S3 Flag Football: Handoffs, Throws & Evasion](weeks/week-03/session-3.md) | [S4 Athleticism: Jump, Land, Bound, React](weeks/week-03/session-4.md) | [S5 Mixed Backyard Day: Fly Balls, Run-Throughs & the Triple Crown](weeks/week-03/session-5.md) | Rest |
+| [Week 4](weeks/week-04/README.md)<br>Oct 26, 2026 | [S1 Baseball: Aim the Swing & Field-and-Fire](weeks/week-04/session-1.md) | [S2 Soccer: Fake It, Slice It, Beat the Troll](weeks/week-04/session-2.md) | 10-min play | [S3 Flag Football: Lead the Receiver & Break on the Ball](weeks/week-04/session-3.md) | [S4 Athleticism: Hop, Pattern, Blast Off](weeks/week-04/session-4.md) | [S5 Mixed Backyard Day: Halloween Haunted Gauntlet](weeks/week-04/session-5.md) | Rest |
 <!-- SCHEDULE:END -->
 
 ## Indexes
@@ -42,7 +45,10 @@ Move days around as needed. Every week touches all four areas. Session 2 is alwa
 
 ```
 README.md                  this page (schedule table is generated)
-index.html                 opens the offline HTML copy in site/
+index.html                 kid-facing Goonies practice page (GitHub Pages root)
+assets/                   CSS/JS for the kid page
+data/plan.json            generated kid-page data (from weeks/ + kid_copy.json)
+data/kid_copy.json        hand-written 7yo steps / fun / level-up lines
 progress-log.md            Greg's log
 weeks/week-NN/
   README.md                week overview, theme, progression goals, preview, videos, cheat sheet
@@ -52,8 +58,8 @@ weeks/week-NN/
 indexes/                   generated from the week folders
 _templates/session-template.md
 sources/week-NN-plan.md    original single-file plans, kept unchanged
-scripts/                   import_plan.py, new_week.py, build.py
-site/                      generated HTML copy
+scripts/                   import_plan.py, new_week.py, build.py, build_site.py
+site/                      generated HTML copy of the markdown plans
 ```
 
 ## Adding a new week
@@ -66,7 +72,7 @@ Every week is a folder `weeks/week-NN/` with the same layout. Two ways to add on
 cp ~/week4_plan.md sources/week-04-plan.md
 python3 scripts/import_plan.py 4 sources/week-04-plan.md --week-of "Oct 26, 2026"   # splits into weeks/week-04/
 # edit weeks/week-04/week.json: set the sport for each session (and per activity if a session mixes sports)
-python3 scripts/build.py                                   # refreshes indexes, schedule, site/
+python3 scripts/build.py                                   # refreshes indexes, schedule, site/, data/plan.json
 git add -A && git commit -m "Add week 4" && git push
 ```
 
