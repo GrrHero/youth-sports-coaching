@@ -1,0 +1,38 @@
+{
+  "week_of": "Oct 12, 2026",
+  "sessions": {
+    "1": {
+      "sport": "Athleticism + Baseball"
+    },
+    "2": {
+      "sport": "Soccer"
+    },
+    "3": {
+      "sport": "Baseball"
+    },
+    "4": {
+      "sport": "Flag Football"
+    },
+    "5": {
+      "sport": "Multi-sport"
+    }
+  },
+  "activity_sport": {
+    "1/\"Timber Starts\"": "Athleticism",
+    "1/\"Belly-Button Throws\"": "Baseball",
+    "1/\"Turnaround Races\"": "Athleticism",
+    "1/\"Melting Snowman\"": "Athleticism",
+    "2/\"Skip & Hop Trail\"": "Athleticism",
+    "3/\"Mirror Shuffle\"": "Athleticism",
+    "4/\"Freeze Cuts\"": "Athleticism",
+    "5/\"Movement Dice\"": "Athleticism"
+  },
+  "principles": [
+    {
+      "section": "Before you start: what's new this week"
+    },
+    {
+      "block": "**Your 3 rules for the week:**"
+    }
+  ]
+}

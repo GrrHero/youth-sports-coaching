@@ -4,15 +4,35 @@
 
 [← Home](../README.md)
 
+Tips for coaching groups of kids at the baseball fields, by week. Each week adds new topics.
+
 ## Week 1
 
-- Full group-coaching section not recovered; see the [Week 1 summary](../weeks/week-01/README.md).
+[Part 2: Volunteer Coaching at the Baseball Fields](../weeks/week-01/group-coaching.md)
+
+- [1. Keep attention: the group control basics](../weeks/week-01/group-coaching.md#1-keep-attention-the-group-control-basics)
+- [2. Stations: the secret weapon](../weeks/week-01/group-coaching.md#2-stations-the-secret-weapon)
+- [3. Managing mixed skill levels](../weeks/week-01/group-coaching.md#3-managing-mixed-skill-levels)
+- [4. Handling frustration and tears](../weeks/week-01/group-coaching.md#4-handling-frustration-and-tears)
+- [5. Positive reinforcement that works](../weeks/week-01/group-coaching.md#5-positive-reinforcement-that-works)
+- [6. Age-appropriate language](../weeks/week-01/group-coaching.md#6-age-appropriate-language)
+- [7. A sample 45-min group practice (tee ball / coach pitch)](../weeks/week-01/group-coaching.md#7-a-sample-45-min-group-practice-tee-ball--coach-pitch)
 
 ## Week 2
 
-- Full group-coaching section not recovered; see the [Week 2 summary](../weeks/week-02/README.md).
+[Group coaching at the baseball fields: new topics for Week 2](../weeks/week-02/group-coaching.md)
+
+- [1. First-practice routines](../weeks/week-02/group-coaching.md#1-first-practice-routines)
+- [2. Parent helper management](../weeks/week-02/group-coaching.md#2-parent-helper-management)
+- [3. Keeping fielders busy in tee ball and coach pitch games](../weeks/week-02/group-coaching.md#3-keeping-fielders-busy-in-tee-ball-and-coach-pitch-games)
+- [4. The kid who won't participate](../weeks/week-02/group-coaching.md#4-the-kid-who-wont-participate)
+- [5. The kid who dominates](../weeks/week-02/group-coaching.md#5-the-kid-who-dominates)
+- [6. Ending practice well](../weeks/week-02/group-coaching.md#6-ending-practice-well)
+- [7. Game-day dugout management](../weeks/week-02/group-coaching.md#7-game-day-dugout-management)
 
 ## Week 3
+
+[Coaching Groups at the Fields: New Tools for This Week](../weeks/week-03/group-coaching.md)
 
 - [A. Kill the line](../weeks/week-03/group-coaching.md#a-kill-the-line)
 - [B. Bat safety spacing (the "Bat Bubble")](../weeks/week-03/group-coaching.md#b-bat-safety-spacing-the-bat-bubble)

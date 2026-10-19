@@ -1,0 +1,34 @@
+{
+  "week_of": "Oct 19, 2026",
+  "sessions": {
+    "1": {
+      "sport": "Baseball"
+    },
+    "2": {
+      "sport": "Soccer"
+    },
+    "3": {
+      "sport": "Flag Football"
+    },
+    "4": {
+      "sport": "Athleticism"
+    },
+    "5": {
+      "sport": "Mixed Backyard Day"
+    }
+  },
+  "activity_sport": {
+    "5/Orbit Ball Wraps": "Athleticism",
+    "5/Umbrella Fly Balls": "Baseball",
+    "5/Tape Run-Throughs": "Baseball",
+    "5/The Backyard Triple Crown": "Baseball"
+  },
+  "principles": [
+    {
+      "block": "**Three rules for the whole week:**"
+    },
+    {
+      "block": "**A quick note on the silent demo:**"
+    }
+  ]
+}

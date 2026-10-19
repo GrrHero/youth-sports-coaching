@@ -1,0 +1,95 @@
+{
+  "week_of": "Oct 11, 2026",
+  "sessions": {
+    "1": {
+      "sport": "Athleticism + Baseball"
+    },
+    "2": {
+      "sport": "Soccer"
+    },
+    "3": {
+      "sport": "Baseball"
+    },
+    "4": {
+      "sport": "Flag Football"
+    },
+    "5": {
+      "sport": "Multi-sport"
+    }
+  },
+  "activity_sport": {
+    "1/Animal Walks": "Athleticism",
+    "1/Running Form — \"Cheek to Cheek\"": "Athleticism",
+    "1/Throwing Intro — \"Point, Step, Throw\"": "Baseball",
+    "1/Freeze Tag with Flamingos": "Athleticism",
+    "2/Balance Challenges": "Athleticism",
+    "5/Flamingo Stand": "Athleticism",
+    "5/Sprint Race": "Athleticism",
+    "5/Castle Knockdown": "Baseball",
+    "5/Catch Ladder": "Baseball",
+    "5/Dribble Gates": "Soccer",
+    "5/Flag Pull Challenge": "Flag Football"
+  },
+  "_video_locations_note": "Week 1 lists its videos only in the README. These links attach each one to the session/activity the plan text ties it to (e.g. 'see the Cal South video below', 'Matches Session 3 exactly'). The two throwing-basics videos are listed under 'Throwing' and attached to the Session 1 throwing intro.",
+  "video_locations": {
+    "https://www.youtube.com/watch?v=o3Qz0LtQZ_I": [
+      [
+        "1",
+        "Throwing Intro — \"Point, Step, Throw\""
+      ]
+    ],
+    "https://www.youtube.com/watch?v=bjJs_yu6fvw": [
+      [
+        "1",
+        "Throwing Intro — \"Point, Step, Throw\""
+      ]
+    ],
+    "https://www.youtube.com/watch?v=2mRuWPJS64E": [
+      [
+        "3",
+        "Catching — \"Eyes on It, Fingers Up\""
+      ]
+    ],
+    "https://www.youtube.com/watch?v=dTDIriJq_6Y": [
+      [
+        "3",
+        "Tee Hitting — \"Squish the Bug\""
+      ]
+    ],
+    "https://www.youtube.com/watch?v=PfI7RqQm4d0": [
+      [
+        "2",
+        "Dribbling — \"Small Touches\""
+      ]
+    ],
+    "https://www.youtube.com/watch?v=xEJfAJy3xrY": [
+      [
+        "2",
+        "Body Part Simon Says with a Ball"
+      ]
+    ],
+    "https://www.youtube.com/watch?v=ySFE5NDOvWI": [
+      [
+        "2",
+        ""
+      ]
+    ],
+    "https://www.youtube.com/watch?v=Z9JWY_8JRKA": [
+      [
+        "4",
+        "Flag Pulling — \"Break Down, Grab, Rip\""
+      ]
+    ],
+    "https://www.youtube.com/watch?v=rPTFJSOC9yg": [
+      [
+        "1",
+        "Running Form — \"Cheek to Cheek\""
+      ]
+    ]
+  },
+  "principles": [
+    {
+      "section": "Part 1: How to Teach (Read This First)"
+    }
+  ]
+}

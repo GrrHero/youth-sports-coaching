@@ -4,57 +4,118 @@
 
 [← Home](../README.md)
 
-One cue word per activity. Grouped by sport, alphabetical within each sport.
-
-> **Note:** [Week 1](../weeks/week-01/README.md) and [Week 2](../weeks/week-02/README.md) only have summary pages (the full plans were not recovered), so their drills, cue words and videos are not listed here.
-
+Grouped by sport (the sport of the activity), alphabetical within each sport. Some activities use more than one cue, and some cues come back in later weeks.
 
 ## Baseball
 
-| Cue | Activity | Week / Session | What it means to the kid |
+| Cue | Activity | Week / Session | Cheat-sheet note |
 |---|---|---|---|
-| **Chomp** | [Skill Work A: Alligator Grounders](../weeks/week-03/session-1.md#skill-work-a-alligator-grounders-7-min--cue-chomp) | [W3 S1](../weeks/week-03/session-1.md) | "Bottom jaw (glove) on the grass, top jaw (hand) closes on the ball." |
-| **Float** | [Cool-down: Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float) | [W3 S1](../weeks/week-03/session-1.md) | "Breathe slow so my glove floats up and down." |
-| **Middle** | [Game: Grounder Goalie](../weeks/week-03/session-1.md#game-grounder-goalie-5-min--cue-middle) | [W3 S1](../weeks/week-03/session-1.md) | "Get my body in the middle of where the ball is rolling." |
-| **Popcorn** | [Warm-up: Popcorn Ready](../weeks/week-03/session-1.md#warm-up-popcorn-ready-5-min--cue-popcorn) | [W3 S1](../weeks/week-03/session-1.md) | "Pop into my ready shape: feet wide, bottom down, hands out." |
-| **Scoot** | [Skill Work B: Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot) | [W3 S1](../weeks/week-03/session-1.md) | "Little hop, back foot sideways, then step and throw at the target." |
+| **Alligator!** | [Skill 1: Catching — "Eyes on It, Fingers Up"](../weeks/week-01/session-3.md#skill-1-catching--eyes-on-it-fingers-up-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Catching |
+| **Belly!** | [Skill work: "Belly-Button Throws"](../weeks/week-02/session-1.md#skill-work-belly-button-throws-10-min) | [W2 S1](../weeks/week-02/session-1.md) | Throw (hip turn) · 7yo · Smiley-face sticker turns to target |
+| **Chomp** | [Skill Work A: Alligator Grounders](../weeks/week-03/session-1.md#skill-work-a-alligator-grounders-7-min--cue-chomp) | [W3 S1](../weeks/week-03/session-1.md) | Bottom jaw (glove) on the grass, top jaw (hand) closes on the ball. |
+| **Dot** | [Skill work: "Dot Hitting" off the tee (5yo)](../weeks/week-02/session-3.md#skill-work-5yo-dot-hitting-off-the-tee-5-min-at-the-same-time) | [W2 S3](../weeks/week-02/session-3.md) | Tee contact · 5yo · Point at eye → point at dot |
+| **Dot** | [Game: "Zone Derby"](../weeks/week-02/session-3.md#game-zone-derby-5-min) | [W2 S3](../weeks/week-02/session-3.md) | Tee contact · 5yo · Point at eye → point at dot |
+| **Eyes on it!** | [Skill 1: Catching — "Eyes on It, Fingers Up"](../weeks/week-01/session-3.md#skill-1-catching--eyes-on-it-fingers-up-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Catching |
+| **Eyes on it** | [Catch Ladder](../weeks/week-01/session-5.md) | [W1 S5](../weeks/week-01/session-5.md) | Catching |
+| **Eyes on the ball** | [Skill 2: Tee Hitting — "Squish the Bug"](../weeks/week-01/session-3.md#skill-2-tee-hitting--squish-the-bug-8-min) | [W1 S3](../weeks/week-01/session-3.md) |  |
+| **Feet** | [Skill work: "Shuffle & Snag" (7yo)](../weeks/week-02/session-3.md#skill-work-7yo-shuffle--snag-5-min) | [W2 S3](../weeks/week-02/session-3.md) | Moving to catch · 7yo · Shuffle over, catch in the middle |
+| **Fingers up!** | [Skill 1: Catching — "Eyes on It, Fingers Up"](../weeks/week-01/session-3.md#skill-1-catching--eyes-on-it-fingers-up-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Catching |
+| **Float** | [Cool-down: Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float) | [W3 S1](../weeks/week-03/session-1.md) | Breathe slow so my glove floats up and down. |
+| **Hands ready** | [Skill work: "Big Ball, Little Ball" (5yo)](../weeks/week-02/session-3.md#skill-work-5yo-big-ball-little-ball-5-min-alongside-the-7yo) | [W2 S3](../weeks/week-02/session-3.md) | Catch ready · 5yo · Bowl hands before the toss |
+| **Middle** | [Game: Grounder Goalie](../weeks/week-03/session-1.md#game-grounder-goalie-5-min--cue-middle) | [W3 S1](../weeks/week-03/session-1.md) | Get my body in the middle of where the ball is rolling. |
+| **Next** | [Game: The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next) | [W3 S5](../weeks/week-03/session-5.md) | Done here, go straight to the next station. |
+| **Pillow** | [Cool-down: "Glove Pillow"](../weeks/week-02/session-3.md#cool-down-glove-pillow-3-min) | [W2 S3](../weeks/week-02/session-3.md) | Cool-down · Both · You go first, dramatically |
+| **Point!** | [Skill 2: Throwing Intro — "Point, Step, Throw"](../weeks/week-01/session-1.md#skill-2-throwing-intro--point-step-throw-8-min) | [W1 S1](../weeks/week-01/session-1.md) |  |
+| **Point, step, throw** | [Skill 2: Throwing Intro — "Point, Step, Throw"](../weeks/week-01/session-1.md#skill-2-throwing-intro--point-step-throw-8-min) | [W1 S1](../weeks/week-01/session-1.md) | Throwing |
+| **Point, step, throw** | [Castle Knockdown](../weeks/week-01/session-5.md) | [W1 S5](../weeks/week-01/session-5.md) | Throwing |
+| **Popcorn** | [Warm-up: Popcorn Ready](../weeks/week-03/session-1.md#warm-up-popcorn-ready-5-min--cue-popcorn) | [W3 S1](../weeks/week-03/session-1.md) | Pop into my ready shape: feet wide, bottom down, hands out. |
+| **Rock** | [Skill work: "Rock-Step-Squish" swing + soft front toss (7yo)](../weeks/week-02/session-3.md#skill-work-7yo-rock-step-squish-swing--soft-front-toss-5-min) | [W2 S3](../weeks/week-02/session-3.md) | Swing · 7yo · Freeze at all 3 parts, then full swing |
+| **Rock** | [Game: "Zone Derby"](../weeks/week-02/session-3.md#game-zone-derby-5-min) | [W2 S3](../weeks/week-02/session-3.md) | Swing · 7yo · Freeze at all 3 parts, then full swing |
+| **Scoot** | [Skill Work B: Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot) | [W3 S1](../weeks/week-03/session-1.md) | Little hop, back foot sideways, then step and throw at the target. |
+| **Squish the bug** | [Skill 2: Tee Hitting — "Squish the Bug"](../weeks/week-01/session-3.md#skill-2-tee-hitting--squish-the-bug-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Hitting |
+| **Tape** | [Skill Work B: Tape Run-Throughs](../weeks/week-03/session-5.md#skill-work-b-tape-run-throughs-5-min--cue-tape) | [W3 S5](../weeks/week-03/session-5.md) | The finish line is past the base. Run through it. |
+| **Umbrella** | [Skill Work A: Umbrella Fly Balls](../weeks/week-03/session-5.md#skill-work-a-umbrella-fly-balls-8-min--cue-umbrella) | [W3 S5](../weeks/week-03/session-5.md) | Get under it, hands up above my eyes like an umbrella. |
 
 ## Soccer
 
-| Cue | Activity | Week / Session | What it means to the kid |
+| Cue | Activity | Week / Session | Cheat-sheet note |
 |---|---|---|---|
-| **Piano** | [Warm-up: Piano Toe Taps](../weeks/week-03/session-2.md#warm-up-piano-toe-taps-4-min--cue-piano) | [W3 S2](../weeks/week-03/session-2.md) | "Light, quick taps on top of the ball, left–right." |
-| **Pillow** | [Skill Work A: Pillow First Touch](../weeks/week-03/session-2.md#skill-work-a-pillow-first-touch-6-min--cue-pillow) | [W3 S2](../weeks/week-03/session-2.md) | "Soft foot. Catch the ball so it stays close (or goes to the gate)." |
-| **Shell** | [Game: Treasure Keeper](../weeks/week-03/session-2.md#game-treasure-keeper-7-min--cue-shell) | [W3 S2](../weeks/week-03/session-2.md) | "My body is a shell between the pirate and the ball." |
-| **Shoelaces** | [Skill Work B: Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces) | [W3 S2](../weeks/week-03/session-2.md) | "Hit the ball with my shoelaces, toe pointing down." |
-| **Sleepy** | [Cool-down: Sleepy Sole Rolls](../weeks/week-03/session-2.md#cool-down-sleepy-sole-rolls-3-min--cue-sleepy) | [W3 S2](../weeks/week-03/session-2.md) | "Roll the ball super slow." |
+| **Ball on a leash** | [Skill 1: Dribbling — "Small Touches"](../weeks/week-01/session-2.md#skill-1-dribbling--small-touches-8-min) | [W1 S2](../weeks/week-01/session-2.md) |  |
+| **Boom!** | [Game: "Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min) | [W2 S2](../weeks/week-02/session-2.md) | Shot · 5yo · Shoot + celebration |
+| **Foot on top!** | [Skill 1: Dribbling — "Small Touches"](../weeks/week-01/session-2.md#skill-1-dribbling--small-touches-8-min) | [W1 S2](../weeks/week-01/session-2.md) | Dribbling |
+| **Lock!** | [Skill work: "Gate Passing" (7yo)](../weeks/week-02/session-2.md#skill-work-7yo-gate-passing-10-min-split-with-the-5yo-block-below) | [W2 S2](../weeks/week-02/session-2.md) | Pass · 7yo · Floppy vs. locked ankle |
+| **Lock** | [Game: "Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min) | [W2 S2](../weeks/week-02/session-2.md) | Pass · 7yo · Floppy vs. locked ankle |
+| **Piano** | [Warm-up: Piano Toe Taps](../weeks/week-03/session-2.md#warm-up-piano-toe-taps-4-min--cue-piano) | [W3 S2](../weeks/week-03/session-2.md) | Light, quick taps on top of the ball, left–right. |
+| **Pillow** | [Skill Work A: Pillow First Touch](../weeks/week-03/session-2.md#skill-work-a-pillow-first-touch-6-min--cue-pillow) | [W3 S2](../weeks/week-03/session-2.md) | Soft foot. Catch the ball so it stays close (or goes to the gate). |
+| **Shell** | [Game: Treasure Keeper](../weeks/week-03/session-2.md#game-treasure-keeper-7-min--cue-shell) | [W3 S2](../weeks/week-03/session-2.md) | My body is a shell between the pirate and the ball. |
+| **Shoelaces** | [Skill Work B: Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces) | [W3 S2](../weeks/week-03/session-2.md) | Hit the ball with my shoelaces, toe pointing down. |
+| **Sleepy** | [Cool-down: Sleepy Sole Rolls](../weeks/week-03/session-2.md#cool-down-sleepy-sole-rolls-3-min--cue-sleepy) | [W3 S2](../weeks/week-03/session-2.md) | Roll the ball super slow. |
+| **Slow roll** | [Cool-down: "Ball Roll Stretch"](../weeks/week-02/session-2.md#cool-down-ball-roll-stretch-3-min) | [W2 S2](../weeks/week-02/session-2.md) | Cool-down · Both · You go first, dramatically |
+| **Small touches** | [Skill 1: Dribbling — "Small Touches"](../weeks/week-01/session-2.md#skill-1-dribbling--small-touches-8-min) | [W1 S2](../weeks/week-01/session-2.md) | Dribbling |
+| **Small touches** | [Dribble Gates](../weeks/week-01/session-5.md) | [W1 S5](../weeks/week-01/session-5.md) | Dribbling |
+| **Steer** | [Skill work: "Cone Slalom" (5yo)](../weeks/week-02/session-2.md#skill-work-5yo-cone-slalom-during-the-same-10-min) | [W2 S2](../weeks/week-02/session-2.md) | Dribble cones · 5yo · Car noises around cones |
 
 ## Flag Football
 
-| Cue | Activity | Week / Session | What it means to the kid |
+| Cue | Activity | Week / Session | Cheat-sheet note |
 |---|---|---|---|
-| **Moonwalk** | [Warm-up: Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk) | [W3 S3](../weeks/week-03/session-3.md) | "Small quick steps backward, chest forward." |
-| **Phone** | [Skill Work B: Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone) | [W3 S3](../weeks/week-03/session-3.md) | "Ball up by my ear like a phone, then step and throw." |
-| **Starfish** | [Cool-down: Starfish & Seashell](../weeks/week-03/session-3.md#cool-down-starfish--seashell-3-min--cue-starfish) | [W3 S3](../weeks/week-03/session-3.md) | "Stretch big and breathe in, curl small and breathe out." |
-| **Window** | [Skill Work A: Window Handoffs](../weeks/week-03/session-3.md#skill-work-a-window-handoffs-7-min--cue-window) | [W3 S3](../weeks/week-03/session-3.md) | "Near elbow up, other arm under. Make a window for the ball." |
-| **Zigzag** | [Game: Mr. Wolf Flag Escape](../weeks/week-03/session-3.md#game-mr-wolf-flag-escape-6-min--cue-zigzag) | [W3 S3](../weeks/week-03/session-3.md) | "Change direction to get away. Feet, not hands." |
+| **Basket** | [Skill work: "Basket Catch" with a soft football (5yo)](../weeks/week-02/session-4.md#skill-work-5yo-basket-catch-with-a-soft-football-alongside-the-7yo) | [W2 S4](../weeks/week-02/session-4.md) | Football catch · 5yo · Pinkies together, eggs to belly |
+| **Basket** | [Game: "Route Call Touchdown"](../weeks/week-02/session-4.md#game-route-call-touchdown-5-min) | [W2 S4](../weeks/week-02/session-4.md) | Football catch · 5yo · Pinkies together, eggs to belly |
+| **Chop, chop, GRAB** | [Skill 1: Flag Pulling — "Break Down, Grab, Rip"](../weeks/week-01/session-4.md#skill-1-flag-pulling--break-down-grab-rip-8-min) | [W1 S4](../weeks/week-01/session-4.md) | Flag pulling |
+| **Diamond hands!** | [Skill 2: Running with the Ball + Simple Catch](../weeks/week-01/session-4.md#skill-2-running-with-the-ball--simple-catch-6-min) | [W1 S4](../weeks/week-01/session-4.md) |  |
+| **Eyes on the belt** | [Skill 1: Flag Pulling — "Break Down, Grab, Rip"](../weeks/week-01/session-4.md#skill-1-flag-pulling--break-down-grab-rip-8-min) | [W1 S4](../weeks/week-01/session-4.md) | Flag pulling |
+| **Five** | [Skill work: "Route Cards" + "Laces Grip" (7yo)](../weeks/week-02/session-4.md#skill-work-7yo-route-cards--laces-grip-10-min) | [W2 S4](../weeks/week-02/session-4.md) | Routes · 7yo · Count 5 fingers, then cut |
+| **Five** | [Game: "Route Call Touchdown"](../weeks/week-02/session-4.md#game-route-call-touchdown-5-min) | [W2 S4](../weeks/week-02/session-4.md) | Routes · 7yo · Count 5 fingers, then cut |
+| **Hide it!** | [Skill 2: Running with the Ball + Simple Catch](../weeks/week-01/session-4.md#skill-2-running-with-the-ball--simple-catch-6-min) | [W1 S4](../weeks/week-01/session-4.md) | Ball carry |
+| **Hold it up!** | [Skill 1: Flag Pulling — "Break Down, Grab, Rip"](../weeks/week-01/session-4.md#skill-1-flag-pulling--break-down-grab-rip-8-min) | [W1 S4](../weeks/week-01/session-4.md) |  |
+| **Laces** | [Skill work: "Route Cards" + "Laces Grip" (7yo)](../weeks/week-02/session-4.md#skill-work-7yo-route-cards--laces-grip-10-min) | [W2 S4](../weeks/week-02/session-4.md) | QB grip · 7yo · Daylight under the palm |
+| **Moonwalk** | [Warm-up: Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk) | [W3 S3](../weeks/week-03/session-3.md) | Small quick steps backward, chest forward. |
+| **Phone** | [Skill Work B: Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone) | [W3 S3](../weeks/week-03/session-3.md) | Ball up by my ear like a phone, then step and throw. |
+| **Starfish** | [Cool-down: Starfish & Seashell](../weeks/week-03/session-3.md#cool-down-starfish--seashell-3-min--cue-starfish) | [W3 S3](../weeks/week-03/session-3.md) | Stretch big and breathe in, curl small and breathe out. |
+| **Walk-through** | [Cool-down: "Playbook Draw"](../weeks/week-02/session-4.md#cool-down-playbook-draw-3-min) | [W2 S4](../weeks/week-02/session-4.md) |  |
+| **Window** | [Skill Work A: Window Handoffs](../weeks/week-03/session-3.md#skill-work-a-window-handoffs-7-min--cue-window) | [W3 S3](../weeks/week-03/session-3.md) | Near elbow up, other arm under. Make a window for the ball. |
+| **Zigzag** | [Game: Mr. Wolf Flag Escape](../weeks/week-03/session-3.md#game-mr-wolf-flag-escape-6-min--cue-zigzag) | [W3 S3](../weeks/week-03/session-3.md) | Change direction to get away. Feet, not hands. |
 
 ## Athleticism
 
-| Cue | Activity | Week / Session | What it means to the kid |
+| Cue | Activity | Week / Session | Cheat-sheet note |
 |---|---|---|---|
-| **Pounce** | [Game: Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce) | [W3 S4](../weeks/week-03/session-4.md) | "Explode to the ball and catch it after one bounce." |
-| **Puppet** | [Warm-up: Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet) | [W3 S4](../weeks/week-03/session-4.md) | "Skip high, a string pulls my knee and opposite hand up." |
-| **Skater** | [Skill Work B: Skater Bounds](../weeks/week-03/session-4.md#skill-work-b-skater-bounds-5-min--cue-skater) | [W3 S4](../weeks/week-03/session-4.md) | "Bound sideways onto one foot like a speed skater and stick it." |
-| **Sloth** | [Cool-down: Sloth Crawl Tunnel](../weeks/week-03/session-4.md#cool-down-sloth-crawl-tunnel-3-min--cue-sloth) | [W3 S4](../weeks/week-03/session-4.md) | "Super slow crawl, opposite hand and knee." |
-| **Whisper** | [Skill Work A: Whisper Landings](../weeks/week-03/session-4.md#skill-work-a-whisper-landings-6-min--cue-whisper) | [W3 S4](../weeks/week-03/session-4.md) | "Land so quiet nobody hears, then freeze." |
+| **Be a statue** | [Skill 2: Balance Challenges](../weeks/week-01/session-2.md#skill-2-balance-challenges-6-min) | [W1 S2](../weeks/week-01/session-2.md) | Balance |
+| **Cheek to cheek** | [Skill 1: Running Form — "Cheek to Cheek"](../weeks/week-01/session-1.md#skill-1-running-form--cheek-to-cheek-8-min) | [W1 S1](../weeks/week-01/session-1.md) | Running |
+| **Chop!** | [Game: "Turnaround Races"](../weeks/week-02/session-1.md#game-turnaround-races-5-min) | [W2 S1](../weeks/week-02/session-1.md) | Turn in a race · Both · Tiny steps, crouch, touch |
+| **Knees up** | [Skill 1: Running Form — "Cheek to Cheek"](../weeks/week-01/session-1.md#skill-1-running-form--cheek-to-cheek-8-min) | [W1 S1](../weeks/week-01/session-1.md) |  |
+| **Melt** | [Cool-down: "Melting Snowman"](../weeks/week-02/session-1.md#cool-down-melting-snowman-3-min) | [W2 S1](../weeks/week-02/session-1.md) | Cool-down · Both · You go first, dramatically |
+| **Ninja** | [Warm-up: "Skip & Hop Trail"](../weeks/week-02/session-2.md#warm-up-skip--hop-trail-5-min) | [W2 S2](../weeks/week-02/session-2.md) | Landing · Both · Deep knees, finger on lips |
+| **Ninja** | [Warm-up: "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min) | [W2 S5](../weeks/week-02/session-5.md) | Landing · Both · Deep knees, finger on lips |
+| **Orbit** | [Warm-up: Orbit Ball Wraps](../weeks/week-03/session-5.md#warm-up-orbit-ball-wraps-4-min--cue-orbit) | [W3 S5](../weeks/week-03/session-5.md) | Circle the ball around my body like a moon. |
+| **Plant** | [Warm-up: "Freeze Cuts"](../weeks/week-02/session-4.md#warm-up-freeze-cuts-4-min) | [W2 S4](../weeks/week-02/session-4.md) | Cut · 7yo · Stomp outside foot, cut away |
+| **Pounce** | [Game: Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce) | [W3 S4](../weeks/week-03/session-4.md) | Explode to the ball and catch it after one bounce. |
+| **Puppet** | [Warm-up: Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet) | [W3 S4](../weeks/week-03/session-4.md) | Skip high, a string pulls my knee and opposite hand up. |
+| **Skater** | [Skill Work B: Skater Bounds](../weeks/week-03/session-4.md#skill-work-b-skater-bounds-5-min--cue-skater) | [W3 S4](../weeks/week-03/session-4.md) | Bound sideways onto one foot like a speed skater and stick it. |
+| **Sloth** | [Cool-down: Sloth Crawl Tunnel](../weeks/week-03/session-4.md#cool-down-sloth-crawl-tunnel-3-min--cue-sloth) | [W3 S4](../weeks/week-03/session-4.md) | Super slow crawl, opposite hand and knee. |
+| **Statue!** | [Flamingo Stand](../weeks/week-01/session-5.md) | [W1 S5](../weeks/week-01/session-5.md) |  |
+| **Step-hop** | [Warm-up: "Skip & Hop Trail"](../weeks/week-02/session-2.md#warm-up-skip--hop-trail-5-min) | [W2 S2](../weeks/week-02/session-2.md) | Skip · Both · Slow skip with leg taps |
+| **Step-hop** | [Warm-up: "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min) | [W2 S5](../weeks/week-02/session-5.md) | Skip · Both · Slow skip with leg taps |
+| **Timber!** | [Warm-up: "Timber Starts"](../weeks/week-02/session-1.md#warm-up-timber-starts-5-min) | [W2 S1](../weeks/week-02/session-1.md) | Lean-and-go start · 7yo · Stiff body tips forward → sprint |
+| **Timber** | [Warm-up: "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min) | [W2 S5](../weeks/week-02/session-5.md) | Lean-and-go start · 7yo · Stiff body tips forward → sprint |
+| **Tummy tight** | [Skill 2: Balance Challenges](../weeks/week-01/session-2.md#skill-2-balance-challenges-6-min) | [W1 S2](../weeks/week-01/session-2.md) | Balance |
+| **Whisper** | [Skill Work A: Whisper Landings](../weeks/week-03/session-4.md#skill-work-a-whisper-landings-6-min--cue-whisper) | [W3 S4](../weeks/week-03/session-4.md) | Land so quiet nobody hears, then freeze. |
+| **Wide** | [Warm-up: "Mirror Shuffle"](../weeks/week-02/session-3.md#warm-up-mirror-shuffle-4-min) | [W2 S3](../weeks/week-02/session-3.md) | Side shuffle · Both · Sumo slide, heels never click |
+| **Wide** | [Warm-up: "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min) | [W2 S5](../weeks/week-02/session-5.md) | Side shuffle · Both · Sumo slide, heels never click |
 
-## Mixed Backyard Day
+## Multi-sport
 
-| Cue | Activity | Week / Session | What it means to the kid |
+| Cue | Activity | Week / Session | Cheat-sheet note |
 |---|---|---|---|
-| **Next** | [Game: The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next) | [W3 S5](../weeks/week-03/session-5.md) | "Done here, go straight to the next station." |
-| **Orbit** | [Warm-up: Orbit Ball Wraps](../weeks/week-03/session-5.md#warm-up-orbit-ball-wraps-4-min--cue-orbit) | [W3 S5](../weeks/week-03/session-5.md) | "Circle the ball around my body like a moon." |
-| **Replay** | [Cool-down: Highlight Replay](../weeks/week-03/session-5.md#cool-down-highlight-replay-3-min--cue-replay) | [W3 S5](../weeks/week-03/session-5.md) | "Picture my best play in slow motion." |
-| **Tape** | [Skill Work B: Tape Run-Throughs](../weeks/week-03/session-5.md#skill-work-b-tape-run-throughs-5-min--cue-tape) | [W3 S5](../weeks/week-03/session-5.md) | "The finish line is past the base. Run through it." |
-| **Umbrella** | [Skill Work A: Umbrella Fly Balls](../weeks/week-03/session-5.md#skill-work-a-umbrella-fly-balls-8-min--cue-umbrella) | [W3 S5](../weeks/week-03/session-5.md) | "Get under it, hands up above my eyes like an umbrella." |
+| **Best thing** | [Cool-down: "Week Wrap Circle"](../weeks/week-02/session-5.md#cool-down-week-wrap-circle-4-min) | [W2 S5](../weeks/week-02/session-5.md) |  |
+| **Coach's word?** | [Skill work: "Coach Big Brother"](../weeks/week-02/session-5.md#skill-work-coach-big-brother-the-full-teach-back-10-min) | [W2 S5](../weeks/week-02/session-5.md) | Teach-back · 7yo · Zip lips → demo |
+| **Replay** | [Cool-down: Highlight Replay](../weeks/week-03/session-5.md#cool-down-highlight-replay-3-min--cue-replay) | [W3 S5](../weeks/week-03/session-5.md) | Picture my best play in slow motion. |
+
+## Also on the weekly cheat sheets
+
+Cue words listed on a week's cheat sheet that are not the main cue line of a single activity.
+
+| Cue | Cheat-sheet note | Week |
+|---|---|---|
+| **Cheeks** | Running arms · 5yo · Pocket-to-cheek arm swing | [Week 2 cheat sheet](../weeks/week-02/README.md#-pocket-cheat-sheet-week-2-cue-words) |
+| **Step** | Throw (step) · 5yo · Foot squishes the cone | [Week 2 cheat sheet](../weeks/week-02/README.md#-pocket-cheat-sheet-week-2-cue-words) |

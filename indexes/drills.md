@@ -4,142 +4,201 @@
 
 [← Home](../README.md)
 
-Grouped by sport, then by activity type (warm-up, skill work, game, cool-down).
-
-> **Note:** [Week 1](../weeks/week-01/README.md) and [Week 2](../weeks/week-02/README.md) only have summary pages (the full plans were not recovered), so their drills, cue words and videos are not listed here.
-
+Grouped by sport, then by activity type (warm-up, skill work, game, station, cool-down). "Stations" are the Week 1 Backyard Olympics challenges.
 
 ## Baseball
 
 ### Warm-up
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Popcorn Ready](../weeks/week-03/session-1.md#warm-up-popcorn-ready-5-min--cue-popcorn) | **Popcorn** | 5 | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
+| [Balloon or Beach Ball Keep-Up](../weeks/week-01/session-3.md#warm-up-balloon-or-beach-ball-keep-up-4-min) |  | 4 min | [W1 S3: Catching + Tee Hitting](../weeks/week-01/session-3.md) |  |
+| [Popcorn Ready](../weeks/week-03/session-1.md#warm-up-popcorn-ready-5-min--cue-popcorn) | **Popcorn** | 5 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
 
 ### Skill Work
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Alligator Grounders](../weeks/week-03/session-1.md#skill-work-a-alligator-grounders-7-min--cue-chomp) | **Chomp** | 7 | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) | [Alligator hands drill](https://www.youtube.com/watch?v=jzilP9aE10Y) |
-| [Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot) | **Scoot** | 7 | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) | [Crow hop for youth players](https://www.youtube.com/watch?v=98nYdcKaSsM) |
+| [Throwing Intro — "Point, Step, Throw"](../weeks/week-01/session-1.md#skill-2-throwing-intro--point-step-throw-8-min) | **Point, step, throw**, **Point!** | 8 min | [W1 S1: Athlete Day + Throwing Intro](../weeks/week-01/session-1.md) | [Basic Throwing Mechanics \| Baseball Drills](https://www.youtube.com/watch?v=o3Qz0LtQZ_I), [Baseball Throwing \| Basic Techniques](https://www.youtube.com/watch?v=bjJs_yu6fvw) |
+| [Catching — "Eyes on It, Fingers Up"](../weeks/week-01/session-3.md#skill-1-catching--eyes-on-it-fingers-up-8-min) | **Eyes on it!**, **Fingers up!**, **Alligator!** | 8 min | [W1 S3: Catching + Tee Hitting](../weeks/week-01/session-3.md) | [How to Teach Baseball Catching to 5–7 Year Olds](https://www.youtube.com/watch?v=2mRuWPJS64E) |
+| [Tee Hitting — "Squish the Bug"](../weeks/week-01/session-3.md#skill-2-tee-hitting--squish-the-bug-8-min) | **Squish the bug**, **Eyes on the ball** | 8 min | [W1 S3: Catching + Tee Hitting](../weeks/week-01/session-3.md) | [Little League Tee Ball Newspaper Toss](https://www.youtube.com/watch?v=dTDIriJq_6Y) |
+| ["Belly-Button Throws"](../weeks/week-02/session-1.md#skill-work-belly-button-throws-10-min) | **Belly!** | 10 min | [W2 S1: Speed Starts & Belly-Button Throws](../weeks/week-02/session-1.md) | [How To Teach 6-8 Year Olds To Catch A Baseball](https://www.youtube.com/watch?v=6T5WWG1E8WM) |
+| ["Shuffle & Snag" (7yo)](../weeks/week-02/session-3.md#skill-work-7yo-shuffle--snag-5-min) | **Feet** | 5 min | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) | [How To Teach 6-8 Year Olds To Catch A Baseball](https://www.youtube.com/watch?v=6T5WWG1E8WM) |
+| ["Big Ball, Little Ball" (5yo)](../weeks/week-02/session-3.md#skill-work-5yo-big-ball-little-ball-5-min-alongside-the-7yo) | **Hands ready** | 5 min, alongside the 7yo | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) |  |
+| ["Rock-Step-Squish" swing + soft front toss (7yo)](../weeks/week-02/session-3.md#skill-work-7yo-rock-step-squish-swing--soft-front-toss-5-min) | **Rock** | 5 min | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) | [How to Soft Toss \| YOUTH BASEBALL AND SOFTBALL](https://www.youtube.com/watch?v=rV3EQ5tHcNE) |
+| ["Dot Hitting" off the tee (5yo)](../weeks/week-02/session-3.md#skill-work-5yo-dot-hitting-off-the-tee-5-min-at-the-same-time) | **Dot** | 5 min, at the same time | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) |  |
+| [Alligator Grounders](../weeks/week-03/session-1.md#skill-work-a-alligator-grounders-7-min--cue-chomp) | **Chomp** | 7 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) | [Alligator hands](https://www.youtube.com/watch?v=jzilP9aE10Y) |
+| [Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot) | **Scoot** | 7 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) | [Youth Baseball Drills: Throw with Crow Hop](https://www.youtube.com/watch?v=98nYdcKaSsM) |
+| [Umbrella Fly Balls](../weeks/week-03/session-5.md#skill-work-a-umbrella-fly-balls-8-min--cue-umbrella) | **Umbrella** | 8 min | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) | [How to Teach Kids How to Catch Fly Balls](https://www.youtube.com/watch?v=_QC-pBhoZWg) |
+| [Tape Run-Throughs](../weeks/week-03/session-5.md#skill-work-b-tape-run-throughs-5-min--cue-tape) | **Tape** | 5 min | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) | [Little League Tee Ball Baserunning Drill. Helping tee ball players to run through first base.](https://www.youtube.com/watch?v=b0xQ3p4L6sU) |
 
 ### Game
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Grounder Goalie](../weeks/week-03/session-1.md#game-grounder-goalie-5-min--cue-middle) | **Middle** | 5 | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
+| [Run the Bases](../weeks/week-01/session-3.md#finale-run-the-bases-4-min) |  | 4 min | [W1 S3: Catching + Tee Hitting](../weeks/week-01/session-3.md) |  |
+| ["Zone Derby"](../weeks/week-02/session-3.md#game-zone-derby-5-min) | **Rock**, **Dot** | 5 min | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) |  |
+| [Grounder Goalie](../weeks/week-03/session-1.md#game-grounder-goalie-5-min--cue-middle) | **Middle** | 5 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
+| [The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next) | **Next** | 8 min | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |
+
+### Station
+
+| Drill / game | Cue(s) | Time | Week / Session | Video |
+|---|---|---|---|---|
+| [Castle Knockdown](../weeks/week-01/session-5.md) | **Point, step, throw** |  | [W1 S5: "Backyard Olympics"](../weeks/week-01/session-5.md) |  |
+| [Catch Ladder](../weeks/week-01/session-5.md) | **Eyes on it** |  | [W1 S5: "Backyard Olympics"](../weeks/week-01/session-5.md) |  |
 
 ### Cool-down
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float) | **Float** | 3 | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
+| ["Glove Pillow"](../weeks/week-02/session-3.md#cool-down-glove-pillow-3-min) | **Pillow** | 3 min | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) |  |
+| [Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float) | **Float** | 3 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
 
 ## Soccer
 
 ### Warm-up
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Piano Toe Taps](../weeks/week-03/session-2.md#warm-up-piano-toe-taps-4-min--cue-piano) | **Piano** | 4 | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
+| [Body Part Simon Says with a Ball](../weeks/week-01/session-2.md#warm-up-body-part-simon-says-with-a-ball-4-min) |  | 4 min | [W1 S2: Soccer Dribbling + Balance](../weeks/week-01/session-2.md) | [U6 Body Part Dribble Activity](https://www.youtube.com/watch?v=xEJfAJy3xrY) |
+| [Piano Toe Taps](../weeks/week-03/session-2.md#warm-up-piano-toe-taps-4-min--cue-piano) | **Piano** | 4 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
 
 ### Skill Work
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Pillow First Touch](../weeks/week-03/session-2.md#skill-work-a-pillow-first-touch-6-min--cue-pillow) | **Pillow** | 6 | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) | [First touch into space](https://www.youtube.com/watch?v=cvJjbP80cR0) |
-| [Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces) | **Shoelaces** | 6 | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) | [Kids shooting basics](https://www.youtube.com/watch?v=AwbuY5mAq-g) |
+| [Dribbling — "Small Touches"](../weeks/week-01/session-2.md#skill-1-dribbling--small-touches-8-min) | **Small touches**, **Ball on a leash**, **Foot on top!** | 8 min | [W1 S2: Soccer Dribbling + Balance](../weeks/week-01/session-2.md) | [U6 Red Light/Green Light Activity](https://www.youtube.com/watch?v=PfI7RqQm4d0) |
+| ["Gate Passing" (7yo)](../weeks/week-02/session-2.md#skill-work-7yo-gate-passing-10-min-split-with-the-5yo-block-below) | **Lock!** | 10 min, split with the 5yo block below | [W2 S2: Locked Ankles, Both Feet, First Shots](../weeks/week-02/session-2.md) | [How to Pass A Soccer Ball](https://www.youtube.com/watch?v=yOXrf0TIphg), [#4. How to teach: Passing › Inside foot \| Soccer skills in PE (grade K-6)](https://www.youtube.com/watch?v=yk5Gku_Ojas) |
+| ["Cone Slalom" (5yo)](../weeks/week-02/session-2.md#skill-work-5yo-cone-slalom-during-the-same-10-min) | **Steer** | during the same 10 min | [W2 S2: Locked Ankles, Both Feet, First Shots](../weeks/week-02/session-2.md) | [U6 Gates Activity](https://www.youtube.com/watch?v=2y8aaghFp6U) |
+| [Pillow First Touch](../weeks/week-03/session-2.md#skill-work-a-pillow-first-touch-6-min--cue-pillow) | **Pillow** | 6 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) | [Passing Drill for Youth Players: First Touch into Space](https://www.youtube.com/watch?v=cvJjbP80cR0) |
+| [Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces) | **Shoelaces** | 6 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) | [Kids soccer SHOOTING basics ⚽️](https://www.youtube.com/watch?v=AwbuY5mAq-g) |
 
 ### Game
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Treasure Keeper](../weeks/week-03/session-2.md#game-treasure-keeper-7-min--cue-shell) | **Shell** | 7 | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
+| [Sharks and Minnows](../weeks/week-01/session-2.md#finale-sharks-and-minnows-5-min) |  | 5 min | [W1 S2: Soccer Dribbling + Balance](../weeks/week-01/session-2.md) |  |
+| ["Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min) | **Lock**, **Boom!** | 5 min | [W2 S2: Locked Ankles, Both Feet, First Shots](../weeks/week-02/session-2.md) |  |
+| [Treasure Keeper](../weeks/week-03/session-2.md#game-treasure-keeper-7-min--cue-shell) | **Shell** | 7 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
+
+### Station
+
+| Drill / game | Cue(s) | Time | Week / Session | Video |
+|---|---|---|---|---|
+| [Dribble Gates](../weeks/week-01/session-5.md) | **Small touches** |  | [W1 S5: "Backyard Olympics"](../weeks/week-01/session-5.md) |  |
 
 ### Cool-down
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Sleepy Sole Rolls](../weeks/week-03/session-2.md#cool-down-sleepy-sole-rolls-3-min--cue-sleepy) | **Sleepy** | 3 | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
+| ["Ball Roll Stretch"](../weeks/week-02/session-2.md#cool-down-ball-roll-stretch-3-min) | **Slow roll** | 3 min | [W2 S2: Locked Ankles, Both Feet, First Shots](../weeks/week-02/session-2.md) |  |
+| [Sleepy Sole Rolls](../weeks/week-03/session-2.md#cool-down-sleepy-sole-rolls-3-min--cue-sleepy) | **Sleepy** | 3 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
 
 ## Flag Football
 
 ### Warm-up
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk) | **Moonwalk** | 5 | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
+| [Tail Tag](../weeks/week-01/session-4.md#warm-up-tail-tag-5-min) |  | 5 min | [W1 S4: Flag Football Day](../weeks/week-01/session-4.md) |  |
+| [Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk) | **Moonwalk** | 5 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
 
 ### Skill Work
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Window Handoffs](../weeks/week-03/session-3.md#skill-work-a-window-handoffs-7-min--cue-window) | **Window** | 7 | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) | [MOJO handoff drill](https://www.youtube.com/watch?v=pemHnTPHbUA) |
-| [Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone) | **Phone** | 6 | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
+| [Flag Pulling — "Break Down, Grab, Rip"](../weeks/week-01/session-4.md#skill-1-flag-pulling--break-down-grab-rip-8-min) | **Eyes on the belt**, **Chop, chop, GRAB**, **Hold it up!** | 8 min | [W1 S4: Flag Football Day](../weeks/week-01/session-4.md) | [Flag Pulling Drills \| NFL FLAG Football](https://www.youtube.com/watch?v=Z9JWY_8JRKA) |
+| [Running with the Ball + Simple Catch](../weeks/week-01/session-4.md#skill-2-running-with-the-ball--simple-catch-6-min) | **Hide it!**, **Diamond hands!** | 6 min | [W1 S4: Flag Football Day](../weeks/week-01/session-4.md) |  |
+| ["Route Cards" + "Laces Grip" (7yo)](../weeks/week-02/session-4.md#skill-work-7yo-route-cards--laces-grip-10-min) | **Five**, **Laces** | 10 min | [W2 S4: Routes, Grips & Soft-Football Catches](../weeks/week-02/session-4.md) | [How to Catch a Football \| NFL FLAG Drills](https://www.youtube.com/watch?v=803CND760i4), [How to hold a football the RIGHT way](https://www.youtube.com/shorts/W9558zWeIws) |
+| ["Basket Catch" with a soft football (5yo)](../weeks/week-02/session-4.md#skill-work-5yo-basket-catch-with-a-soft-football-alongside-the-7yo) | **Basket** | alongside the 7yo | [W2 S4: Routes, Grips & Soft-Football Catches](../weeks/week-02/session-4.md) | [3 Beginner Football Catching Drills](https://www.youtube.com/watch?v=N2Y4_Y0zoRw) |
+| [Window Handoffs](../weeks/week-03/session-3.md#skill-work-a-window-handoffs-7-min--cue-window) | **Window** | 7 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) | [The Handoff \| Fun Flag Football Drills by MOJO](https://www.youtube.com/watch?v=pemHnTPHbUA) |
+| [Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone) | **Phone** | 6 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
 
 ### Game
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Mr. Wolf Flag Escape](../weeks/week-03/session-3.md#game-mr-wolf-flag-escape-6-min--cue-zigzag) | **Zigzag** | 6 | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
+| [Mini Game](../weeks/week-01/session-4.md#finale-mini-game-5-min) |  | 5 min | [W1 S4: Flag Football Day](../weeks/week-01/session-4.md) |  |
+| ["Route Call Touchdown"](../weeks/week-02/session-4.md#game-route-call-touchdown-5-min) | **Five**, **Basket** | 5 min | [W2 S4: Routes, Grips & Soft-Football Catches](../weeks/week-02/session-4.md) |  |
+| [Mr. Wolf Flag Escape](../weeks/week-03/session-3.md#game-mr-wolf-flag-escape-6-min--cue-zigzag) | **Zigzag** | 6 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
+
+### Station
+
+| Drill / game | Cue(s) | Time | Week / Session | Video |
+|---|---|---|---|---|
+| [Flag Pull Challenge](../weeks/week-01/session-5.md) |  |  | [W1 S5: "Backyard Olympics"](../weeks/week-01/session-5.md) |  |
 
 ### Cool-down
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Starfish & Seashell](../weeks/week-03/session-3.md#cool-down-starfish--seashell-3-min--cue-starfish) | **Starfish** | 3 | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
+| ["Playbook Draw"](../weeks/week-02/session-4.md#cool-down-playbook-draw-3-min) | **Walk-through** | 3 min | [W2 S4: Routes, Grips & Soft-Football Catches](../weeks/week-02/session-4.md) |  |
+| [Starfish & Seashell](../weeks/week-03/session-3.md#cool-down-starfish--seashell-3-min--cue-starfish) | **Starfish** | 3 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
 
 ## Athleticism
 
 ### Warm-up
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet) | **Puppet** | 5 | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
+| [Animal Walks](../weeks/week-01/session-1.md#warm-up-animal-walks-5-min) |  | 5 min | [W1 S1: Athlete Day + Throwing Intro](../weeks/week-01/session-1.md) |  |
+| ["Timber Starts"](../weeks/week-02/session-1.md#warm-up-timber-starts-5-min) | **Timber!** | 5 min | [W2 S1: Speed Starts & Belly-Button Throws](../weeks/week-02/session-1.md) | [Top 10 Sprint Acceleration Drills [#10 Falling Sprint]](https://www.youtube.com/watch?v=77YR0tOHn44) |
+| ["Skip & Hop Trail"](../weeks/week-02/session-2.md#warm-up-skip--hop-trail-5-min) | **Step-hop**, **Ninja** | 5 min | [W2 S2: Locked Ankles, Both Feet, First Shots](../weeks/week-02/session-2.md) | [Teaching Kids How to Skip](https://www.youtube.com/watch?v=UHctZqezc9U) |
+| ["Mirror Shuffle"](../weeks/week-02/session-3.md#warm-up-mirror-shuffle-4-min) | **Wide** | 4 min | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) |  |
+| ["Freeze Cuts"](../weeks/week-02/session-4.md#warm-up-freeze-cuts-4-min) | **Plant** | 4 min | [W2 S4: Routes, Grips & Soft-Football Catches](../weeks/week-02/session-4.md) |  |
+| ["Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min) | **Step-hop**, **Wide**, **Timber**, **Ninja** | 4 min | [W2 S5: Teach-Back Day & the Triple Threat Course](../weeks/week-02/session-5.md) |  |
+| [Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet) | **Puppet** | 5 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
+| [Orbit Ball Wraps](../weeks/week-03/session-5.md#warm-up-orbit-ball-wraps-4-min--cue-orbit) | **Orbit** | 4 min | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |
 
 ### Skill Work
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Whisper Landings](../weeks/week-03/session-4.md#skill-work-a-whisper-landings-6-min--cue-whisper) | **Whisper** | 6 | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) | [Jumping and landing for kids](https://www.youtube.com/watch?v=60N3vdH6NgI) |
-| [Skater Bounds](../weeks/week-03/session-4.md#skill-work-b-skater-bounds-5-min--cue-skater) | **Skater** | 5 | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
+| [Running Form — "Cheek to Cheek"](../weeks/week-01/session-1.md#skill-1-running-form--cheek-to-cheek-8-min) | **Cheek to cheek**, **Knees up** | 8 min | [W1 S1: Athlete Day + Throwing Intro](../weeks/week-01/session-1.md) | [Running Technique for Kids \| Core Kids](https://www.youtube.com/watch?v=rPTFJSOC9yg) |
+| [Balance Challenges](../weeks/week-01/session-2.md#skill-2-balance-challenges-6-min) | **Be a statue**, **Tummy tight** | 6 min | [W1 S2: Soccer Dribbling + Balance](../weeks/week-01/session-2.md) |  |
+| [Whisper Landings](../weeks/week-03/session-4.md#skill-work-a-whisper-landings-6-min--cue-whisper) | **Whisper** | 6 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) | [Elementary physical education and assessment- jumping and landing](https://www.youtube.com/watch?v=60N3vdH6NgI) |
+| [Skater Bounds](../weeks/week-03/session-4.md#skill-work-b-skater-bounds-5-min--cue-skater) | **Skater** | 5 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
 
 ### Game
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce) | **Pounce** | 6 | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
+| [Freeze Tag with Flamingos](../weeks/week-01/session-1.md#finale-freeze-tag-with-flamingos-4-min) |  | 4 min | [W1 S1: Athlete Day + Throwing Intro](../weeks/week-01/session-1.md) |  |
+| ["Turnaround Races"](../weeks/week-02/session-1.md#game-turnaround-races-5-min) | **Chop!** | 5 min | [W2 S1: Speed Starts & Belly-Button Throws](../weeks/week-02/session-1.md) |  |
+| [Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce) | **Pounce** | 6 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
+
+### Station
+
+| Drill / game | Cue(s) | Time | Week / Session | Video |
+|---|---|---|---|---|
+| [Flamingo Stand](../weeks/week-01/session-5.md) | **Statue!** |  | [W1 S5: "Backyard Olympics"](../weeks/week-01/session-5.md) |  |
+| [Sprint Race](../weeks/week-01/session-5.md) |  |  | [W1 S5: "Backyard Olympics"](../weeks/week-01/session-5.md) |  |
 
 ### Cool-down
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Sloth Crawl Tunnel](../weeks/week-03/session-4.md#cool-down-sloth-crawl-tunnel-3-min--cue-sloth) | **Sloth** | 3 | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
+| ["Melting Snowman"](../weeks/week-02/session-1.md#cool-down-melting-snowman-3-min) | **Melt** | 3 min | [W2 S1: Speed Starts & Belly-Button Throws](../weeks/week-02/session-1.md) |  |
+| [Sloth Crawl Tunnel](../weeks/week-03/session-4.md#cool-down-sloth-crawl-tunnel-3-min--cue-sloth) | **Sloth** | 3 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
 
-## Mixed Backyard Day
-
-### Warm-up
-
-| Drill / game | Cue | Min | Week / Session | Video |
-|---|---|---|---|---|
-| [Orbit Ball Wraps](../weeks/week-03/session-5.md#warm-up-orbit-ball-wraps-4-min--cue-orbit) | **Orbit** | 4 | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |
+## Multi-sport
 
 ### Skill Work
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Umbrella Fly Balls](../weeks/week-03/session-5.md#skill-work-a-umbrella-fly-balls-8-min--cue-umbrella) | **Umbrella** | 8 | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) | [Teaching kids fly balls](https://www.youtube.com/watch?v=_QC-pBhoZWg) |
-| [Tape Run-Throughs](../weeks/week-03/session-5.md#skill-work-b-tape-run-throughs-5-min--cue-tape) | **Tape** | 5 | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) | [Running through first](https://www.youtube.com/watch?v=b0xQ3p4L6sU) |
+| ["Coach Big Brother"](../weeks/week-02/session-5.md#skill-work-coach-big-brother-the-full-teach-back-10-min) | **Coach's word?** | the full teach-back, 10 min | [W2 S5: Teach-Back Day & the Triple Threat Course](../weeks/week-02/session-5.md) |  |
 
 ### Game
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next) | **Next** | 8 | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |
+| ["Triple Threat Course"](../weeks/week-02/session-5.md#game-triple-threat-course-5-min) |  | 5 min | [W2 S5: Teach-Back Day & the Triple Threat Course](../weeks/week-02/session-5.md) |  |
 
 ### Cool-down
 
-| Drill / game | Cue | Min | Week / Session | Video |
+| Drill / game | Cue(s) | Time | Week / Session | Video |
 |---|---|---|---|---|
-| [Highlight Replay](../weeks/week-03/session-5.md#cool-down-highlight-replay-3-min--cue-replay) | **Replay** | 3 | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |
+| ["Week Wrap Circle"](../weeks/week-02/session-5.md#cool-down-week-wrap-circle-4-min) | **Best thing** | 4 min | [W2 S5: Teach-Back Day & the Triple Threat Course](../weeks/week-02/session-5.md) |  |
+| [Highlight Replay](../weeks/week-03/session-5.md#cool-down-highlight-replay-3-min--cue-replay) | **Replay** | 3 min | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |

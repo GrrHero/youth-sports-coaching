@@ -4,12 +4,101 @@
 
 [← Home](../README.md)
 
-The general teaching habits used across the plans, quoted from the weekly plans, plus the learning ideas behind each drill (from its "Why it works" note).
+The general teaching habits from each week, quoted from the weekly plans, then the learning ideas behind individual drills (quoted from each drill's "Why it works" note).
 
-> **Note:** [Week 1](../weeks/week-01/README.md) and [Week 2](../weeks/week-02/README.md) only have summary pages (the full plans were not recovered), so their drills, cue words and videos are not listed here.
+## Contents
+
+- [Week 1 teaching habits](#week-1-teaching-habits)
+- [Week 2 teaching habits](#week-2-teaching-habits)
+- [Week 3 teaching habits](#week-3-teaching-habits)
+- [Learning ideas behind the drills](#learning-ideas-behind-the-drills)
+
+## Week 1 teaching habits
+
+*From the [Week 1 overview](../weeks/week-01/README.md).*
+
+### Part 1: How to Teach (Read This First)
 
 
-## House rules (from [Week 3](../weeks/week-03/README.md))
+You already know how to play. Teaching is a different skill, and it's mostly a few habits. Here's the playbook you'll use in every session.
+
+#### The 6 rules that make young kids learn
+
+1. **Play → Practice → Play (whole-part-whole).** Start with a game that uses the skill, pull out one small piece to work on, then go straight back to the game.
+   *Why it works:* kids learn movement by doing the whole thing. Pulling out one piece briefly gives focus, and going back to the game is where it sticks. Starting with a game also earns their buy-in before you "teach."
+
+2. **One cue at a time.** A 5-year-old can hold about one instruction at a time and a 7-year-old maybe two. Choose one cue word per activity and repeat it. Leave everything else alone, even if it's wrong.
+   *Why it works:* young brains get overloaded fast. One focused fix beats five half-fixes.
+
+3. **Show, don't tell (the silent demo).** Show it 2–3 times *without talking*, then once more with the cue word: "Watch my feet... [demo]... *step*!" Face the way they'll face (stand beside them, not across from them) so they don't have to mirror you.
+   *Why it works:* kids copy what they see far better than they follow what they hear.
+
+4. **Ask, don't always tell (guided discovery).** "What happened when you stepped toward me?" "Which way did the ball go when you used your toe?" Let them try two ways and tell you which worked better.
+   *Why it works:* when they find the answer themselves, they remember it and they feel smart.
+
+5. **Praise effort and the specific thing.** Say "I loved how you stepped toward me!" instead of "Good job." Say "You kept trying even after that drop. That's what athletes do." Aim for at least 4 positive comments for every correction.
+   *Why it works:* praising effort builds kids who keep trying (a "growth mindset"). Specific praise tells them exactly what to repeat.
+
+6. **Short and switching.** Each activity takes 4–7 minutes. Stop *while it's still fun*, before it falls apart. Attention spans run roughly 2–3 minutes per year of age, so about 10–15 min for the 5yo and 15–20 for the 7yo even when they're into it, and much less when they're tired.
+   *Why it works:* ending on a high keeps them asking for "Dad practice" tomorrow.
+
+#### The Coaching Loop (use it for every skill)
+**Game → Notice → Show → Cue → Try → Praise → Game**
+1. Let them play the game.
+2. Notice the *one* most important thing to fix.
+3. Show it silently.
+4. Say the cue word.
+5. They try it 5–10 times.
+6. Praise the specific improvement, or the effort if it's not there yet.
+7. Back to the game. Say the cue during play as a reminder: "*Step!*"
+
+#### How to correct without deflating them
+- **Sandwich it:** "Great hustle! → Let's try pointing your glove this time. → I knew you'd get it!"
+- **Fix one thing, then let it go.** If the throw is better but the foot is still wrong, celebrate the throw.
+- **Use "try" language:** "Let's try..." and "Can you show me...?" instead of "No, that's wrong."
+- **Turn it into a challenge:** "Bet you can't keep it close enough to stop it on 'red light'!"
+
+#### Running two ages at once
+- **Same game, different rules.** The 5yo stands closer, gets a bigger ball and gets more tries. The 7yo gets a smaller target or a time limit.
+- **Compete against yourself, not your brother.** Track personal bests ("Last time you got 6 — can you get 7?") rather than head-to-head races, which the 5yo will usually lose.
+- **Give the 7yo a "coach" job sometimes.** "Can you show your brother how you step?" It builds confidence and checks that he understands. Keep it short and supervised so it doesn't turn into bossing.
+- **When they do go head-to-head, handicap it** (the 7yo hops, or starts farther back) so it's actually close.
+
+## Week 2 teaching habits
+
+*From the [Week 2 overview](../weeks/week-02/README.md).*
+
+### Before you start: what's new this week
+
+
+Week 1 was about getting the basic pattern down. Week 2 is about **adding one piece at a time** to that pattern: a hip turn on the throw, a load on the swing, a cut on a run. You'll keep using the habits you already know (whole-part-whole, one cue, silent demo, guided discovery, effort praise, the coaching loop). Three things are new:
+
+1. **Cool-downs every session.** They take 3–4 minutes. They calm the boys' bodies down and give the day a clear ending, which makes the next session easier to start. They also give you one last chance to repeat the cue word.
+2. **Kid's Choice.** Each boy picks **one game per session** from the Choice Menu below. Kids who get a real choice try harder, and it costs you nothing.
+3. **7-year-old teach-back.** Your 7yo explains or shows a skill to his brother. A short version happens in every cool-down, and the full version is Session 5. Teaching something is one of the fastest ways for a kid to learn it.
+
+#### Session shape (about 30 min; a 20-min version is listed for each session)
+| Block | Time | Purpose |
+|---|---|---|
+| Warm-up | 4–5 min | Movement skill + raise heart rate |
+| Skill work | 8–10 min | One new piece per boy |
+| Game | 5 min + Kid's Choice (2 × 3 min) | Use the skill under fun pressure |
+| Cool-down | 3–4 min | Calm down, review the cue, teach-back |
+
+#### Kid's Choice Menu (print it or snap a photo)
+Week 1 favorites: Flamingo Freeze Tag, Sharks & Minnows, Bottle Knockdown, Red/Green Light, Tail Tag, Balloon Keep-Up, Simon Says with Ball, Mini Flag Game.
+Week 2 additions as you learn them: Turnaround Races, Soccer Bowling, Zone Derby, Route Call Touchdown, Triple Threat Course.
+
+**Choice rules:** the 5yo picks first on Sessions 1, 3, and 5, and the 7yo picks first on 2 and 4. The chooser gets to be "rule boss" for one small tweak, like a smaller field or Dad hops on one foot. **Why it works:** a predictable turn order prevents fights before they start, and the tweak gives the chooser real ownership without letting the game fall apart.
+
+#### How to read each activity
+Every activity uses the same layout: **Steps → Cue → Silent demo → Errors & fixes (5yo / 7yo) → 5 vs 7 → Fun → Why it works.** Say the cue word, show the demo, and get them moving. Keep talking to 20 seconds or less.
+
+**Your 3 rules for the week:** One word. Show, don't tell. Praise the effort, then give one tip.
+
+## Week 3 teaching habits
+
+*From the [Week 3 overview](../weeks/week-03/README.md).*
 
 **Three rules for the whole week:**
 1. **Play first, talk second.** Get them moving inside 30 seconds. Say no more than 10 to 15 words before the first rep.
@@ -22,28 +111,34 @@ The general teaching habits used across the plans, quoted from the weekly plans,
 
 ## Learning ideas behind the drills
 
-Each idea links to every activity whose "Why it works" note names it, with the sentence that names it.
+Each idea links to the activities whose "Why it works" note uses it, with the sentence that says so.
 
 ### External focus
 
+- [W2 S3 · "Dot Hitting" off the tee](../weeks/week-02/session-3.md#skill-work-5yo-dot-hitting-off-the-tee-5-min-at-the-same-time): Focusing on something outside the body (the dot) works better than thinking about body parts.
 - [W3 S1 · Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot): A target gives an **external focus** (attention on where the ball goes, not on the elbow).
 - [W3 S2 · Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces): Putting attention on the shoelaces meeting the ball is an **external focus**, which is better than "point your toe, lock your ankle."
+- [W3 S3 · Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone): The target keeps attention outside the body.
 - [W3 S4 · Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet): The reach target gives an **external focus**.
 - [W3 S4 · Whisper Landings](../weeks/week-03/session-4.md#skill-work-a-whisper-landings-6-min--cue-whisper): The "quiet" target is an **external focus** that naturally creates soft, bent-knee landings without a list of joint instructions.
 
 ### Analogy / implicit learning
 
+- [W2 S1 · "Timber Starts"](../weeks/week-02/session-1.md#warm-up-timber-starts-5-min): The lean lets gravity start the sprint, so it uses a natural reflex instead of a list of instructions.
 - [W3 S1 · Popcorn Ready](../weeks/week-03/session-1.md#warm-up-popcorn-ready-5-min--cue-popcorn): The cue "Popcorn" is an *analogy* (exploding up into a shape), and analogies help young kids learn movements without a list of body-part rules to remember.
 - [W3 S3 · Window Handoffs](../weeks/week-03/session-3.md#skill-work-a-window-handoffs-7-min--cue-window): The "window" picture gives one clear shape to make, again **analogy learning**.
 - [W3 S3 · Mr. Wolf Flag Escape](../weeks/week-03/session-3.md#game-mr-wolf-flag-escape-6-min--cue-zigzag): Evasion is learned **implicitly**: the boys figure out what works against a real chaser, rather than practicing a rehearsed juke.
 
 ### Errorless learning (start easy, then add difficulty)
 
+- [W2 S3 · "Big Ball, Little Ball"](../weeks/week-02/session-3.md#skill-work-5yo-big-ball-little-ball-5-min-alongside-the-7yo): Stepping down in ball size keeps him catching most of the time while the task gets harder.
+- [W2 S4 · "Basket Catch" with a soft football](../weeks/week-02/session-4.md#skill-work-5yo-basket-catch-with-a-soft-football-alongside-the-7yo): A soft ball tossed at his belly means he'll catch it most of the time, which builds the confidence he needs before harder throws.
 - [W3 S1 · Alligator Grounders](../weeks/week-03/session-1.md#skill-work-a-alligator-grounders-7-min--cue-chomp): Starting slow and straight-on is close to **errorless learning**: early success builds the picture and the confidence, then you add difficulty.
 - [W3 S5 · Umbrella Fly Balls](../weeks/week-03/session-5.md#skill-work-a-umbrella-fly-balls-8-min--cue-umbrella): That's **errorless learning**: getting the pattern right before adding the speed and fear of a smaller ball.
 
 ### Constraints-led games (let the setup do the coaching)
 
+- [W2 S2 · "Cone Slalom"](../weeks/week-02/session-2.md#skill-work-5yo-cone-slalom-during-the-same-10-min): Cones give him a clear path to follow, so he gets practice steering the ball without needing you to correct him.
 - [W3 S1 · Grounder Goalie](../weeks/week-03/session-1.md#game-grounder-goalie-5-min--cue-middle): This is a **constraints-led** game.
 - [W3 S2 · Pillow First Touch](../weeks/week-03/session-2.md#skill-work-a-pillow-first-touch-6-min--cue-pillow): The gates are a **constraint**: they force a directional first touch without you explaining it.
 - [W3 S3 · Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk): Using you as a moving reference point is a natural **constraint**.
@@ -51,6 +146,8 @@ Each idea links to every activity whose "Why it works" note names it, with the s
 
 ### Whole-part-whole / part practice
 
+- [W2 S3 · "Rock-Step-Squish" swing + soft front toss](../weeks/week-02/session-3.md#skill-work-7yo-rock-step-squish-swing--soft-front-toss-5-min): Freezing each part shows him where it goes, and the full-speed swing ties it back together.
+- [W2 S4 · "Route Cards" + "Laces Grip"](../weeks/week-02/session-4.md#skill-work-7yo-route-cards--laces-grip-10-min): Routes and the grip are two separate skills, so teaching them separately keeps it simple.
 - [W3 S1 · Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot): The crow hop is taught **whole-part-whole**: one full throw, then the hop alone between shoes, then the full throw again.
 - [W3 S2 · Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces): Starting with a still ball, then adding a first touch (for the 7yo) is a simple **part-to-whole progression**.
 - [W3 S3 · Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone): That's a **part-practice** step, and then you go straight back to the whole throw.
@@ -62,35 +159,64 @@ Each idea links to every activity whose "Why it works" note names it, with the s
 
 ### Progression from easy to hard
 
+- [W2 S1 · "Belly-Button Throws"](../weeks/week-02/session-1.md#skill-work-belly-button-throws-10-min): One new piece on top of a known pattern keeps the challenge just hard enough.
+- [W2 S2 · "Gate Passing"](../weeks/week-02/session-2.md#skill-work-7yo-gate-passing-10-min-split-with-the-5yo-block-below): Shrinking the gate raises the difficulty only after he succeeds.
+- [W2 S3 · "Big Ball, Little Ball"](../weeks/week-02/session-3.md#skill-work-5yo-big-ball-little-ball-5-min-alongside-the-7yo): Stepping down in ball size keeps him catching most of the time while the task gets harder.
 - [W3 S5 · Orbit Ball Wraps](../weeks/week-03/session-5.md#warm-up-orbit-ball-wraps-4-min--cue-orbit): Moving from a big ball to a small ball is a simple **progression from easy to hard** that matches each boy's level.
 
 ### Just-right challenge / scaling the task
 
+- [W2 S1 · "Belly-Button Throws"](../weeks/week-02/session-1.md#skill-work-belly-button-throws-10-min): One new piece on top of a known pattern keeps the challenge just hard enough.
+- [W2 S1 · "Turnaround Races"](../weeks/week-02/session-1.md#game-turnaround-races-5-min): The handicaps keep both boys in the game so the younger one doesn't quit.
 - [W3 S2 · Treasure Keeper](../weeks/week-03/session-2.md#game-treasure-keeper-7-min--cue-shell): Starting with you as a slow pirate gives a **just-right challenge**.
 - [W3 S4 · Skater Bounds](../weeks/week-03/session-4.md#skill-work-b-skater-bounds-5-min--cue-skater): **Scaling the task** (two feet for the 5yo, one foot for the 7yo) keeps both of them working at their edge without failing.
 - [W3 S4 · Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce): The adjustable distance keeps the success rate high but not too high (around 60 to 80% success is a good learning zone).
 
 ### Autonomy (let them choose)
 
+- [W2 S4 · "Route Call Touchdown"](../weeks/week-02/session-4.md#game-route-call-touchdown-5-min): Calling his own route makes the 7yo plan it first.
+- [W2 S5 · "Week Wrap Circle"](../weeks/week-02/session-5.md#cool-down-week-wrap-circle-4-min): Saying out loud what they want to learn next gives them a say in Week 3.
 - [W3 S1 · Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot): The distance choice gives him **autonomy**, which keeps motivation high.
 
 ### Developmentally appropriate
 
 - [W3 S4 · Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet): For the 5yo, letting him gallop until skipping comes is **developmentally appropriate**.
 
-### Cooperative motivation
+### Cooperative motivation / compete against yourself
 
+- [W2 S5 · "Triple Threat Course"](../weeks/week-02/session-5.md#game-triple-threat-course-5-min): Timing against himself keeps the 5yo from comparing himself to his older brother.
 - [W3 S5 · The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next): Team scoring against a target number avoids a 7-vs-5 contest the younger one will always lose, which keeps the motivation **cooperative**.
 
 ### Variable practice
 
+- [W2 S3 · "Shuffle & Snag"](../weeks/week-02/session-3.md#skill-work-7yo-shuffle--snag-5-min): Catching balls in a mix of spots builds real-game skill better than 20 catches in the same place.
+- [W2 S5 · "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min): Mixing up the week's movements in random order makes them recall each skill on the spot, which helps them remember it better than repeating one move.
 - [W3 S5 · The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next): Mixing different skills in one game (**variable practice**) feels harder now but makes learning stick better later.
+
+### Instant feedback
+
+- [W2 S1 · "Turnaround Races"](../weeks/week-02/session-1.md#game-turnaround-races-5-min): Races give instant, honest feedback with no lecture needed.
+- [W2 S2 · "Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min): Knocking a pin over shows right away whether the pass was accurate.
 
 ### Reaction training
 
+- [W2 S3 · "Mirror Shuffle"](../weeks/week-02/session-3.md#warm-up-mirror-shuffle-4-min): Mirroring makes them react to what they see, which is how fielding actually works, and it's more fun than following orders.
 - [W3 S3 · Mr. Wolf Flag Escape](../weeks/week-03/session-3.md#game-mr-wolf-flag-escape-6-min--cue-zigzag): The steps toward the wolf build suspense, and the sudden chase is a natural **reaction trigger**.
 - [W3 S4 · Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce): This trains **reaction time, first-step quickness and hand-eye tracking**, the same things fielding a grounder needs.
 
-### Mental rehearsal
+### Teach-back (learning by teaching)
 
+- [W2 S2 · "Ball Roll Stretch"](../weeks/week-02/session-2.md#cool-down-ball-roll-stretch-3-min): Teaching the cue makes the 7yo put it into his own words.
+- [W2 S4 · "Route Call Touchdown"](../weeks/week-02/session-4.md#game-route-call-touchdown-5-min): The bonus round is a teach-back where the 7yo has to make his throw catchable, which shows real empathy and control.
+- [W2 S5 · "Coach Big Brother"](../weeks/week-02/session-5.md#skill-work-coach-big-brother-the-full-teach-back-10-min): Explaining a skill makes the 7yo understand it better himself.
+
+### Mental rehearsal / recall
+
+- [W2 S1 · "Melting Snowman"](../weeks/week-02/session-1.md#cool-down-melting-snowman-3-min): Saying the cue one last time helps it stick, and the same ending ritual tells them practice is over in a good way.
+- [W3 S1 · Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float): The one-question recap gets them to recall what they learned, which helps it stick.
 - [W3 S5 · Highlight Replay](../weeks/week-03/session-5.md#cool-down-highlight-replay-3-min--cue-replay): Picturing the movement (**mental rehearsal**) and recalling the cue word strengthens memory of the skill.
+
+### Ending on a high
+
+- [W2 S5 · "Week Wrap Circle"](../weeks/week-02/session-5.md#cool-down-week-wrap-circle-4-min): People remember the end of an experience most, so a warm finish makes them look forward to next week.
+- [W3 S1 · Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float): Slow belly breathing helps kids settle after excitement and gives a clear, calm end to practice.

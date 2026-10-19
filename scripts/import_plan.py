@@ -1,93 +1,115 @@
 #!/usr/bin/env python3
 """Split a full weekly plan (one markdown file) into the repo's week layout.
 
-Usage:  python3 scripts/import_plan.py 4 sources/week-04-plan.md
+Usage:  python3 scripts/import_plan.py WEEK SOURCE.md [--week-of "Oct 26, 2026"]
+e.g.    python3 scripts/import_plan.py 4 sources/week-04-plan.md --week-of "Oct 26, 2026"
 
-Expects the same shape as the Week 3 plan:
-  # Week N ... title
-  ## 1. Week Overview
-  ## 2. Session 1: <Sport>: <Title> (NN min)   ... one per session
-  ## 7. Coaching Groups at the Fields ...
-  ## 8. Week N+1 Preview
-  ## 9. Week N Cue-Word Cheat Sheet
-  ## Video List ...
-Session text is copied verbatim; only heading levels are shifted (### -> ##)
-and a small navigation line is added. Afterwards run: python3 scripts/build.py
+Works with the layouts used so far (Weeks 1-3). Level-2 (##) sections are routed:
+  * "Session N: ..." / "Session N — ..." / "SESSION N: ..." / "N. Session N: ..."  -> session-N.md
+  * a heading mentioning group / volunteer coaching at the fields               -> group-coaching.md
+  * everything else (overview, how-to-teach, preview, videos, cheat sheet)       -> README.md
+Text is copied verbatim. Only heading levels change (### -> ## inside session and
+group files), a leading "N. " section number is dropped, and navigation links are added.
+Then edit weeks/week-NN/week.json (sport per session/activity) and run scripts/build.py.
 """
-import re, sys, pathlib
+import re, sys, json, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+SESSION_RE = re.compile(r'^(?:\d+\.\s*)?session\s+(\d+)\s*(?::|—|–|-)\s*(.+)$', re.I)
+GROUP_RE = re.compile(r'(coaching groups|group coaching|volunteer coaching)', re.I)
 
-def main(week, src):
-    text = pathlib.Path(src).read_text()
-    lines = text.splitlines()
+
+def trim(ls):
+    ls = list(ls)
+    while ls and ls[-1].strip() in ('', '---'):
+        ls.pop()
+    while ls and ls[0].strip() in ('', '---'):
+        ls.pop(0)
+    return ls
+
+
+def demote(ls):
+    """Inside session/group files the section becomes the page title, so ### -> ##, #### -> ###."""
+    return [ln[1:] if re.match(r'^#{3,6} ', ln) else ln for ln in ls]
+
+
+def main(week, src, week_of=None):
+    lines = pathlib.Path(src).read_text().splitlines()
     title = lines[0].lstrip('# ').strip()
-    subtitle = lines[1].strip() if len(lines) > 1 else ''
-    # split into level-2 sections
+    i, sub = 1, []
+    while i < len(lines) and not lines[i].startswith('## '):
+        if lines[i].strip() not in ('', '---'):
+            sub.append(lines[i])
+        i += 1
     sections, cur = [], None
-    for ln in lines[2:]:
+    for ln in lines[i:]:
         if ln.startswith('## '):
             cur = [ln[3:].strip(), []]
             sections.append(cur)
-        elif cur is not None:
+        else:
             cur[1].append(ln)
-    trailer = []
-    def body(ls):
-        ls = list(ls)
-        while ls and ls[-1].strip() in ('', '---'):
-            ls.pop()
-        while ls and ls[0].strip() == '':
-            ls.pop(0)
-        return ls
 
     wdir = ROOT / 'weeks' / f'week-{week:02d}'
     wdir.mkdir(parents=True, exist_ok=True)
-    overview, extra, sessions, group = [], [], [], None
+    for old in wdir.glob('session-*.md'):
+        old.unlink()
+    sessions, group, other = [], None, []
     for head, ls in sections:
-        h = re.sub(r'^\d+\.\s*', '', head)
-        m = re.match(r'Session (\d+): (.+)', h)
+        h = re.sub(r'^\d+\.\s+', '', head)
+        m = SESSION_RE.match(h)
         if m:
-            sessions.append((int(m.group(1)), m.group(2), body(ls)))
-        elif h.startswith('Week Overview'):
-            overview = body(ls)
-        elif h.startswith('Coaching Groups'):
-            group = (h, body(ls))
+            sessions.append((int(m.group(1)), m.group(2).strip(), trim(ls)))
+        elif GROUP_RE.search(h) and group is None:
+            group = (h, trim(ls))
         else:
-            b = body(ls)
-            # closing sign-off line after the video list stays in README
-            extra.append((h, b))
+            other.append((h, trim(ls)))
 
     n = len(sessions)
     for num, stitle, ls in sessions:
         prev = f'[← Session {num-1}](session-{num-1}.md) · ' if num > 1 else ''
         nxt = f' · [Session {num+1} →](session-{num+1}.md)' if num < n else ''
         nav = f'{prev}[Week {week} overview](README.md){nxt}'
-        out = [f'# Week {week} · Session {num}: {stitle}', '', nav, '']
-        for ln in ls:
-            out.append(ln[1:] if ln.startswith('### ') else ln)  # ### -> ##
-        out += ['', '---', '', nav, '']
+        out = [f'# Week {week} · Session {num}: {stitle}', '', nav, ''] + demote(ls) + ['', '---', '', nav, '']
         (wdir / f'session-{num}.md').write_text('\n'.join(out))
 
+    gfile = wdir / 'group-coaching.md'
     if group:
         h, ls = group
-        out = [f'# Week {week} · {h}', '', f'[Week {week} overview](README.md)', '']
-        for ln in ls:
-            out.append(ln[1:] if ln.startswith('### ') else ln)
-        (wdir / 'group-coaching.md').write_text('\n'.join(out) + '\n')
+        out = [f'# Week {week} · {h}', '', f'[Week {week} overview](README.md)', ''] + demote(ls)
+        gfile.write_text('\n'.join(out) + '\n')
+    elif gfile.exists():
+        gfile.unlink()
 
-    out = [f'# {title}', subtitle, '', '[← All weeks](../../README.md)', '',
-           '## Sessions', '']
-    for num, stitle, _ in sessions:
-        out.append(f'- [Session {num}: {stitle}](session-{num}.md)')
+    meta_p = wdir / 'week.json'
+    meta = json.loads(meta_p.read_text()) if meta_p.exists() else {}
+    week_of = week_of or meta.get('week_of')
+    out = [f'# {title}'] + sub
+    if week_of and not any('Week of' in s for s in sub):
+        out += ['', f'*Week of {week_of}*']
+    out += ['', '[← All weeks](../../README.md)', '', '## Sessions', '']
+    out += [f'- [Session {num}: {stitle}](session-{num}.md)' for num, stitle, _ in sessions]
     if group:
         out.append(f'- [{group[0]}](group-coaching.md)')
-    out += ['', '## Week Overview', ''] + overview
-    for h, ls in extra:
-        out += ['', '---', '', f'## {h}', ''] + ls
+    for k, (h, ls) in enumerate(other):
+        out += ['', '---', ''] if k else ['']
+        out += [f'## {h}', ''] + ls
     (wdir / 'README.md').write_text('\n'.join(out) + '\n')
-    print(f'wrote {wdir} ({n} sessions)')
+
+    if week_of:
+        meta['week_of'] = week_of
+    meta.setdefault('sessions', {})
+    for num, stitle, _ in sessions:
+        meta['sessions'].setdefault(str(num), {'sport': ''})
+    meta_p.write_text(json.dumps(meta, indent=2, ensure_ascii=False) + '\n')
+    print(f'wrote {wdir.relative_to(ROOT)}: {n} sessions, group={"yes" if group else "no"}, '
+          f'README sections={[h for h, _ in other]}')
+
 
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
+    args = sys.argv[1:]
+    wo = None
+    if '--week-of' in args:
+        k = args.index('--week-of'); wo = args[k + 1]; del args[k:k + 2]
+    if len(args) != 2:
         sys.exit(__doc__)
-    main(int(sys.argv[1]), sys.argv[2])
+    main(int(args[0]), args[1], wo)
