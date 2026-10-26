@@ -52,3 +52,14 @@ Tips for coaching groups of kids at the baseball fields, by week. Each week adds
 - [D. Handling a tough parent](../weeks/week-04/group-coaching.md#d-handling-a-tough-parent)
 - [E. Keeping score when "we don't keep score"](../weeks/week-04/group-coaching.md#e-keeping-score-when-we-dont-keep-score)
 - [F. A rule-tweak menu (constraints you can pull out any time)](../weeks/week-04/group-coaching.md#f-a-rule-tweak-menu-constraints-you-can-pull-out-any-time)
+
+## Week 5
+
+[Coaching Groups at the Fields: New Tools for This Week](../weeks/week-05/group-coaching.md)
+
+- [A. Fair playing time and rotating positions (a simple rotation chart)](../weeks/week-05/group-coaching.md#a-fair-playing-time-and-rotating-positions-a-simple-rotation-chart)
+- [B. Teaching game situations with a 2-minute walk-through ("Where's the play?")](../weeks/week-05/group-coaching.md#b-teaching-game-situations-with-a-2-minute-walk-through-wheres-the-play)
+- [C. The kid who's afraid of the ball](../weeks/week-05/group-coaching.md#c-the-kid-whos-afraid-of-the-ball)
+- [D. Rainy-day and after-dark practice plan (indoor or covered)](../weeks/week-05/group-coaching.md#d-rainy-day-and-after-dark-practice-plan-indoor-or-covered)
+- [E. Planning the last practice and the end-of-season celebration](../weeks/week-05/group-coaching.md#e-planning-the-last-practice-and-the-end-of-season-celebration)
+- [F. End-of-season conversations (with kids, parents and helpers)](../weeks/week-05/group-coaching.md#f-end-of-season-conversations-with-kids-parents-and-helpers)

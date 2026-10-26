@@ -1,0 +1,38 @@
+{
+  "week_of": "Nov 2, 2026",
+  "sessions": {
+    "1": {
+      "sport": "Baseball"
+    },
+    "2": {
+      "sport": "Soccer"
+    },
+    "3": {
+      "sport": "Flag Football"
+    },
+    "4": {
+      "sport": "Athleticism"
+    },
+    "5": {
+      "sport": "Mixed Backyard Day"
+    }
+  },
+  "activity_sport": {
+    "5/Four-Corner Sport Switch": "Athleticism",
+    "5/Dance-with-the-Pitcher Gate Hitting": "Baseball",
+    "5/Pass-and-Pivot Partners": "Athleticism",
+    "5/One-Eyed Willy's Treasure Trail": "Multi-sport",
+    "5/Drop Anchor Breathing": "Athleticism"
+  },
+  "principles": [
+    {
+      "block": "**Three rules for the whole week:**"
+    },
+    {
+      "block": "**How to teach this week (whole-part-whole).**"
+    },
+    {
+      "block": "**New this week, effort-praise scripts:**"
+    }
+  ]
+}

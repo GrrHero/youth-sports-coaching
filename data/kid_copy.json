@@ -1015,5 +1015,280 @@
     "fun": "Pinch out each candle with a \"tssss\" sound.",
     "level_up": "Blow out 5 candles with super-slow breaths.",
     "cue": "Candle"
+  },
+  "5/1/Find the Bag": {
+    "steps": [
+      "Start at your cone, ready like popcorn.",
+      "Dad yells GROUNDER and points away from you.",
+      "Sprint to first: throwing foot on the front of the bag!",
+      "Chest at the thrower, glove up big."
+    ],
+    "fun": "Radio voice: \"The first baseman is THERE!\" Beat your best time.",
+    "level_up": "Get to the bag and set up perfectly 5 times in a row.",
+    "cue": "Bag"
+  },
+  "5/1/Stretch & Squeeze at First": {
+    "steps": [
+      "Foot on the bag, glove up.",
+      "Wait until the ball is in the air...",
+      "STRETCH: step and reach your glove to the ball!",
+      "Squeeze it with two hands. Back foot stays on the bag."
+    ],
+    "fun": "Every catch on the bag = a big umpire OUT call!",
+    "level_up": "Catch 10 outs in a row with your foot on the bag.",
+    "cue": "Stretch"
+  },
+  "5/1/Glove-Down Tags": {
+    "steps": [
+      "Stand BESIDE the base, not on it.",
+      "Catch the ball and squeeze it in your glove.",
+      "Put your glove down on the doorstep, in front of the base.",
+      "Let the runner slide into it. OUT!"
+    ],
+    "fun": "Dad is a sneaky runner with silly names!",
+    "level_up": "Make 5 tags in a row with your glove on the doorstep.",
+    "cue": "Doorstep"
+  },
+  "5/1/Bang-Bang at First": {
+    "steps": [
+      "Dad rolls a grounder and runs to first.",
+      "Fielder: tick-tock throw to first!",
+      "First baseman: bag, stretch, catch!",
+      "Beat Dad = OUT! Bang-bang!"
+    ],
+    "fun": "Brothers vs. Dad! Stadium noise on every close play.",
+    "level_up": "Get 7 outs before Dad gets 7 safes.",
+    "cue": "Bang"
+  },
+  "5/1/Bear Hug Stretch": {
+    "steps": [
+      "Give yourself a giant bear hug.",
+      "Hold it for 3 slow breaths.",
+      "Hug one knee, then the other.",
+      "Tell Dad when it's time to stretch for the throw."
+    ],
+    "fun": "Finish with a real family bear hug and a growl!",
+    "level_up": "Hold each hug for 3 slow breaths without rushing.",
+    "cue": "Hug"
+  },
+  "5/2/Postman Pass-and-Move": {
+    "steps": [
+      "Dad passes you the letter (the ball).",
+      "Pass it back with the side of your foot.",
+      "MOVE to a new empty house!",
+      "Call \"Here!\" when you get there."
+    ],
+    "fun": "Dad is a cranky postman. Nobody home? He eats the letter!",
+    "level_up": "Make 10 perfect deliveries in a row.",
+    "cue": "Move"
+  },
+  "5/2/Bounce-Back One-Two": {
+    "steps": [
+      "Dribble toward the cone defender.",
+      "Pass to Dad: ONE!",
+      "Run past the other side of the cone.",
+      "Get the ball back: TWO! Then score."
+    ],
+    "fun": "You're a pinball bouncing off the bumper! Pinball sounds!",
+    "level_up": "Score 3 goals with a one-two.",
+    "cue": "One-two"
+  },
+  "5/2/2v1 Magnet": {
+    "steps": [
+      "Dribble straight at the giant like a magnet.",
+      "Giant comes to you? Pass to your buddy!",
+      "Giant stays with your buddy? Keep going and shoot!",
+      "Watch what the giant does."
+    ],
+    "fun": "The giant gets dizzy and falls over after a great pass!",
+    "level_up": "Make the right choice 4 times in a row.",
+    "cue": "Magnet"
+  },
+  "5/2/Two Against the Giant": {
+    "steps": [
+      "You and your brother are a team.",
+      "Pass to your buddy to beat the giant.",
+      "Goal after a pass = 2 points!",
+      "Goal after a one-two = 3 points!"
+    ],
+    "fun": "Fee-fi-fo-fum! The giant snores after every goal.",
+    "level_up": "Score a 3-point one-two goal against the giant!",
+    "cue": "Buddy"
+  },
+  "5/2/Seesaw Stretch": {
+    "steps": [
+      "Sit facing your brother, feet touching.",
+      "Hold hands.",
+      "Slowly lean back and forth like a seesaw.",
+      "Tell Dad what you did when the giant came to you."
+    ],
+    "fun": "Sing Row, Row, Row Your Boat slowly!",
+    "level_up": "Do 6 slow seesaws without a wobble.",
+    "cue": "Seesaw"
+  },
+  "5/3/Sidewinder Shuffle Toss": {
+    "steps": [
+      "Face Dad and shuffle sideways like a snake.",
+      "Keep your feet moving!",
+      "Toss and catch while you shuffle.",
+      "Switch directions at the end."
+    ],
+    "fun": "Hiss like a snake on every catch!",
+    "level_up": "Make 6 catches in one trip without stopping.",
+    "cue": "Sidewinder"
+  },
+  "5/3/Rollout Rocket Throws": {
+    "steps": [
+      "On HUT, roll out to the side with the ball up high.",
+      "Turn your chest to the catcher: SQUARE!",
+      "Throw to the hoop ahead of the receiver.",
+      "Stay behind the line!"
+    ],
+    "fun": "Name your play, like Rocket Rollout! Hoop catch = touchdown.",
+    "level_up": "Throw 3 touchdowns while you're moving.",
+    "cue": "Square"
+  },
+  "5/3/Cut-Off Corner": {
+    "steps": [
+      "Dad runs to the finish cone.",
+      "Don't chase him!",
+      "Run to the meeting spot where your paths cross.",
+      "MEET him there and grab the flag!"
+    ],
+    "fun": "Dad is a runaway train. Close the gate before the train gets by!",
+    "level_up": "Pull Dad's flag at the meeting spot 3 times in a row.",
+    "cue": "Meet"
+  },
+  "5/3/Scramble Showdown": {
+    "steps": [
+      "QB: the rusher counts three Mississippi...",
+      "SCRAMBLE out and throw to Dad!",
+      "Rusher: turn into a defender after the catch.",
+      "Run to the meeting spot and grab the flag!"
+    ],
+    "fun": "Play-by-play announcer: \"He's scrambling... he FIRES!\"",
+    "level_up": "Throw a touchdown AND pull a flag in the same game.",
+    "cue": "Scramble"
+  },
+  "5/3/Kneel-Down Stretch": {
+    "steps": [
+      "Take a knee like a QB who just won the game.",
+      "Slowly push your hips forward.",
+      "Hold for 3 breaths, then switch knees.",
+      "Tell Dad: did you run to where he was or where he was going?"
+    ],
+    "fun": "The game's over, we won! Whisper-cheer like a crowd.",
+    "level_up": "Hold each side for 3 slow breaths.",
+    "cue": "Kneel"
+  },
+  "5/4/Dribble Traffic Cop": {
+    "steps": [
+      "Push the ball down with your fingertips.",
+      "GREEN: walk and dribble!",
+      "YELLOW: dribble in place.",
+      "RED: catch it and hold it tight!"
+    ],
+    "fun": "Car horns, sirens, and a flashing yellow for super-low dribbles!",
+    "level_up": "Dribble 20 times in a row with your weaker hand.",
+    "cue": "Push"
+  },
+  "5/4/Chalk Ladder Lightning": {
+    "steps": [
+      "One foot in every box, quick and light!",
+      "Then two feet in every box.",
+      "Try sideways: in-in-out-out!",
+      "No touching the lines."
+    ],
+    "fun": "The lines are lava cracks! Invent a pattern for Dad to try.",
+    "level_up": "Do a clean in-in-out-out trip and beat your best time.",
+    "cue": "Hot feet"
+  },
+  "5/4/Rope Rookie Jumps": {
+    "steps": [
+      "Rope behind your heels.",
+      "Swing it over your head.",
+      "When it lands in front of your toes, HOP!",
+      "Swing-hop, swing-hop. Keep going!"
+    ],
+    "fun": "Keep a streak board in chalk. Try a jump rope rhyme!",
+    "level_up": "Jump 10 in a row without stopping.",
+    "cue": "Swing-hop"
+  },
+  "5/4/Snake & Helicopter": {
+    "steps": [
+      "Dad wiggles the rope like a snake.",
+      "Jump over it without getting bitten!",
+      "Helicopter: jump when the rope spins by.",
+      "You and your brother are a team vs. the snake."
+    ],
+    "fun": "Name the snake! Big hissing sounds.",
+    "level_up": "Jump the helicopter rope 10 times in a row.",
+    "cue": "Snake"
+  },
+  "5/4/Sunset Stretch": {
+    "steps": [
+      "Reach your arms up high like the sun.",
+      "Lower them slowly like a sunset.",
+      "Sit and reach for your toes.",
+      "Tell Dad: ladder or rope, which was harder?"
+    ],
+    "fun": "Try it outside when the real sun is going down!",
+    "level_up": "Do 4 super-slow sunsets.",
+    "cue": "Sunset"
+  },
+  "5/5/Four-Corner Sport Switch": {
+    "steps": [
+      "Each corner is a sport.",
+      "Run there and do that sport's move!",
+      "SWITCH: change direction to a new corner.",
+      "Last call: sprint!"
+    ],
+    "fun": "Silly switches: run there like a penguin!",
+    "level_up": "Call the corners yourself for one round.",
+    "cue": "Switch"
+  },
+  "5/5/Dance-with-the-Pitcher Gate Hitting": {
+    "steps": [
+      "Get in your stance and watch Dad's arm.",
+      "Arm goes back: you load. Arm comes forward: you step.",
+      "DANCE together, then swing!",
+      "Hit it through the middle gate."
+    ],
+    "fun": "Dance to music between rounds!",
+    "level_up": "Hit 3 balls through the gate in one round.",
+    "cue": "Dance"
+  },
+  "5/5/Pass-and-Pivot Partners": {
+    "steps": [
+      "Chest pass: push it, thumbs down!",
+      "Bounce pass: hit the X on the ground.",
+      "Catch it and jump stop on both feet.",
+      "GLUE one foot down and pivot, then pass back."
+    ],
+    "fun": "Play keep-away from Dad the monkey with pivots and bounce passes!",
+    "level_up": "Make 10 passes in a row without a drop.",
+    "cue": "Glue"
+  },
+  "5/5/One-Eyed Willy's Treasure Trail": {
+    "steps": [
+      "Follow the treasure map through 5 stations.",
+      "Ladder, first base, one-two, rollout, pivot pass!",
+      "Clean station = 1 gold coin.",
+      "Fill the treasure chest as a team!"
+    ],
+    "fun": "Pirate voices! Goonies never say die when you miss and try again.",
+    "level_up": "Beat One-Eyed Willy's number to win the prize!",
+    "cue": "Gold"
+  },
+  "5/5/Drop Anchor Breathing": {
+    "steps": [
+      "Sit and put your hands on your belly.",
+      "Breathe in slowly: the anchor goes up.",
+      "Breathe out slowly: the anchor goes down.",
+      "Tell Dad your favorite play of the week."
+    ],
+    "fun": "Hands in: \"Goonies never say die!\"",
+    "level_up": "Do 5 slow anchor breaths.",
+    "cue": "Anchor"
   }
 }

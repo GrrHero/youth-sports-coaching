@@ -15,6 +15,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Balloon or Beach Ball Keep-Up](../weeks/week-01/session-3.md#warm-up-balloon-or-beach-ball-keep-up-4-min) |  | 4 min | [W1 S3: Catching + Tee Hitting](../weeks/week-01/session-3.md) |  |
 | [Popcorn Ready](../weeks/week-03/session-1.md#warm-up-popcorn-ready-5-min--cue-popcorn) | **Popcorn** | 5 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
 | [Shadow Infield](../weeks/week-04/session-1.md#warm-up-shadow-infield-4-min--cue-shadow) | **Shadow** | 4 min | [W4 S1: Aim the Swing & Field-and-Fire](../weeks/week-04/session-1.md) |  |
+| [Find the Bag](../weeks/week-05/session-1.md#warm-up-find-the-bag-4-min--cue-bag) | **Bag** | 4 min | [W5 S1: First Base Boss & Glove-Down Tags](../weeks/week-05/session-1.md) | [Youth Baseball 1st Base Footwork and Drills](https://www.youtube.com/watch?v=R1sbhgRzneQ) |
 
 ### Skill Work
 
@@ -35,6 +36,9 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Laser Gate Front Toss](../weeks/week-04/session-1.md#skill-work-a-laser-gate-front-toss-8-min--cue-laser) | **Laser** | 8 min | [W4 S1: Aim the Swing & Field-and-Fire](../weeks/week-04/session-1.md) | [Ripken Baseball Hitting Tip - Basic Front Toss](https://www.youtube.com/watch?v=Re0coPbz55M) |
 | [Field-and-Fire to First](../weeks/week-04/session-1.md#skill-work-b-field-and-fire-to-first-7-min--cue-tick-tock) | **Tick-tock** | 7 min | [W4 S1: Aim the Swing & Field-and-Fire](../weeks/week-04/session-1.md) | [Crow Hop + Throwing Progression Drill](https://www.youtube.com/watch?v=PfmEL02N0ns) |
 | [Pumpkin Patch Spray Hitting](../weeks/week-04/session-5.md#skill-work-a-pumpkin-patch-spray-hitting-7-min--cue-pumpkin) | **Pumpkin** | 7 min | [W4 S5: Halloween Haunted Gauntlet](../weeks/week-04/session-5.md) | [Top 5 Ways to Teaching Hitting to the Opposite Field](https://www.youtube.com/watch?v=pn3xtpCc8uM) |
+| [Stretch & Squeeze at First](../weeks/week-05/session-1.md#skill-work-a-stretch--squeeze-at-first-8-min--cue-stretch) | **Stretch** | 8 min | [W5 S1: First Base Boss & Glove-Down Tags](../weeks/week-05/session-1.md) |  |
+| [Glove-Down Tags](../weeks/week-05/session-1.md#skill-work-b-glove-down-tags-6-min--cue-doorstep) | **Doorstep** | 6 min | [W5 S1: First Base Boss & Glove-Down Tags](../weeks/week-05/session-1.md) | [How to Properly Tag a Baserunner // 3 Simple Steps for Youth Players to Get 100% Outs!](https://www.youtube.com/watch?v=etzt_j0KqEA) |
+| [Dance-with-the-Pitcher Gate Hitting](../weeks/week-05/session-5.md#skill-work-a-dance-with-the-pitcher-gate-hitting-8-min--cue-dance) | **Dance** | 8 min | [W5 S5: Goonies Treasure Trail](../weeks/week-05/session-5.md) |  |
 
 ### Game
 
@@ -45,6 +49,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Grounder Goalie](../weeks/week-03/session-1.md#game-grounder-goalie-5-min--cue-middle) | **Middle** | 5 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
 | [The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next) | **Next** | 8 min | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |
 | [Beat the Runner](../weeks/week-04/session-1.md#game-beat-the-runner-6-min--cue-race) | **Race** | 6 min | [W4 S1: Aim the Swing & Field-and-Fire](../weeks/week-04/session-1.md) |  |
+| [Bang-Bang at First](../weeks/week-05/session-1.md#game-bang-bang-at-first-7-min--cue-bang) | **Bang** | 7 min | [W5 S1: First Base Boss & Glove-Down Tags](../weeks/week-05/session-1.md) |  |
 
 ### Station
 
@@ -60,6 +65,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | ["Glove Pillow"](../weeks/week-02/session-3.md#cool-down-glove-pillow-3-min) | **Pillow** | 3 min | [W2 S3: Moving to the Ball & Full Swing](../weeks/week-02/session-3.md) |  |
 | [Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float) | **Float** | 3 min | [W3 S1: Ground Balls & Target Throws](../weeks/week-03/session-1.md) |  |
 | [Pancake Stretch](../weeks/week-04/session-1.md#cool-down-pancake-stretch-3-min--cue-pancake) | **Pancake** | 3 min | [W4 S1: Aim the Swing & Field-and-Fire](../weeks/week-04/session-1.md) |  |
+| [Bear Hug Stretch](../weeks/week-05/session-1.md#cool-down-bear-hug-stretch-3-min--cue-hug) | **Hug** | 3 min | [W5 S1: First Base Boss & Glove-Down Tags](../weeks/week-05/session-1.md) |  |
 
 ## Soccer
 
@@ -70,6 +76,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Body Part Simon Says with a Ball](../weeks/week-01/session-2.md#warm-up-body-part-simon-says-with-a-ball-4-min) |  | 4 min | [W1 S2: Soccer Dribbling + Balance](../weeks/week-01/session-2.md) | [U6 Body Part Dribble Activity](https://www.youtube.com/watch?v=xEJfAJy3xrY) |
 | [Piano Toe Taps](../weeks/week-03/session-2.md#warm-up-piano-toe-taps-4-min--cue-piano) | **Piano** | 4 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
 | [Bumper Car Dribble](../weeks/week-04/session-2.md#warm-up-bumper-car-dribble-4-min--cue-heads-up) | **Heads-up** | 4 min | [W4 S2: Fake It, Slice It, Beat the Troll](../weeks/week-04/session-2.md) |  |
+| [Postman Pass-and-Move](../weeks/week-05/session-2.md#warm-up-postman-pass-and-move-4-min--cue-move) | **Move** | 4 min | [W5 S2: One-Two, Magnet & Two Against the Giant](../weeks/week-05/session-2.md) |  |
 
 ### Skill Work
 
@@ -83,6 +90,8 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [The Pretend Shot](../weeks/week-04/session-2.md#skill-work-a-the-pretend-shot-6-min--cue-trick) | **Trick** | 6 min | [W4 S2: Fake It, Slice It, Beat the Troll](../weeks/week-04/session-2.md) | [3 Essential Soccer Moves. Fake & Take, Pullbacks & Roll to Hide ⚽](https://www.youtube.com/watch?v=b2HBI-X_ez4) |
 | [Slice-Away Escape](../weeks/week-04/session-2.md#skill-work-b-slice-away-escape-6-min--cue-slice) | **Slice** | 6 min | [W4 S2: Fake It, Slice It, Beat the Troll](../weeks/week-04/session-2.md) | [Inside Cut - 1v1 Moves - Change of Direction - Crossing - Soccer (Football) Skills for U8-U9](https://www.youtube.com/watch?v=60nDcFWaa8I) |
 | [Ghost Defender Finishing](../weeks/week-04/session-5.md#skill-work-b-ghost-defender-finishing-6-min--cue-boo) | **Boo** | 6 min | [W4 S5: Halloween Haunted Gauntlet](../weeks/week-04/session-5.md) |  |
+| [Bounce-Back One-Two](../weeks/week-05/session-2.md#skill-work-a-bounce-back-one-two-7-min--cue-one-two) | **One-two** | 7 min | [W5 S2: One-Two, Magnet & Two Against the Giant](../weeks/week-05/session-2.md) | [Coaching Soccer ~ How to do a Wall Pass + Online Soccer Academy](https://www.youtube.com/watch?v=L7gfjaX2ve0) |
+| [2v1 Magnet](../weeks/week-05/session-2.md#skill-work-b-2v1-magnet-6-min--cue-magnet) | **Magnet** | 6 min | [W5 S2: One-Two, Magnet & Two Against the Giant](../weeks/week-05/session-2.md) | [CATZCoach: 2v1](https://www.youtube.com/watch?v=x4PA7k8AnhI) |
 
 ### Game
 
@@ -92,6 +101,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | ["Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min) | **Lock**, **Boom!** | 5 min | [W2 S2: Locked Ankles, Both Feet, First Shots](../weeks/week-02/session-2.md) |  |
 | [Treasure Keeper](../weeks/week-03/session-2.md#game-treasure-keeper-7-min--cue-shell) | **Shell** | 7 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
 | [Bridge Troll 1v1](../weeks/week-04/session-2.md#game-bridge-troll-1v1-7-min--cue-sneak) | **Sneak** | 7 min | [W4 S2: Fake It, Slice It, Beat the Troll](../weeks/week-04/session-2.md) |  |
+| [Two Against the Giant](../weeks/week-05/session-2.md#game-two-against-the-giant-7-min--cue-buddy) | **Buddy** | 7 min | [W5 S2: One-Two, Magnet & Two Against the Giant](../weeks/week-05/session-2.md) |  |
 
 ### Station
 
@@ -106,6 +116,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | ["Ball Roll Stretch"](../weeks/week-02/session-2.md#cool-down-ball-roll-stretch-3-min) | **Slow roll** | 3 min | [W2 S2: Locked Ankles, Both Feet, First Shots](../weeks/week-02/session-2.md) |  |
 | [Sleepy Sole Rolls](../weeks/week-03/session-2.md#cool-down-sleepy-sole-rolls-3-min--cue-sleepy) | **Sleepy** | 3 min | [W3 S2: First Touch, Shots & Shielding](../weeks/week-03/session-2.md) |  |
 | [Lighthouse Stretch](../weeks/week-04/session-2.md#cool-down-lighthouse-stretch-3-min--cue-lighthouse) | **Lighthouse** | 3 min | [W4 S2: Fake It, Slice It, Beat the Troll](../weeks/week-04/session-2.md) |  |
+| [Seesaw Stretch](../weeks/week-05/session-2.md#cool-down-seesaw-stretch-3-min--cue-seesaw) | **Seesaw** | 3 min | [W5 S2: One-Two, Magnet & Two Against the Giant](../weeks/week-05/session-2.md) |  |
 
 ## Flag Football
 
@@ -116,6 +127,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Tail Tag](../weeks/week-01/session-4.md#warm-up-tail-tag-5-min) |  | 5 min | [W1 S4: Flag Football Day](../weeks/week-01/session-4.md) |  |
 | [Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk) | **Moonwalk** | 5 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
 | [Conveyor Belt Catches](../weeks/week-04/session-3.md#warm-up-conveyor-belt-catches-5-min--cue-reach) | **Reach** | 5 min | [W4 S3: Lead the Receiver & Break on the Ball](../weeks/week-04/session-3.md) |  |
+| [Sidewinder Shuffle Toss](../weeks/week-05/session-3.md#warm-up-sidewinder-shuffle-toss-5-min--cue-sidewinder) | **Sidewinder** | 5 min | [W5 S3: QB on the Move & Cut-Off Angles](../weeks/week-05/session-3.md) |  |
 
 ### Skill Work
 
@@ -129,6 +141,8 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone) | **Phone** | 6 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
 | [Landing-Zone Lead Passes](../weeks/week-04/session-3.md#skill-work-a-landing-zone-lead-passes-7-min--cue-ahead) | **Ahead** | 7 min | [W4 S3: Lead the Receiver & Break on the Ball](../weeks/week-04/session-3.md) | [Passing Drill - Leading the Receiver](https://www.youtube.com/watch?v=wIFpL-hGH8g) |
 | [Ballhawk Breaks](../weeks/week-04/session-3.md#skill-work-b-ballhawk-breaks-6-min--cue-break) | **Break** | 6 min | [W4 S3: Lead the Receiver & Break on the Ball](../weeks/week-04/session-3.md) | [Backfoot Breaks](https://www.youtube.com/watch?v=_B7Cl0ein0A) |
+| [Rollout Rocket Throws](../weeks/week-05/session-3.md#skill-work-a-rollout-rocket-throws-7-min--cue-square) | **Square** | 7 min | [W5 S3: QB on the Move & Cut-Off Angles](../weeks/week-05/session-3.md) | [NFL FLAG Football Quarterback (QB) Position](https://www.youtube.com/watch?v=uBVATin-Blg) |
+| [Cut-Off Corner](../weeks/week-05/session-3.md#skill-work-b-cut-off-corner-6-min--cue-meet) | **Meet** | 6 min | [W5 S3: QB on the Move & Cut-Off Angles](../weeks/week-05/session-3.md) | [Youth Flag Football Drill \| Defense Pursuit Drill \| Cut off the runner \| Where they are going \| flag](https://www.youtube.com/watch?v=VEQVQWmrSHs) |
 
 ### Game
 
@@ -138,6 +152,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | ["Route Call Touchdown"](../weeks/week-02/session-4.md#game-route-call-touchdown-5-min) | **Five**, **Basket** | 5 min | [W2 S4: Routes, Grips & Soft-Football Catches](../weeks/week-02/session-4.md) |  |
 | [Mr. Wolf Flag Escape](../weeks/week-03/session-3.md#game-mr-wolf-flag-escape-6-min--cue-zigzag) | **Zigzag** | 6 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
 | [Pick-Six Showdown](../weeks/week-04/session-3.md#game-pick-six-showdown-6-min--cue-spot) | **Spot** | 6 min | [W4 S3: Lead the Receiver & Break on the Ball](../weeks/week-04/session-3.md) |  |
+| [Scramble Showdown](../weeks/week-05/session-3.md#game-scramble-showdown-6-min--cue-scramble) | **Scramble** | 6 min | [W5 S3: QB on the Move & Cut-Off Angles](../weeks/week-05/session-3.md) |  |
 
 ### Station
 
@@ -152,6 +167,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | ["Playbook Draw"](../weeks/week-02/session-4.md#cool-down-playbook-draw-3-min) | **Walk-through** | 3 min | [W2 S4: Routes, Grips & Soft-Football Catches](../weeks/week-02/session-4.md) |  |
 | [Starfish & Seashell](../weeks/week-03/session-3.md#cool-down-starfish--seashell-3-min--cue-starfish) | **Starfish** | 3 min | [W3 S3: Handoffs, Throws & Evasion](../weeks/week-03/session-3.md) |  |
 | [Goalpost Stretch](../weeks/week-04/session-3.md#cool-down-goalpost-stretch-3-min--cue-goalpost) | **Goalpost** | 3 min | [W4 S3: Lead the Receiver & Break on the Ball](../weeks/week-04/session-3.md) |  |
+| [Kneel-Down Stretch](../weeks/week-05/session-3.md#cool-down-kneel-down-stretch-3-min--cue-kneel) | **Kneel** | 3 min | [W5 S3: QB on the Move & Cut-Off Angles](../weeks/week-05/session-3.md) |  |
 
 ## Athleticism
 
@@ -169,6 +185,8 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Orbit Ball Wraps](../weeks/week-03/session-5.md#warm-up-orbit-ball-wraps-4-min--cue-orbit) | **Orbit** | 4 min | [W3 S5: Fly Balls, Run-Throughs & the Triple Crown](../weeks/week-03/session-5.md) |  |
 | [Pogo Stick Bounces](../weeks/week-04/session-4.md#warm-up-pogo-stick-bounces-5-min--cue-pogo) | **Pogo** | 5 min | [W4 S4: Hop, Pattern, Blast Off](../weeks/week-04/session-4.md) |  |
 | [Monster Mash Moves](../weeks/week-04/session-5.md#warm-up-monster-mash-moves-4-min--cue-monster) | **Monster** | 4 min | [W4 S5: Halloween Haunted Gauntlet](../weeks/week-04/session-5.md) |  |
+| [Dribble Traffic Cop](../weeks/week-05/session-4.md#warm-up-dribble-traffic-cop-5-min--cue-push) | **Push** | 5 min | [W5 S4: Hot Feet, Rope Rookies & Dribble Traffic](../weeks/week-05/session-4.md) | [Basketball Dribbling Drills For 6-9 Year Olds](https://www.youtube.com/watch?v=DN0K_zTxUxc) |
+| [Four-Corner Sport Switch](../weeks/week-05/session-5.md#warm-up-four-corner-sport-switch-4-min--cue-switch) | **Switch** | 4 min | [W5 S5: Goonies Treasure Trail](../weeks/week-05/session-5.md) |  |
 
 ### Skill Work
 
@@ -180,6 +198,9 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Skater Bounds](../weeks/week-03/session-4.md#skill-work-b-skater-bounds-5-min--cue-skater) | **Skater** | 5 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
 | [Hopscotch Hustle](../weeks/week-04/session-4.md#skill-work-a-hopscotch-hustle-7-min--cue-spring) | **Spring** | 7 min | [W4 S4: Hop, Pattern, Blast Off](../weeks/week-04/session-4.md) | [How to Play Hopscotch - Equipment Free PE and Recess Games](https://www.youtube.com/watch?v=Py51N-5WFPQ) |
 | [Wake-Up Starts](../weeks/week-04/session-4.md#skill-work-b-wake-up-starts-6-min--cue-blastoff) | **Blastoff** | 6 min | [W4 S4: Hop, Pattern, Blast Off](../weeks/week-04/session-4.md) | [Quick Start](https://www.youtube.com/watch?v=NuHv4wDK14c) |
+| [Chalk Ladder Lightning](../weeks/week-05/session-4.md#skill-work-a-chalk-ladder-lightning-7-min--cue-hot-feet) | **Hot feet** | 7 min | [W5 S4: Hot Feet, Rope Rookies & Dribble Traffic](../weeks/week-05/session-4.md) |  |
+| [Rope Rookie Jumps](../weeks/week-05/session-4.md#skill-work-b-rope-rookie-jumps-6-min--cue-swing-hop) | **Swing-hop** | 6 min | [W5 S4: Hot Feet, Rope Rookies & Dribble Traffic](../weeks/week-05/session-4.md) | [How to Teach a Kid to Jump Rope for the First Time \| Kindergarten PE Lesson \|](https://www.youtube.com/watch?v=2gt5mjU7FlI) |
+| [Pass-and-Pivot Partners](../weeks/week-05/session-5.md#skill-work-b-pass-and-pivot-partners-6-min--cue-glue) | **Glue** | 6 min | [W5 S5: Goonies Treasure Trail](../weeks/week-05/session-5.md) | [The Two-Handed Pass: Chest and Bounce \| Basketball](https://www.youtube.com/watch?v=sKd6aAN8CeY) |
 
 ### Game
 
@@ -189,6 +210,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | ["Turnaround Races"](../weeks/week-02/session-1.md#game-turnaround-races-5-min) | **Chop!** | 5 min | [W2 S1: Speed Starts & Belly-Button Throws](../weeks/week-02/session-1.md) |  |
 | [Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce) | **Pounce** | 6 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
 | [Wake-Up Bacon Snatch](../weeks/week-04/session-4.md#game-wake-up-bacon-snatch-5-min--cue-bacon) | **Bacon** | 5 min | [W4 S4: Hop, Pattern, Blast Off](../weeks/week-04/session-4.md) |  |
+| [Snake & Helicopter](../weeks/week-05/session-4.md#game-snake--helicopter-6-min--cue-snake) | **Snake** | 6 min | [W5 S4: Hot Feet, Rope Rookies & Dribble Traffic](../weeks/week-05/session-4.md) |  |
 
 ### Station
 
@@ -205,6 +227,8 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 | [Sloth Crawl Tunnel](../weeks/week-03/session-4.md#cool-down-sloth-crawl-tunnel-3-min--cue-sloth) | **Sloth** | 3 min | [W3 S4: Jump, Land, Bound, React](../weeks/week-03/session-4.md) |  |
 | [Snow Angel Breaths](../weeks/week-04/session-4.md#cool-down-snow-angel-breaths-3-min--cue-angel) | **Angel** | 3 min | [W4 S4: Hop, Pattern, Blast Off](../weeks/week-04/session-4.md) |  |
 | [Jack-o'-Lantern Candle](../weeks/week-04/session-5.md#cool-down-jack-o-lantern-candle-3-min--cue-candle) | **Candle** | 3 min | [W4 S5: Halloween Haunted Gauntlet](../weeks/week-04/session-5.md) |  |
+| [Sunset Stretch](../weeks/week-05/session-4.md#cool-down-sunset-stretch-4-min--cue-sunset) | **Sunset** | 4 min | [W5 S4: Hot Feet, Rope Rookies & Dribble Traffic](../weeks/week-05/session-4.md) |  |
+| [Drop Anchor Breathing](../weeks/week-05/session-5.md#cool-down-drop-anchor-breathing-3-min--cue-anchor) | **Anchor** | 3 min | [W5 S5: Goonies Treasure Trail](../weeks/week-05/session-5.md) |  |
 
 ## Multi-sport
 
@@ -220,6 +244,7 @@ Grouped by sport, then by activity type (warm-up, skill work, game, station, coo
 |---|---|---|---|---|
 | ["Triple Threat Course"](../weeks/week-02/session-5.md#game-triple-threat-course-5-min) |  | 5 min | [W2 S5: Teach-Back Day & the Triple Threat Course](../weeks/week-02/session-5.md) |  |
 | [Haunted House Gauntlet](../weeks/week-04/session-5.md#game-haunted-house-gauntlet-8-min--cue-treat) | **Treat** | 8 min | [W4 S5: Halloween Haunted Gauntlet](../weeks/week-04/session-5.md) |  |
+| [One-Eyed Willy's Treasure Trail](../weeks/week-05/session-5.md#game-one-eyed-willys-treasure-trail-8-min--cue-gold) | **Gold** | 8 min | [W5 S5: Goonies Treasure Trail](../weeks/week-05/session-5.md) |  |
 
 ### Cool-down
 

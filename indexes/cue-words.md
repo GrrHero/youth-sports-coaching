@@ -11,8 +11,12 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 | Cue | Activity | Week / Session | Cheat-sheet note |
 |---|---|---|---|
 | **Alligator!** | [Skill 1: Catching — "Eyes on It, Fingers Up"](../weeks/week-01/session-3.md#skill-1-catching--eyes-on-it-fingers-up-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Catching |
+| **Bag** | [Warm-up: Find the Bag](../weeks/week-05/session-1.md#warm-up-find-the-bag-4-min--cue-bag) | [W5 S1](../weeks/week-05/session-1.md) | Get to first base, throwing foot on the front edge, chest at the thrower. |
+| **Bang** | [Game: Bang-Bang at First](../weeks/week-05/session-1.md#game-bang-bang-at-first-7-min--cue-bang) | [W5 S1](../weeks/week-05/session-1.md) | Field, throw, catch at the bag before the runner. Bang-bang, out! |
 | **Belly!** | [Skill work: "Belly-Button Throws"](../weeks/week-02/session-1.md#skill-work-belly-button-throws-10-min) | [W2 S1](../weeks/week-02/session-1.md) | Throw (hip turn) · 7yo · Smiley-face sticker turns to target |
 | **Chomp** | [Skill Work A: Alligator Grounders](../weeks/week-03/session-1.md#skill-work-a-alligator-grounders-7-min--cue-chomp) | [W3 S1](../weeks/week-03/session-1.md) | Bottom jaw (glove) on the grass, top jaw (hand) closes on the ball. |
+| **Dance** | [Skill Work A: Dance-with-the-Pitcher Gate Hitting](../weeks/week-05/session-5.md#skill-work-a-dance-with-the-pitcher-gate-hitting-8-min--cue-dance) | [W5 S5](../weeks/week-05/session-5.md) | Move with Dad's pitching arm so I'm ready to swing. |
+| **Doorstep** | [Skill Work B: Glove-Down Tags](../weeks/week-05/session-1.md#skill-work-b-glove-down-tags-6-min--cue-doorstep) | [W5 S1](../weeks/week-05/session-1.md) | Put my glove down in front of the base and let the runner tag himself. |
 | **Dot** | [Skill work: "Dot Hitting" off the tee (5yo)](../weeks/week-02/session-3.md#skill-work-5yo-dot-hitting-off-the-tee-5-min-at-the-same-time) | [W2 S3](../weeks/week-02/session-3.md) | Tee contact · 5yo · Point at eye → point at dot |
 | **Dot** | [Game: "Zone Derby"](../weeks/week-02/session-3.md#game-zone-derby-5-min) | [W2 S3](../weeks/week-02/session-3.md) | Tee contact · 5yo · Point at eye → point at dot |
 | **Eyes on it!** | [Skill 1: Catching — "Eyes on It, Fingers Up"](../weeks/week-01/session-3.md#skill-1-catching--eyes-on-it-fingers-up-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Catching |
@@ -22,6 +26,7 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 | **Fingers up!** | [Skill 1: Catching — "Eyes on It, Fingers Up"](../weeks/week-01/session-3.md#skill-1-catching--eyes-on-it-fingers-up-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Catching |
 | **Float** | [Cool-down: Glove Boat](../weeks/week-03/session-1.md#cool-down-glove-boat-3-min--cue-float) | [W3 S1](../weeks/week-03/session-1.md) | Breathe slow so my glove floats up and down. |
 | **Hands ready** | [Skill work: "Big Ball, Little Ball" (5yo)](../weeks/week-02/session-3.md#skill-work-5yo-big-ball-little-ball-5-min-alongside-the-7yo) | [W2 S3](../weeks/week-02/session-3.md) | Catch ready · 5yo · Bowl hands before the toss |
+| **Hug** | [Cool-down: Bear Hug Stretch](../weeks/week-05/session-1.md#cool-down-bear-hug-stretch-3-min--cue-hug) | [W5 S1](../weeks/week-05/session-1.md) | Give myself a big slow bear hug. |
 | **Laser** | [Skill Work A: Laser Gate Front Toss](../weeks/week-04/session-1.md#skill-work-a-laser-gate-front-toss-8-min--cue-laser) | [W4 S1](../weeks/week-04/session-1.md) | Hit a line drive straight through the gate. |
 | **Middle** | [Game: Grounder Goalie](../weeks/week-03/session-1.md#game-grounder-goalie-5-min--cue-middle) | [W3 S1](../weeks/week-03/session-1.md) | Get my body in the middle of where the ball is rolling. |
 | **Next** | [Game: The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next) | [W3 S5](../weeks/week-03/session-5.md) | Done here, go straight to the next station. |
@@ -38,6 +43,7 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 | **Scoot** | [Skill Work B: Crow Hop Target Throws](../weeks/week-03/session-1.md#skill-work-b-crow-hop-target-throws-7-min--cue-scoot) | [W3 S1](../weeks/week-03/session-1.md) | Little hop, back foot sideways, then step and throw at the target. |
 | **Shadow** | [Warm-up: Shadow Infield](../weeks/week-04/session-1.md#warm-up-shadow-infield-4-min--cue-shadow) | [W4 S1](../weeks/week-04/session-1.md) | Copy Dad's moves at the same time, like a shadow. |
 | **Squish the bug** | [Skill 2: Tee Hitting — "Squish the Bug"](../weeks/week-01/session-3.md#skill-2-tee-hitting--squish-the-bug-8-min) | [W1 S3](../weeks/week-01/session-3.md) | Hitting |
+| **Stretch** | [Skill Work A: Stretch & Squeeze at First](../weeks/week-05/session-1.md#skill-work-a-stretch--squeeze-at-first-8-min--cue-stretch) | [W5 S1](../weeks/week-05/session-1.md) | When the ball is in the air, step and reach my glove to it; my back foot stays on the bag. |
 | **Tape** | [Skill Work B: Tape Run-Throughs](../weeks/week-03/session-5.md#skill-work-b-tape-run-throughs-5-min--cue-tape) | [W3 S5](../weeks/week-03/session-5.md) | The finish line is past the base. Run through it. |
 | **Tick-tock** | [Skill Work B: Field-and-Fire to First](../weeks/week-04/session-1.md#skill-work-b-field-and-fire-to-first-7-min--cue-tick-tock) | [W4 S1](../weeks/week-04/session-1.md) | Tick: field it to my belly. Tock: throw to first. |
 | **Umbrella** | [Skill Work A: Umbrella Fly Balls](../weeks/week-03/session-5.md#skill-work-a-umbrella-fly-balls-8-min--cue-umbrella) | [W3 S5](../weeks/week-03/session-5.md) | Get under it, hands up above my eyes like an umbrella. |
@@ -49,13 +55,18 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 | **Ball on a leash** | [Skill 1: Dribbling — "Small Touches"](../weeks/week-01/session-2.md#skill-1-dribbling--small-touches-8-min) | [W1 S2](../weeks/week-01/session-2.md) |  |
 | **Boo** | [Skill Work B: Ghost Defender Finishing](../weeks/week-04/session-5.md#skill-work-b-ghost-defender-finishing-6-min--cue-boo) | [W4 S5](../weeks/week-04/session-5.md) | Now! Do my move past the ghost. |
 | **Boom!** | [Game: "Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min) | [W2 S2](../weeks/week-02/session-2.md) | Shot · 5yo · Shoot + celebration |
+| **Buddy** | [Game: Two Against the Giant](../weeks/week-05/session-2.md#game-two-against-the-giant-7-min--cue-buddy) | [W5 S2](../weeks/week-05/session-2.md) | Find a spot where my buddy can see me, and pass to him. |
 | **Foot on top!** | [Skill 1: Dribbling — "Small Touches"](../weeks/week-01/session-2.md#skill-1-dribbling--small-touches-8-min) | [W1 S2](../weeks/week-01/session-2.md) | Dribbling |
 | **Heads-up** | [Warm-up: Bumper Car Dribble](../weeks/week-04/session-2.md#warm-up-bumper-car-dribble-4-min--cue-heads-up) | [W4 S2](../weeks/week-04/session-2.md) | Dribble with my head up so I can see. |
 | **Lighthouse** | [Cool-down: Lighthouse Stretch](../weeks/week-04/session-2.md#cool-down-lighthouse-stretch-3-min--cue-lighthouse) | [W4 S2](../weeks/week-04/session-2.md) | Sweep slowly side to side with the ball up high. |
 | **Lock!** | [Skill work: "Gate Passing" (7yo)](../weeks/week-02/session-2.md#skill-work-7yo-gate-passing-10-min-split-with-the-5yo-block-below) | [W2 S2](../weeks/week-02/session-2.md) | Pass · 7yo · Floppy vs. locked ankle |
 | **Lock** | [Game: "Soccer Bowling + Bonus Shot"](../weeks/week-02/session-2.md#game-soccer-bowling--bonus-shot-5-min) | [W2 S2](../weeks/week-02/session-2.md) | Pass · 7yo · Floppy vs. locked ankle |
+| **Magnet** | [Skill Work B: 2v1 Magnet](../weeks/week-05/session-2.md#skill-work-b-2v1-magnet-6-min--cue-magnet) | [W5 S2](../weeks/week-05/session-2.md) | Dribble at the defender to pull him in, then pass to my buddy. |
+| **Move** | [Warm-up: Postman Pass-and-Move](../weeks/week-05/session-2.md#warm-up-postman-pass-and-move-4-min--cue-move) | [W5 S2](../weeks/week-05/session-2.md) | After I pass, I move to a new spot. |
+| **One-two** | [Skill Work A: Bounce-Back One-Two](../weeks/week-05/session-2.md#skill-work-a-bounce-back-one-two-7-min--cue-one-two) | [W5 S2](../weeks/week-05/session-2.md) | Pass it, run past the defender, get it back. |
 | **Piano** | [Warm-up: Piano Toe Taps](../weeks/week-03/session-2.md#warm-up-piano-toe-taps-4-min--cue-piano) | [W3 S2](../weeks/week-03/session-2.md) | Light, quick taps on top of the ball, left–right. |
 | **Pillow** | [Skill Work A: Pillow First Touch](../weeks/week-03/session-2.md#skill-work-a-pillow-first-touch-6-min--cue-pillow) | [W3 S2](../weeks/week-03/session-2.md) | Soft foot. Catch the ball so it stays close (or goes to the gate). |
+| **Seesaw** | [Cool-down: Seesaw Stretch](../weeks/week-05/session-2.md#cool-down-seesaw-stretch-3-min--cue-seesaw) | [W5 S2](../weeks/week-05/session-2.md) | Lean slowly back and forth with my brother. |
 | **Shell** | [Game: Treasure Keeper](../weeks/week-03/session-2.md#game-treasure-keeper-7-min--cue-shell) | [W3 S2](../weeks/week-03/session-2.md) | My body is a shell between the pirate and the ball. |
 | **Shoelaces** | [Skill Work B: Shoelace Shots](../weeks/week-03/session-2.md#skill-work-b-shoelace-shots-6-min--cue-shoelaces) | [W3 S2](../weeks/week-03/session-2.md) | Hit the ball with my shoelaces, toe pointing down. |
 | **Sleepy** | [Cool-down: Sleepy Sole Rolls](../weeks/week-03/session-2.md#cool-down-sleepy-sole-rolls-3-min--cue-sleepy) | [W3 S2](../weeks/week-03/session-2.md) | Roll the ball super slow. |
@@ -83,11 +94,16 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 | **Goalpost** | [Cool-down: Goalpost Stretch](../weeks/week-04/session-3.md#cool-down-goalpost-stretch-3-min--cue-goalpost) | [W4 S3](../weeks/week-04/session-3.md) | Arms up like goalposts, squeeze back, sway slowly. |
 | **Hide it!** | [Skill 2: Running with the Ball + Simple Catch](../weeks/week-01/session-4.md#skill-2-running-with-the-ball--simple-catch-6-min) | [W1 S4](../weeks/week-01/session-4.md) | Ball carry |
 | **Hold it up!** | [Skill 1: Flag Pulling — "Break Down, Grab, Rip"](../weeks/week-01/session-4.md#skill-1-flag-pulling--break-down-grab-rip-8-min) | [W1 S4](../weeks/week-01/session-4.md) |  |
+| **Kneel** | [Cool-down: Kneel-Down Stretch](../weeks/week-05/session-3.md#cool-down-kneel-down-stretch-3-min--cue-kneel) | [W5 S3](../weeks/week-05/session-3.md) | Take a knee like a QB and stretch slowly. |
 | **Laces** | [Skill work: "Route Cards" + "Laces Grip" (7yo)](../weeks/week-02/session-4.md#skill-work-7yo-route-cards--laces-grip-10-min) | [W2 S4](../weeks/week-02/session-4.md) | QB grip · 7yo · Daylight under the palm |
+| **Meet** | [Skill Work B: Cut-Off Corner](../weeks/week-05/session-3.md#skill-work-b-cut-off-corner-6-min--cue-meet) | [W5 S3](../weeks/week-05/session-3.md) | Run to where the runner is going and meet him there. |
 | **Moonwalk** | [Warm-up: Moonwalk Backpedal](../weeks/week-03/session-3.md#warm-up-moonwalk-backpedal-5-min--cue-moonwalk) | [W3 S3](../weeks/week-03/session-3.md) | Small quick steps backward, chest forward. |
 | **Phone** | [Skill Work B: Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone) | [W3 S3](../weeks/week-03/session-3.md) | Ball up by my ear like a phone, then step and throw. |
 | **Reach** | [Warm-up: Conveyor Belt Catches](../weeks/week-04/session-3.md#warm-up-conveyor-belt-catches-5-min--cue-reach) | [W4 S3](../weeks/week-04/session-3.md) | Hands out in front to catch while I keep moving. |
+| **Scramble** | [Game: Scramble Showdown](../weeks/week-05/session-3.md#game-scramble-showdown-6-min--cue-scramble) | [W5 S3](../weeks/week-05/session-3.md) | Roll out away from the rusher and find my receiver. |
+| **Sidewinder** | [Warm-up: Sidewinder Shuffle Toss](../weeks/week-05/session-3.md#warm-up-sidewinder-shuffle-toss-5-min--cue-sidewinder) | [W5 S3](../weeks/week-05/session-3.md) | Shuffle sideways like a snake and keep throwing and catching. |
 | **Spot** | [Game: Pick-Six Showdown](../weeks/week-04/session-3.md#game-pick-six-showdown-6-min--cue-spot) | [W4 S3](../weeks/week-04/session-3.md) | Everyone goes to the spot: the QB throws there, I run or break there. |
+| **Square** | [Skill Work A: Rollout Rocket Throws](../weeks/week-05/session-3.md#skill-work-a-rollout-rocket-throws-7-min--cue-square) | [W5 S3](../weeks/week-05/session-3.md) | Turn my chest to the catcher before I throw. |
 | **Starfish** | [Cool-down: Starfish & Seashell](../weeks/week-03/session-3.md#cool-down-starfish--seashell-3-min--cue-starfish) | [W3 S3](../weeks/week-03/session-3.md) | Stretch big and breathe in, curl small and breathe out. |
 | **Walk-through** | [Cool-down: "Playbook Draw"](../weeks/week-02/session-4.md#cool-down-playbook-draw-3-min) | [W2 S4](../weeks/week-02/session-4.md) |  |
 | **Window** | [Skill Work A: Window Handoffs](../weeks/week-03/session-3.md#skill-work-a-window-handoffs-7-min--cue-window) | [W3 S3](../weeks/week-03/session-3.md) | Near elbow up, other arm under. Make a window for the ball. |
@@ -97,6 +113,7 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 
 | Cue | Activity | Week / Session | Cheat-sheet note |
 |---|---|---|---|
+| **Anchor** | [Cool-down: Drop Anchor Breathing](../weeks/week-05/session-5.md#cool-down-drop-anchor-breathing-3-min--cue-anchor) | [W5 S5](../weeks/week-05/session-5.md) | Slow belly breaths: the anchor goes up and down. |
 | **Angel** | [Cool-down: Snow Angel Breaths](../weeks/week-04/session-4.md#cool-down-snow-angel-breaths-3-min--cue-angel) | [W4 S4](../weeks/week-04/session-4.md) | Slow snow angels with big breaths. |
 | **Bacon** | [Game: Wake-Up Bacon Snatch](../weeks/week-04/session-4.md#game-wake-up-bacon-snatch-5-min--cue-bacon) | [W4 S4](../weeks/week-04/session-4.md) | Race to grab the bacon and get it home. |
 | **Be a statue** | [Skill 2: Balance Challenges](../weeks/week-01/session-2.md#skill-2-balance-challenges-6-min) | [W1 S2](../weeks/week-01/session-2.md) | Balance |
@@ -104,6 +121,8 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 | **Candle** | [Cool-down: Jack-o'-Lantern Candle](../weeks/week-04/session-5.md#cool-down-jack-o-lantern-candle-3-min--cue-candle) | [W4 S5](../weeks/week-04/session-5.md) | Breathe out so slowly the candle only flickers. |
 | **Cheek to cheek** | [Skill 1: Running Form — "Cheek to Cheek"](../weeks/week-01/session-1.md#skill-1-running-form--cheek-to-cheek-8-min) | [W1 S1](../weeks/week-01/session-1.md) | Running |
 | **Chop!** | [Game: "Turnaround Races"](../weeks/week-02/session-1.md#game-turnaround-races-5-min) | [W2 S1](../weeks/week-02/session-1.md) | Turn in a race · Both · Tiny steps, crouch, touch |
+| **Glue** | [Skill Work B: Pass-and-Pivot Partners](../weeks/week-05/session-5.md#skill-work-b-pass-and-pivot-partners-6-min--cue-glue) | [W5 S5](../weeks/week-05/session-5.md) | My pivot foot is glued down; I turn on it like a door. |
+| **Hot feet** | [Skill Work A: Chalk Ladder Lightning](../weeks/week-05/session-4.md#skill-work-a-chalk-ladder-lightning-7-min--cue-hot-feet) | [W5 S4](../weeks/week-05/session-4.md) | Quick, light feet in every box, like the ground is hot. |
 | **Knees up** | [Skill 1: Running Form — "Cheek to Cheek"](../weeks/week-01/session-1.md#skill-1-running-form--cheek-to-cheek-8-min) | [W1 S1](../weeks/week-01/session-1.md) |  |
 | **Melt** | [Cool-down: "Melting Snowman"](../weeks/week-02/session-1.md#cool-down-melting-snowman-3-min) | [W2 S1](../weeks/week-02/session-1.md) | Cool-down · Both · You go first, dramatically |
 | **Monster** | [Warm-up: Monster Mash Moves](../weeks/week-04/session-5.md#warm-up-monster-mash-moves-4-min--cue-monster) | [W4 S5](../weeks/week-04/session-5.md) | Move like the monster Dad calls. |
@@ -114,12 +133,17 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 | **Pogo** | [Warm-up: Pogo Stick Bounces](../weeks/week-04/session-4.md#warm-up-pogo-stick-bounces-5-min--cue-pogo) | [W4 S4](../weeks/week-04/session-4.md) | Small, quick, springy bounces on my toes. |
 | **Pounce** | [Game: Pounce](../weeks/week-03/session-4.md#game-pounce-6-min--cue-pounce) | [W3 S4](../weeks/week-03/session-4.md) | Explode to the ball and catch it after one bounce. |
 | **Puppet** | [Warm-up: Puppet Skips](../weeks/week-03/session-4.md#warm-up-puppet-skips-5-min--cue-puppet) | [W3 S4](../weeks/week-03/session-4.md) | Skip high, a string pulls my knee and opposite hand up. |
+| **Push** | [Warm-up: Dribble Traffic Cop](../weeks/week-05/session-4.md#warm-up-dribble-traffic-cop-5-min--cue-push) | [W5 S4](../weeks/week-05/session-4.md) | Push the ball down with my fingertips. |
 | **Skater** | [Skill Work B: Skater Bounds](../weeks/week-03/session-4.md#skill-work-b-skater-bounds-5-min--cue-skater) | [W3 S4](../weeks/week-03/session-4.md) | Bound sideways onto one foot like a speed skater and stick it. |
 | **Sloth** | [Cool-down: Sloth Crawl Tunnel](../weeks/week-03/session-4.md#cool-down-sloth-crawl-tunnel-3-min--cue-sloth) | [W3 S4](../weeks/week-03/session-4.md) | Super slow crawl, opposite hand and knee. |
+| **Snake** | [Game: Snake & Helicopter](../weeks/week-05/session-4.md#game-snake--helicopter-6-min--cue-snake) | [W5 S4](../weeks/week-05/session-4.md) | Jump the rope snake without getting bitten. |
 | **Spring** | [Skill Work A: Hopscotch Hustle](../weeks/week-04/session-4.md#skill-work-a-hopscotch-hustle-7-min--cue-spring) | [W4 S4](../weeks/week-04/session-4.md) | Light, bouncy one-foot hops, knee over my shoelace. |
 | **Statue!** | [Flamingo Stand](../weeks/week-01/session-5.md) | [W1 S5](../weeks/week-01/session-5.md) |  |
 | **Step-hop** | [Warm-up: "Skip & Hop Trail"](../weeks/week-02/session-2.md#warm-up-skip--hop-trail-5-min) | [W2 S2](../weeks/week-02/session-2.md) | Skip · Both · Slow skip with leg taps |
 | **Step-hop** | [Warm-up: "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min) | [W2 S5](../weeks/week-02/session-5.md) | Skip · Both · Slow skip with leg taps |
+| **Sunset** | [Cool-down: Sunset Stretch](../weeks/week-05/session-4.md#cool-down-sunset-stretch-4-min--cue-sunset) | [W5 S4](../weeks/week-05/session-4.md) | Lower my arms slowly like the sun going down. |
+| **Swing-hop** | [Skill Work B: Rope Rookie Jumps](../weeks/week-05/session-4.md#skill-work-b-rope-rookie-jumps-6-min--cue-swing-hop) | [W5 S4](../weeks/week-05/session-4.md) | Swing the rope over, then hop. |
+| **Switch** | [Warm-up: Four-Corner Sport Switch](../weeks/week-05/session-5.md#warm-up-four-corner-sport-switch-4-min--cue-switch) | [W5 S5](../weeks/week-05/session-5.md) | Change direction to a new sport corner. |
 | **Timber!** | [Warm-up: "Timber Starts"](../weeks/week-02/session-1.md#warm-up-timber-starts-5-min) | [W2 S1](../weeks/week-02/session-1.md) | Lean-and-go start · 7yo · Stiff body tips forward → sprint |
 | **Timber** | [Warm-up: "Movement Dice"](../weeks/week-02/session-5.md#warm-up-movement-dice-4-min) | [W2 S5](../weeks/week-02/session-5.md) | Lean-and-go start · 7yo · Stiff body tips forward → sprint |
 | **Tummy tight** | [Skill 2: Balance Challenges](../weeks/week-01/session-2.md#skill-2-balance-challenges-6-min) | [W1 S2](../weeks/week-01/session-2.md) | Balance |
@@ -133,6 +157,7 @@ Grouped by sport (the sport of the activity), alphabetical within each sport. So
 |---|---|---|---|
 | **Best thing** | [Cool-down: "Week Wrap Circle"](../weeks/week-02/session-5.md#cool-down-week-wrap-circle-4-min) | [W2 S5](../weeks/week-02/session-5.md) |  |
 | **Coach's word?** | [Skill work: "Coach Big Brother"](../weeks/week-02/session-5.md#skill-work-coach-big-brother-the-full-teach-back-10-min) | [W2 S5](../weeks/week-02/session-5.md) | Teach-back · 7yo · Zip lips → demo |
+| **Gold** | [Game: One-Eyed Willy's Treasure Trail](../weeks/week-05/session-5.md#game-one-eyed-willys-treasure-trail-8-min--cue-gold) | [W5 S5](../weeks/week-05/session-5.md) | Do the station clean and earn gold for the team. |
 | **Replay** | [Cool-down: Highlight Replay](../weeks/week-03/session-5.md#cool-down-highlight-replay-3-min--cue-replay) | [W3 S5](../weeks/week-03/session-5.md) | Picture my best play in slow motion. |
 | **Treat** | [Game: Haunted House Gauntlet](../weeks/week-04/session-5.md#game-haunted-house-gauntlet-8-min--cue-treat) | [W4 S5](../weeks/week-04/session-5.md) | Do it clean and earn a treat for the team. |
 

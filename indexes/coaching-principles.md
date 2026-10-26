@@ -12,6 +12,7 @@ The general teaching habits from each week, quoted from the weekly plans, then t
 - [Week 2 teaching habits](#week-2-teaching-habits)
 - [Week 3 teaching habits](#week-3-teaching-habits)
 - [Week 4 teaching habits](#week-4-teaching-habits)
+- [Week 5 teaching habits](#week-5-teaching-habits)
 - [Learning ideas behind the drills](#learning-ideas-behind-the-drills)
 
 ## Week 1 teaching habits
@@ -127,6 +128,22 @@ Every activity uses the same layout: **Steps → Cue → Silent demo → Errors 
 
 **New this week, the "change one thing" rule:** when something isn't working, change *one* thing about the setup (distance, ball size, speed, target size) instead of explaining more. If the 5yo keeps missing, move closer or use a bigger ball. If the 7yo is bored, make the target smaller or add a defender. Adjusting the task is almost always faster than adjusting the kid.
 
+## Week 5 teaching habits
+
+*From the [Week 5 overview](../weeks/week-05/README.md).*
+
+**Three rules for the whole week:**
+1. **Teach both jobs.** Every partner skill has a giver and a getter (thrower and first baseman, passer and runner, QB and receiver). Teach the *getter's* job first, since that's the one kids forget. Then swap jobs every few reps so each boy feels both sides.
+2. **One cue word per activity.** Same as always: only that word while they're moving. Say it *before* the rep. If you catch yourself saying a sentence, stop and say the word.
+3. **One level each.** Each session lists one level for the 5yo and one for the 7yo. Start them there. Move up after about 4 successes out of 5; move down after 3 misses in a row. Change the setup quietly (distance, speed, ball size). No discussion.
+
+**How to teach this week (whole-part-whole).** Teaching is hard because you already *see* the whole play in your head, and the boys don't yet. Instead of building up from tiny pieces, try this three-step sandwich:
+1. **Whole (2 minutes):** play a simple version of the real thing right away, even if it's messy. Example: a 2v1 against you before any passing drill. Watch for the *one* thing that breaks down most.
+2. **Part (4 to 6 minutes):** pull out just that one piece and practice it with a silent demo and one cue word. Example: the give-and-go against a cone.
+3. **Whole again (the game):** put it right back into the game. Now they have a reason to use the part, and you'll see it show up.
+
+**New this week, effort-praise scripts:** with partner skills, praise the *job*, not the kid's talent. Swap "You're a natural first baseman!" for "You kept your foot on the bag and stretched. That's why it was an out." Swap "Good job" for "You ran to get it back after your pass. That's a one-two!" Specific effort praise ("you did X, and that's why Y happened") makes kids keep trying when things get hard; talent praise ("you're so good") makes them avoid hard things so they don't stop looking good.
+
 ## Learning ideas behind the drills
 
 Each idea links to the activities whose "Why it works" note uses it, with the sentence that says so.
@@ -141,6 +158,7 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W3 S4 · Whisper Landings](../weeks/week-03/session-4.md#skill-work-a-whisper-landings-6-min--cue-whisper): The "quiet" target is an **external focus** that naturally creates soft, bent-knee landings without a list of joint instructions.
 - [W4 S1 · Laser Gate Front Toss](../weeks/week-04/session-1.md#skill-work-a-laser-gate-front-toss-8-min--cue-laser): Aiming at a gate is an **external focus**.
 - [W4 S3 · Landing-Zone Lead Passes](../weeks/week-04/session-3.md#skill-work-a-landing-zone-lead-passes-7-min--cue-ahead): That's an **external focus** and a simpler problem.
+- [W5 S1 · Glove-Down Tags](../weeks/week-05/session-1.md#skill-work-b-glove-down-tags-6-min--cue-doorstep): A fixed target (the doorstep) is an **external focus** that replaces a long explanation about glove angles.
 
 ### Analogy / implicit learning
 
@@ -165,6 +183,8 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W3 S5 · Tape Run-Throughs](../weeks/week-03/session-5.md#skill-work-b-tape-run-throughs-5-min--cue-tape): Moving the finish line past the base (**a constraint on the environment**) fixes it in a few reps without explanation.
 - [W4 S1 · Laser Gate Front Toss](../weeks/week-04/session-1.md#skill-work-a-laser-gate-front-toss-8-min--cue-laser): The "no moonballs" scoring is a **constraint** that rewards line drives without a lecture.
 - [W4 S2 · Slice-Away Escape](../weeks/week-04/session-2.md#skill-work-b-slice-away-escape-6-min--cue-slice): The lava line is a visual **constraint** that sets the timing for him.
+- [W5 S2 · Two Against the Giant](../weeks/week-05/session-2.md#game-two-against-the-giant-7-min--cue-buddy): This is a **small-sided game** with a scoring **constraint** that rewards passing.
+- [W5 S5 · Pass-and-Pivot Partners](../weeks/week-05/session-5.md#skill-work-b-pass-and-pivot-partners-6-min--cue-glue): The plate under the pivot foot is a **constraint** that teaches the rule without a lecture, and "thumbs down" gives a clear picture of a good push.
 
 ### Whole-part-whole / part practice
 
@@ -175,6 +195,7 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W3 S3 · Phone Call Throws](../weeks/week-03/session-3.md#skill-work-b-phone-call-throws-6-min--cue-phone): That's a **part-practice** step, and then you go straight back to the whole throw.
 - [W3 S5 · The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next): This is **whole practice**: the skills from the whole week chained together in a game-like order, which is how they show up in real baseball.
 - [W4 S1 · Field-and-Fire to First](../weeks/week-04/session-1.md#skill-work-b-field-and-fire-to-first-7-min--cue-tick-tock): Now they're joined into one move (**whole practice**).
+- [W5 S2 · Bounce-Back One-Two](../weeks/week-05/session-2.md#skill-work-a-bounce-back-one-two-7-min--cue-one-two): Starting with the 2v1 "whole" shows the boys the problem before they see the solution, which is **whole-part-whole** in action.
 
 ### Contrast (show wrong vs. right)
 
@@ -209,6 +230,7 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 
 - [W2 S5 · "Triple Threat Course"](../weeks/week-02/session-5.md#game-triple-threat-course-5-min): Timing against himself keeps the 5yo from comparing himself to his older brother.
 - [W3 S5 · The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next): Team scoring against a target number avoids a 7-vs-5 contest the younger one will always lose, which keeps the motivation **cooperative**.
+- [W5 S5 · One-Eyed Willy's Treasure Trail](../weeks/week-05/session-5.md#game-one-eyed-willys-treasure-trail-8-min--cue-gold): Team scoring keeps it cooperative, and the 7yo's "treasure keeper" job practices praising a teammate, a skill your team needs as much as any throw.
 
 ### Variable practice
 
@@ -217,6 +239,7 @@ Each idea links to the activities whose "Why it works" note uses it, with the se
 - [W3 S5 · The Backyard Triple Crown](../weeks/week-03/session-5.md#game-the-backyard-triple-crown-8-min--cue-next): Mixing different skills in one game (**variable practice**) feels harder now but makes learning stick better later.
 - [W4 S4 · Wake-Up Starts](../weeks/week-04/session-4.md#skill-work-b-wake-up-starts-6-min--cue-blastoff): Many different starting positions is **variable practice**, which builds an adaptable athlete rather than one who can only start from a set stance.
 - [W4 S5 · Ghost Defender Finishing](../weeks/week-04/session-5.md#skill-work-b-ghost-defender-finishing-6-min--cue-boo): That's **variable practice**: same skill, different setting. "Boo" is a timing trigger.
+- [W5 S1 · Stretch & Squeeze at First](../weeks/week-05/session-1.md#skill-work-a-stretch--squeeze-at-first-8-min--cue-stretch): Mixing throw locations is **variable practice**, which builds a more adaptable catcher than 20 perfect throws.
 
 ### Instant feedback
 
